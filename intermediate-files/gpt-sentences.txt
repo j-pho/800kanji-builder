@@ -592,7 +592,7 @@
 (造形)	彼の造形作品は美しいです。	かれのぞうけいさくひんはうつくしいです。	His sculptures are beautiful.
 (造成)	新しい公園が造成されました。	あたらしいこうえんがぞうせいされました。	A new park has been developed.
 (英)	彼は英語が得意です。	かれはえいごがとくいです。	He is good at English.
-(英語) 彼女は英語を話せますか？ かのじょはえいごをはなせますか？ Can she speak English?
+(英語)	彼女は英語を話せますか？	かのじょはえいごをはなせますか？	Can she speak English?
 (英雄)	その戦士は英雄として称えられた。	そのせんしはえいゆうとしてたたえられた。	The warrior was hailed as a hero.
 (育英)	彼は貧しい子供たちの育英に尽力している。	かれはまずしいこどもたちのいくえいにじんりょくしている。	He is devoted to the education of underprivileged children.
 (英文)	彼は英文学の専門家です。	かれはえいぶんがくのせんもんかです。	He is an expert in English literature.
@@ -637,7 +637,7 @@
 (頭痛)	彼女は頭痛を訴えています。	かのじょはずつうをうったえています。	She is complaining of a headache.
 (技)	彼は多くの技を持っています。	かれはおおくのわざをもっています。	He has many skills.
 (技術)	彼は高度な技術を持っています。	かれはこうどなぎじゅつをもっています。	He has advanced technical skills.
-(競技) 彼は何種類の競技に参加していますか？ かれはなんしゅるいのきょうぎにさんかしていますか？ What kind of sports does he participate in?
+(競技)	彼は何種類の競技に参加していますか？	かれはなんしゅるいのきょうぎにさんかしていますか？	What kind of sports does he participate in?
 (演技)	彼女の演技は感動的だった。	かのじょのえんぎはかんどうてきだった。	Her performance was moving.
 (技術者)	その会社には優秀な技術者が多い。	そのかいしゃにはゆうしゅうなぎじゅつしゃがおおい。	The company has many excellent engineers.
 (科学技術庁)	科学技術庁は技術の進歩を支援しています。	かがくぎじゅつちょうはぎじゅつのしんぽをしえんしています。	The Japan Science and Technology Agency supports technological advancement.
@@ -690,7 +690,7 @@
 (復元)	彼の健康は復元された。	かれのけんこうはふくげんされた。	His health has been restored.
 (仕)	彼の仕事は大変です。	かれのしごとはたいへんです。	His job is tough.
 (仕事)	私の仕事はコンピュータ関連です。	わたしのしごとはこんぴゅーたかんれんです。	My job is computer-related.
-(仕組み) その機械の仕組みを理解していますか？ そのきかいのしくみをりかいしていますか？ Do you understand how the machine works?
+(仕組み)	その機械の仕組みを理解していますか？	そのきかいのしくみをりかいしていますか？	Do you understand how the machine works?
 (仕方)	仕方がないと諦めた。	しかたがないとあきらめた。	I gave up because there was no other way.
 (仕掛け)	彼は仕掛けが上手です。	かれはしかけがじょうずです。	He is good at making things.
 (仕手)	彼は株式市場の仕手です。	かれはかぶしきしじょうのしてです。	He is a player in the stock market.
@@ -767,7 +767,7 @@
 (譲渡)	彼は土地の所有権を譲渡した。	かれはとちのしょゆうけんをじょうとした。	He transferred ownership of the land.
 (渡す)	彼は私に手紙を渡した。	かれはわたしにてがみをわたした。	He handed me the letter.
 (言い渡す)	裁判官は有罪判決を言い渡した。	さいばんかんはゆうざいはんけつをいいわたした。	The judge delivered a guilty verdict.
-(渡航) 渡航予定を変更する必要がありますか？ とこうよていをへんこうするひつようがありますか？ Do we need to change our travel plans?
+(渡航)	渡航予定を変更する必要がありますか？	とこうよていをへんこうするひつようがありますか？	Do we need to change our travel plans?
 (引き渡し)	彼は逮捕され、他の国に引き渡された。	かれはたいほされ、ほかのくににひきわたされた。	He was arrested and extradited to another country.
 (渡り)	渡り鳥が南へ渡ります。	わたりどりがみなみへわたります。	Migratory birds fly south.
 (橋渡し)	彼は交渉の橋渡しをした。	かれはこうしょうのはしわたしをした。	He mediated the negotiation.
@@ -1019,7 +1019,7 @@
 (総量)	総量が増加しています。	そうりょうがぞうかしています。	The total amount is increasing.
 (裁量)	そのプロジェクトには裁量が与えられています。	そのぷろじぇくとにはさいりょうがあたえられています。	The project has been given discretion.
 (軽量)	このカメラは軽量で持ち運びが簡単です。	このかめらはけいりょうでもちはこびがかんたんです。	This camera is lightweight and easy to carry around.
-(容量) この容器の容量は何ですか？ このようきのようりょうはなんですか？ What is the capacity of this container?
+(容量)	この容器の容量は何ですか？	このようきのようりょうはなんですか？	What is the capacity of this container?
 (減量)	ダイエット中には減量が必要です。	だいえっとちゅうにはげんりょうがひつようです。	Weight loss is necessary during a diet.
 (力量)	彼にはその仕事をこなす力量がある。	かれにはそのしごとをこなすりょくりょうがある。	He has the ability to handle the job.
 (多量)	彼は多量の情報を処理できる。	かれはたりょうのじょうほうをしょりできる。	He can process large amounts of information.
@@ -1251,7 +1251,7 @@
 (音)	その音が不気味だった。	そのおとがぶきみだった。	The sound was eerie.
 (音)	その音は消えた。	そのおとはきえた。	The sound disappeared.
 (音楽)	音楽を聴くことは私の楽しみです。	おんがくをきくことはわたしのたのしみです。	Listening to music is my pleasure.
-(本音) 彼女の本音は何だろう？ かのじょのほんねはなんだろう？ What is her true feeling?
+(本音)	彼女の本音は何だろう？	かのじょのほんねはなんだろう？	What is her true feeling?
 (騒音)	その場所は騒音で有名だ。	そのばしょはそうおんでゆうめいだ。	The place is famous for its noise.
 (音声)	音声メッセージを受け取った。	おんせいメッセージをうけとった。	I received a voice message.
 (六十四分音符)	この曲は六十四分音符で書かれている。	このきょくはろくじゅうよんぶおんぷでかかれている。	This piece is written in sixty-fourth notes.
@@ -2825,7 +2825,7 @@
 (本因坊)	本因坊は囲碁の世界で最も尊敬される称号の一つです。	ほんいんぼうはいごのせかいでもっともそんけいされるしょうごうのひとつです。	Honinbo is one of the most respected titles in the world of Go.		
 (死因)	死因はまだ特定されていません。	しいんはまだとくていされていません。	The cause of death has not been determined yet.		
 (一因)	彼の成功の一因は良い教育でした。	かれのせいこうのいちいんはよいきょういくでした。	One factor of his success was good education.		
-(因果) 因果応報という言葉を聞いたことがありますか？ いんがおうほうということばをきいたことがありますか？ Have you heard of the phrase "karma"?		
+(因果)	因果応報という言葉を聞いたことがありますか？	いんがおうほうということばをきいたことがありますか？	Have you heard of the phrase "karma"?		
 (敗因)	我々の敗因は明確ではありません。	われわれのはいいんはめいかくではありません。	Our reasons for failure are not clear.		
 (主因)	彼はこのプロジェクトの主因です。	かれはこのぷろじぇくとのしゅいんです。	He is the main cause of this project.		
 (因子)	その遺伝子は病気の因子と関連しています。	そのいでんしはびょうきのいんしとかんれんしています。	That gene is associated with disease factors.		
@@ -3556,7 +3556,7 @@
 (主張)	彼は環境保護を主張しています。	かれはかんきょうほごをしゅちょうしています。	He advocates for environmental protection.
 (緊張)	彼は面接で緊張しています。	かれはめんせつできんちょうしています。	He is nervous in the interview.
 (張り)	その橋は張りが強いです。	そのはしははりがつよいです。	The bridge has strong tension.
-(頑張って) 明日の試験、頑張ってね！ あしたのしけん、がんばってね！ Good luck on tomorrow's exam!
+(頑張って)	明日の試験、頑張ってね！	あしたのしけん、がんばってね！	Good luck on tomorrow's exam!
 (出張)	彼は仕事で出張しています。	かれはしごとでしゅっちょうしています。	He is on a business trip.
 (張る)	彼は壁に絵を張りました。	かれはかべにえをはりました。	He hung a picture on the wall.
 (拡張)	その道路は拡張されました。	そのどうろはかくちょうされました。	The road was expanded.
@@ -3638,11 +3638,11 @@
 (経験者)	その仕事には経験者が必要です。	そのしごとにはけいけんしゃがひつようです。	Experience is necessary for that job.
 (核実験)	その国は核実験を実施しました。	そのくにはかくじっけんをじっしした。	The country conducted a nuclear test.
 (国家試験)	彼は国家試験に合格しました。	かれはこっかしけんにごうかくしました。	He passed the national exam.
-(試験場) 試験場はどこですか？ しけんじょうはどこですか？ Where is the examination hall?
+(試験場)	試験場はどこですか？	しけんじょうはどこですか？	Where is the examination hall?
 (実験室)	その実験室は最新の設備が整っています。	そのじっけんしつはさいしんのせつびがととのっています。	The laboratory is equipped with the latest facilities.
 (追)	彼は犬を追って走った。	かれはいぬをおってはしった。	He ran after the dog.
 (追う)	彼は彼女を追いかけました。	かれはかのじょをおいかけました。	He chased after her.
-(追加) 追加料金がかかりますか？ ついかりょうきんがかかりますか？ Is there an additional charge?
+(追加)	追加料金がかかりますか？	ついかりょうきんがかかりますか？	Is there an additional charge?
 (追い込む)	彼は自分を追い込みました。	かれはじぶんをおいこみました。	He pushed himself to the limit.
 (追及)	彼は真実を追及しました。	かれはしんじつをついきゅうしました。	He pursued the truth.
 (追放)	彼はその地域から追放されました。	かれはそのちいきからついほうされました。	He was expelled from the area.
@@ -3660,7 +3660,7 @@
 (不審)	彼の行動は不審です。	かれのこうどうはふしんです。	His behavior is suspicious.
 (陪審)	その事件は陪審裁判で裁かれました。	そのじけんはばいしんさいばんでさばかれました。	The case was tried by a jury trial.
 (再審)	彼の無実が認められ、再審が行われました。	かれのむじつがみとめられ、さいしんがおこなわれました。	His innocence was recognized, and a retrial was held.
-(主審) その試合の主審は誰ですか？ そのしあいのしゅしんはだれですか？ Who is the main referee of the match?
+(主審)	その試合の主審は誰ですか？	そのしあいのしゅしんはだれですか？	Who is the main referee of the match?
 (上告審)	その判決は上告審に持ち込まれました。	そのはんけつはじょうこくしんにもちこまれました。	The verdict was appealed to the appellate court.
 (商)	彼は商売で成功しました。	かれはしょうばいでせいこうしました。	He succeeded in business.
 (商)	商業はこの町の主要産業です。	しょうぎょうはこのまちのしゅようさんぎょうです。	Commerce is the main industry in this town.
@@ -3764,7 +3764,7 @@
 (担)	彼はプロジェクトの責任を担っています。	かれはぷろじぇくとのせきにんをになっています。	He is responsible for the project.
 (担当)	彼はこの件の担当者です。	かれはこのけんのたんとうしゃです。	He is in charge of this matter.
 (負担)	彼は多くの負担を抱えています。	かれはおおくのふたんをかかえています。	He bears a heavy burden.
-(担当者) この問題の担当者は誰ですか？ このもんだいのたんとうしゃはだれですか？ Who is in charge of this issue?
+(担当者)	この問題の担当者は誰ですか？	このもんだいのたんとうしゃはだれですか？	Who is in charge of this issue?
 (担保)	その取引は不動産を担保にしている。	そのとりひきはふどうさんをたんぽにしている。	The transaction is secured by real estate.
 (分担)	プロジェクトの仕事を分担しました。	ぷろじぇくとのしごとをぶんたんしました。	We divided the work of the project.
 (担任)	彼は学校で私の担任です。	かれはがっこうでわたしのたんにんです。	He is my homeroom teacher at school.
@@ -4797,7 +4797,7 @@
 (値)	その商品の値段は高いです。	そのしょうひんのねだんはたかいです。	The price of the product is high.
 (価値)	友情の価値は計り知れません。	ゆうじょうのかちははかりしれません。	The value of friendship is immeasurable.
 (値上げ)	今月から価格が値上げされます。	こんげつからかかくがねあげされます。	Prices will be raised starting this month.
-(終値) 株価の終値を確認しましたか？ かぶかのしゅうちをかくにんしましたか？ Did you check the closing price of the stocks?
+(終値)	株価の終値を確認しましたか？	かぶかのしゅうちをかくにんしましたか？	Did you check the closing price of the stocks?
 (値段)	この商品の値段は手頃です。	このしょうひんのねだんはてごろです。	The price of this product is reasonable.
 (数値)	その計算には正確な数値が必要です。	そのけいさんにはせいかくなすうちがひつようです。	Accurate numerical values are needed for that calculation.
 (価値観)	彼女は独自の価値観を持っています。	かのじょはどくじのかちかんをもっています。	She has her own values ​​and beliefs.
@@ -5856,13 +5856,13 @@
 (振り返る)	彼は振り返って私に微笑んだ。	かれはふりかえってわたしにほほえんだ。	He turned around and smiled at me.
 (振替)	予定が変更されて振替日が決まりました。	よていがへんこうされてふりかえびがきまりました。	The schedule changed, and the alternate date has been decided.
 (振り回す)	彼は問題を振り回すのが得意です。	かれはもんだいをふりまわすのがとくいです。	He's good at stirring up trouble.
-(振り込み) 振り込み手数料がかかりますか？ ふりこみてすうりょうがかかりますか？ Is there a fee for bank transfer?
+(振り込み)	振り込み手数料がかかりますか？	ふりこみてすうりょうがかかりますか？	Is there a fee for bank transfer?
 (給)	毎月給料を受け取ります。	まいつききゅうりょうをうけとります。	I receive my salary every month.
 (供給)	市場には需要と供給のバランスが必要です。	しじょうにはじゅようときょうきゅうのバランスがひつようです。	The market needs a balance between supply and demand.
 (給与)	新しい仕事で高い給与を得ることができました。	あたらしいしごとでたかいきゅうよをえることができました。	I was able to earn a high salary in my new job.
 (支給)	手当は毎月支給されます。	てあてはまいつきしきゅうされます。	Allowances are paid out monthly.
 (給食)	子供たちは学校で給食を食べます。	こどもたちはがっこうできゅうしょくをたべます。	Children eat school lunches at school.
-(給料) この仕事の給料は良いですか？ このしごとのきゅうりょうはいいですか？ Is the salary for this job good?
+(給料)	この仕事の給料は良いですか？	このしごとのきゅうりょうはいいですか？	Is the salary for this job good?
 (需給)	市場の需給バランスを調整する必要があります。	しじょうのじゅきゅうバランスをちょうせいするひつようがあります。	We need to adjust the supply and demand balance in the market.
 (給付)	社会保険給付を受ける資格があります。	しゃかいほけんきゅうふをうけるしかくがあります。	You are eligible to receive social insurance benefits.
 (配給)	戦時中、食料は配給されました。	せんじちゅう、しょくりょうははいきゅうされました。	During the war, food was rationed.
@@ -5891,9 +5891,9 @@
 (介する)	彼は交渉に介入することを決めました。	かれはこうしょうにかいにゅうすることをきめました。	He decided to intervene in the negotiations.
 (媒介)	彼らは和解の媒介者として働きました。	かれらはわかいのかいかいしゃとしてはたらきました。	They worked as mediators for reconciliation.
 (読)	新聞を毎日読んでいます。	しんぶんをまいにちよんでいます。	I read the newspaper every day.
-(読み) その漢字の読み方を知っていますか？ そのかんじのよみかたをしっていますか？ Do you know how to read that kanji?
+(読み)	その漢字の読み方を知っていますか？	そのかんじのよみかたをしっていますか？	Do you know how to read that kanji?
 (読者)	その本は多くの読者に支持されています。	そのほんはおおくのどくしゃにしじされています。	That book is supported by many readers.
-(読書) 彼は読書が好きですか？ かれはどくしょがすきですか？ Does he like reading?
+(読書)	彼は読書が好きですか？	かれはどくしょがすきですか？	Does he like reading?
 (読む)	彼女は夜遅くまで本を読んでいる。	かのじょはよるおそくまでほんをよんでいる。	She reads books late into the night.
 (積ん読)	私は積ん読を減らすことを決めました。	わたしはつんどくをへらすことをきめました。	I decided to reduce my pile of unread books.
 (読売)	読売新聞は日本で最も有名な新聞の一つです。	よみうりしんぶんはにほんでもっともゆうめいなしんぶんのひとつです。	Yomiuri Shimbun is one of the most famous newspapers in Japan.
