@@ -22,8 +22,8 @@ func splitter() {
 		F1  = "formatted-au-hke.txt"
 		F2  = "formatted-e-khau.txt"
 		F3  = "formatted-k-auhe.txt"
-		F4  = "merge4.txt"
-		F5  = "merge5.txt"
+		F4  = "formatted-sent-au-khe.txt"
+		F5  = "formatted-sent-k-auhe.txt"
 		OUT = "merged-kanji-cards.txt"
 	)
 

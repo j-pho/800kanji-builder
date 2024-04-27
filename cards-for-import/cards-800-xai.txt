@@ -1,0 +1,2000 @@
+[sound:k8-3201_花輪.mp3]	花輪 <br> はなわ <br> wreath, garland
+wreath, garland	花輪 <br> はなわ <br> [sound:k8-3201_花輪.mp3]
+花輪	[sound:k8-3201_花輪.mp3] <br> はなわ <br> wreath, garland
+[sound:s8-3201_最適な解決策を見つける。.mp3]	<b>(最適)</b> <br> 最適な解決策を見つける。<br> さいてきなかいけつさくをみつける。 <br> Find the optimal solution.			
+<b>(最適)</b> <br> 最適な解決策を見つける。	[sound:s8-3201_最適な解決策を見つける。.mp3] <br> さいてきなかいけつさくをみつける。 <br> Find the optimal solution.			
+[sound:k8-3202_占.mp3]	占 <br> (kun: し.める, うらな.う; on: セン) <br> fortune-telling, divining, forecasting, occupy, hold, have, get, take
+fortune-telling, divining, forecasting, occupy, hold, have, get, take	占 <br> (kun: し.める, うらな.う; on: セン) <br> [sound:k8-3202_占.mp3]
+占	[sound:k8-3202_占.mp3] <br> (kun: し.める, うらな.う; on: セン) <br> fortune-telling, divining, forecasting, occupy, hold, have, get, take
+[sound:s8-3202_新しい環境に適応する。.mp3]	<b>(適応)</b> <br> 新しい環境に適応する。<br> あたらしいかんきょうにてきおうする。 <br> Adapt to the new environment.			
+<b>(適応)</b> <br> 新しい環境に適応する。	[sound:s8-3202_新しい環境に適応する。.mp3] <br> あたらしいかんきょうにてきおうする。 <br> Adapt to the new environment.			
+[sound:k8-3203_占領.mp3]	占領 <br> せんりょう <br> occupation, capture, possession, have a room to oneself
+occupation, capture, possession, have a room to oneself	占領 <br> せんりょう <br> [sound:k8-3203_占領.mp3]
+占領	[sound:k8-3203_占領.mp3] <br> せんりょう <br> occupation, capture, possession, have a room to oneself
+[sound:s8-3203_適法な手続きを踏む。.mp3]	<b>(適法)</b> <br> 適法な手続きを踏む。<br> てきほうなてつづきをふむ。 <br> Follow legal procedures.			
+<b>(適法)</b> <br> 適法な手続きを踏む。	[sound:s8-3203_適法な手続きを踏む。.mp3] <br> てきほうなてつづきをふむ。 <br> Follow legal procedures.			
+[sound:k8-3204_独占.mp3]	独占 <br> どくせん <br> monopoly; to monopolize, to hog
+monopoly; to monopolize, to hog	独占 <br> どくせん <br> [sound:k8-3204_独占.mp3]
+独占	[sound:k8-3204_独占.mp3] <br> どくせん <br> monopoly; to monopolize, to hog
+[sound:s8-3204_その人物が適格かどうか検討する。.mp3]	<b>(適格)</b> <br> その人物が適格かどうか検討する。<br> そのじんぶつがてきかくかどうかけんとうする。 <br> Examine whether the person is suitable or not.			
+<b>(適格)</b> <br> その人物が適格かどうか検討する。	[sound:s8-3204_その人物が適格かどうか検討する。.mp3] <br> そのじんぶつがてきかくかどうかけんとうする。 <br> Examine whether the person is suitable or not.			
+[sound:k8-3205_占い.mp3]	占い <br> うらない <br> fortune-telling, divination
+fortune-telling, divination	占い <br> うらない <br> [sound:k8-3205_占い.mp3]
+占い	[sound:k8-3205_占い.mp3] <br> うらない <br> fortune-telling, divination
+[sound:s8-3205_専業主婦として働く。.mp3]	<b>(婦)</b> <br> 専業主婦として働く。<br> せんぎょうしゅふとしてはたらく。 <br> Work as a full-time housewife.			
+<b>(婦)</b> <br> 専業主婦として働く。	[sound:s8-3205_専業主婦として働く。.mp3] <br> せんぎょうしゅふとしてはたらく。 <br> Work as a full-time housewife.			
+[sound:k8-3206_買い占め.mp3]	買い占め <br> かいしめ <br> buying up of goods, cornering (market)
+buying up of goods, cornering (market)	買い占め <br> かいしめ <br> [sound:k8-3206_買い占め.mp3]
+買い占め	[sound:k8-3206_買い占め.mp3] <br> かいしめ <br> buying up of goods, cornering (market)
+[sound:s8-3206_主婦業をこなす。.mp3]	<b>(主婦)</b> <br> 主婦業をこなす。<br> しゅふぎょうをこなす。 <br> Manage household chores.			
+<b>(主婦)</b> <br> 主婦業をこなす。	[sound:s8-3206_主婦業をこなす。.mp3] <br> しゅふぎょうをこなす。 <br> Manage household chores.			
+[sound:k8-3207_買い占める.mp3]	買い占める <br> かいしめる <br> to buy up
+to buy up	買い占める <br> かいしめる <br> [sound:k8-3207_買い占める.mp3]
+買い占める	[sound:k8-3207_買い占める.mp3] <br> かいしめる <br> to buy up
+[sound:s8-3207_夫婦円満な関係を築く。.mp3]	<b>(夫婦)</b> <br> 夫婦円満な関係を築く。<br> ふうふえんまんなかんけいをきずく。 <br> Build a harmonious relationship as a married couple.			
+<b>(夫婦)</b> <br> 夫婦円満な関係を築く。	[sound:s8-3207_夫婦円満な関係を築く。.mp3] <br> ふうふえんまんなかんけいをきずく。 <br> Build a harmonious relationship as a married couple.			
+[sound:k8-3208_占拠.mp3]	占拠 <br> せんきょ <br> occupation
+occupation	占拠 <br> せんきょ <br> [sound:k8-3208_占拠.mp3]
+占拠	[sound:k8-3208_占拠.mp3] <br> せんきょ <br> occupation
+[sound:s8-3208_看護婦として働く。.mp3]	<b>(看護婦)</b> <br> 看護婦として働く。<br> かんごふとしてはたらく。 <br> Work as a nurse.			
+<b>(看護婦)</b> <br> 看護婦として働く。	[sound:s8-3208_看護婦として働く。.mp3] <br> かんごふとしてはたらく。 <br> Work as a nurse.			
+[sound:k8-3209_寡占.mp3]	寡占 <br> かせん <br> oligopoly
+oligopoly	寡占 <br> かせん <br> [sound:k8-3209_寡占.mp3]
+寡占	[sound:k8-3209_寡占.mp3] <br> かせん <br> oligopoly
+[sound:s8-3209_婦人の権利を守る。.mp3]	<b>(婦人)</b> <br> 婦人の権利を守る。<br> ふじんのけんりをまもる。 <br> Protect women's rights.			
+<b>(婦人)</b> <br> 婦人の権利を守る。	[sound:s8-3209_婦人の権利を守る。.mp3] <br> ふじんのけんりをまもる。 <br> Protect women's rights.			
+[sound:k8-3210_占う.mp3]	占う <br> うらなう <br> to forecast, to predict
+to forecast, to predict	占う <br> うらなう <br> [sound:k8-3210_占う.mp3]
+占う	[sound:k8-3210_占う.mp3] <br> うらなう <br> to forecast, to predict
+[sound:s8-3210_産婦人科医に相談する。.mp3]	<b>(産婦人科)</b> <br> 産婦人科医に相談する。<br> さんふじんかいにそうだんする。 <br> Consult an obstetrician and gynecologist.			
+<b>(産婦人科)</b> <br> 産婦人科医に相談する。	[sound:s8-3210_産婦人科医に相談する。.mp3] <br> さんふじんかいにそうだんする。 <br> Consult an obstetrician and gynecologist.			
+[sound:k8-3211_占有.mp3]	占有 <br> せんゆう <br> exclusive possession, occupation, monopolization
+exclusive possession, occupation, monopolization	占有 <br> せんゆう <br> [sound:k8-3211_占有.mp3]
+占有	[sound:k8-3211_占有.mp3] <br> せんゆう <br> exclusive possession, occupation, monopolization
+[sound:s8-3211_妊婦健診を受ける。.mp3]	<b>(妊婦)</b> <br> 妊婦健診を受ける。<br> にんぷけんしんをうける。 <br> Have a prenatal check-up.			
+<b>(妊婦)</b> <br> 妊婦健診を受ける。	[sound:s8-3211_妊婦健診を受ける。.mp3] <br> にんぷけんしんをうける。 <br> Have a prenatal check-up.			
+[sound:k8-3212_独占的.mp3]	独占的 <br> どくせんてき <br> monopolistic
+monopolistic	独占的 <br> どくせんてき <br> [sound:k8-3212_独占的.mp3]
+独占的	[sound:k8-3212_独占的.mp3] <br> どくせんてき <br> monopolistic
+[sound:s8-3212_保健婦として地域を巡回する。.mp3]	<b>(保健婦)</b> <br> 保健婦として地域を巡回する。<br> ほけんふとしてちいきをじゅんかいする。 <br> Travel around the area as a health nurse.			
+<b>(保健婦)</b> <br> 保健婦として地域を巡回する。	[sound:s8-3212_保健婦として地域を巡回する。.mp3] <br> ほけんふとしてちいきをじゅんかいする。 <br> Travel around the area as a health nurse.			
+[sound:k8-3213_宣.mp3]	宣 <br> (kun: のたま.う, のたま.わく; on: セン) <br> proclaim, say, announce
+proclaim, say, announce	宣 <br> (kun: のたま.う, のたま.わく; on: セン) <br> [sound:k8-3213_宣.mp3]
+宣	[sound:k8-3213_宣.mp3] <br> (kun: のたま.う, のたま.わく; on: セン) <br> proclaim, say, announce
+[sound:s8-3213_婦女暴行の被害者支援をする。.mp3]	<b>(婦女暴行)</b> <br> 婦女暴行の被害者支援をする。<br> ふじょぼうこうのひがいしゃしえんをする。 <br> Provide support for victims of sexual assault.			
+<b>(婦女暴行)</b> <br> 婦女暴行の被害者支援をする。	[sound:s8-3213_婦女暴行の被害者支援をする。.mp3] <br> ふじょぼうこうのひがいしゃしえんをする。 <br> Provide support for victims of sexual assault.			
+[sound:k8-3214_宣言.mp3]	宣言 <br> せんげん <br> declaration, proclamation, announcement
+declaration, proclamation, announcement	宣言 <br> せんげん <br> [sound:k8-3214_宣言.mp3]
+宣言	[sound:k8-3214_宣言.mp3] <br> せんげん <br> declaration, proclamation, announcement
+[sound:s8-3214_家政婦を雇う。.mp3]	<b>(家政婦)</b> <br> 家政婦を雇う。<br> かせいふをやとう。 <br> Hire a housekeeper.			
+<b>(家政婦)</b> <br> 家政婦を雇う。	[sound:s8-3214_家政婦を雇う。.mp3] <br> かせいふをやとう。 <br> Hire a housekeeper.			
+[sound:k8-3215_宣伝.mp3]	宣伝 <br> せんでん <br> propaganda, publicity, advertisement, advertising
+propaganda, publicity, advertisement, advertising	宣伝 <br> せんでん <br> [sound:k8-3215_宣伝.mp3]
+宣伝	[sound:k8-3215_宣伝.mp3] <br> せんでん <br> propaganda, publicity, advertisement, advertising
+[sound:s8-3215_助産婦が出産をサポートする。.mp3]	<b>(助産婦)</b> <br> 助産婦が出産をサポートする。<br> じょさんふがしゅっさんをさぽーとする。 <br> A midwife supports childbirth.			
+<b>(助産婦)</b> <br> 助産婦が出産をサポートする。	[sound:s8-3215_助産婦が出産をサポートする。.mp3] <br> じょさんふがしゅっさんをさぽーとする。 <br> A midwife supports childbirth.			
+[sound:k8-3216_宣告.mp3]	宣告 <br> せんこく <br> sentence, verdict, pronouncement
+sentence, verdict, pronouncement	宣告 <br> せんこく <br> [sound:k8-3216_宣告.mp3]
+宣告	[sound:k8-3216_宣告.mp3] <br> せんこく <br> sentence, verdict, pronouncement
+[sound:s8-3216_鉄は錆びやすい。.mp3]	<b>(鉄)</b> <br> 鉄は錆びやすい。<br> てつはさびやすい。 <br> Iron rusts easily.			
+<b>(鉄)</b> <br> 鉄は錆びやすい。	[sound:s8-3216_鉄は錆びやすい。.mp3] <br> てつはさびやすい。 <br> Iron rusts easily.			
+[sound:k8-3217_街宣車.mp3]	街宣車 <br> がいせんしゃ <br> (right-wing) propaganda truck
+(right-wing) propaganda truck	街宣車 <br> がいせんしゃ <br> [sound:k8-3217_街宣車.mp3]
+街宣車	[sound:k8-3217_街宣車.mp3] <br> がいせんしゃ <br> (right-wing) propaganda truck
+[sound:s8-3217_この橋は鉄でできている。.mp3]	<b>(鉄)</b> <br> この橋は鉄でできている。<br> このはしはてつでできている。 <br> This bridge is made of iron.			
+<b>(鉄)</b> <br> この橋は鉄でできている。	[sound:s8-3217_この橋は鉄でできている。.mp3] <br> このはしはてつでできている。 <br> This bridge is made of iron.			
+[sound:k8-3218_宣誓.mp3]	宣誓 <br> せんせい <br> oath, abjuration, pledge
+oath, abjuration, pledge	宣誓 <br> せんせい <br> [sound:k8-3218_宣誓.mp3]
+宣誓	[sound:k8-3218_宣誓.mp3] <br> せんせい <br> oath, abjuration, pledge
+[sound:s8-3218_鉄道で遠くへ旅行する。.mp3]	<b>(鉄道)</b> <br> 鉄道で遠くへ旅行する。<br> てつどうでとおくへりょこうする。 <br> Travel far by train.			
+<b>(鉄道)</b> <br> 鉄道で遠くへ旅行する。	[sound:s8-3218_鉄道で遠くへ旅行する。.mp3] <br> てつどうでとおくへりょこうする。 <br> Travel far by train.			
+[sound:k8-3219_宣戦.mp3]	宣戦 <br> せんせん <br> declaration of war
+declaration of war	宣戦 <br> せんせん <br> [sound:k8-3219_宣戦.mp3]
+宣戦	[sound:k8-3219_宣戦.mp3] <br> せんせん <br> declaration of war
+[sound:s8-3219_鉄鋼産業が発展している。.mp3]	<b>(鉄鋼)</b> <br> 鉄鋼産業が発展している。<br> てっこうさんぎょうがはってんしている。 <br> The iron and steel industry is developing.			
+<b>(鉄鋼)</b> <br> 鉄鋼産業が発展している。	[sound:s8-3219_鉄鋼産業が発展している。.mp3] <br> てっこうさんぎょうがはってんしている。 <br> The iron and steel industry is developing.			
+[sound:k8-3220_宣教師.mp3]	宣教師 <br> せんきょうし <br> missionary
+missionary	宣教師 <br> せんきょうし <br> [sound:k8-3220_宣教師.mp3]
+宣教師	[sound:k8-3220_宣教師.mp3] <br> せんきょうし <br> missionary
+[sound:s8-3220_近鉄特急で移動する。.mp3]	<b>(近鉄)</b> <br> 近鉄特急で移動する。<br> きんてつとっきゅうでいどうする。 <br> Travel by Kintetsu Limited Express.			
+<b>(近鉄)</b> <br> 近鉄特急で移動する。	[sound:s8-3220_近鉄特急で移動する。.mp3] <br> きんてつとっきゅうでいどうする。 <br> Travel by Kintetsu Limited Express.			
+[sound:k8-3221_託宣.mp3]	託宣 <br> たくせん <br> oracle
+oracle	託宣 <br> たくせん <br> [sound:k8-3221_託宣.mp3]
+託宣	[sound:k8-3221_託宣.mp3] <br> たくせん <br> oracle
+[sound:s8-3221_地下鉄で通勤する。.mp3]	<b>(地下鉄)</b> <br> 地下鉄で通勤する。<br> ちかてつでつうきんする。 <br> Commute by subway.			
+<b>(地下鉄)</b> <br> 地下鉄で通勤する。	[sound:s8-3221_地下鉄で通勤する。.mp3] <br> ちかてつでつうきんする。 <br> Commute by subway.			
+[sound:k8-3222_宣教.mp3]	宣教 <br> せんきょう <br> religious mission, religious proclamation
+religious mission, religious proclamation	宣教 <br> せんきょう <br> [sound:k8-3222_宣教.mp3]
+宣教	[sound:k8-3222_宣教.mp3] <br> せんきょう <br> religious mission, religious proclamation
+[sound:s8-3222_国鉄の新幹線に乗る。.mp3]	<b>(国鉄)</b> <br> 国鉄の新幹線に乗る。<br> こくてつのしんかんせんにのる。 <br> Ride the national railway's Shinkansen.			
+<b>(国鉄)</b> <br> 国鉄の新幹線に乗る。	[sound:s8-3222_国鉄の新幹線に乗る。.mp3] <br> こくてつのしんかんせんにのる。 <br> Ride the national railway's Shinkansen.			
+[sound:k8-3223_宣べる.mp3]	宣べる <br> のべる <br> to state, to express, to mention
+to state, to express, to mention	宣べる <br> のべる <br> [sound:k8-3223_宣べる.mp3]
+宣べる	[sound:k8-3223_宣べる.mp3] <br> のべる <br> to state, to express, to mention
+[sound:s8-3223_電鉄の運賃が値上がりした。.mp3]	<b>(電鉄)</b> <br> 電鉄の運賃が値上がりした。<br> でんてつのうんちんがねあがりした。 <br> The fare for the electric railway has increased.			
+<b>(電鉄)</b> <br> 電鉄の運賃が値上がりした。	[sound:s8-3223_電鉄の運賃が値上がりした。.mp3] <br> でんてつのうんちんがねあがりした。 <br> The fare for the electric railway has increased.			
+[sound:k8-3224_背.mp3]	背 <br> (kun: せ, せい, そむ.く, そむ.ける; on: ハイ) <br> stature, height, back, behind, disobey, defy, go back on, rebel
+stature, height, back, behind, disobey, defy, go back on, rebel	背 <br> (kun: せ, せい, そむ.く, そむ.ける; on: ハイ) <br> [sound:k8-3224_背.mp3]
+背	[sound:k8-3224_背.mp3] <br> (kun: せ, せい, そむ.く, そむ.ける; on: ハイ) <br> stature, height, back, behind, disobey, defy, go back on, rebel
+[sound:s8-3224_私鉄の路線が充実している。.mp3]	<b>(私鉄)</b> <br> 私鉄の路線が充実している。<br> してつのろせんがじゅうじつしている。 <br> Private railway lines are well-developed.			
+<b>(私鉄)</b> <br> 私鉄の路線が充実している。	[sound:s8-3224_私鉄の路線が充実している。.mp3] <br> してつのろせんがじゅうじつしている。 <br> Private railway lines are well-developed.			
+[sound:k8-3225_背.mp3]	背 <br> せい <br> height, stature
+height, stature	背 <br> せい <br> [sound:k8-3225_背.mp3]
+背	[sound:k8-3225_背.mp3] <br> せい <br> height, stature
+[sound:s8-3225_鉄骨構造の建物が多い。.mp3]	<b>(鉄骨)</b> <br> 鉄骨構造の建物が多い。<br> てっこうこうぞうのたてものがおおい。 <br> There are many buildings with steel frame structures.			
+<b>(鉄骨)</b> <br> 鉄骨構造の建物が多い。	[sound:s8-3225_鉄骨構造の建物が多い。.mp3] <br> てっこうこうぞうのたてものがおおい。 <br> There are many buildings with steel frame structures.			
+[sound:k8-3226_背景.mp3]	背景 <br> はいけい <br> background, scenery, setting, circumstance
+background, scenery, setting, circumstance	背景 <br> はいけい <br> [sound:k8-3226_背景.mp3]
+背景	[sound:k8-3226_背景.mp3] <br> はいけい <br> background, scenery, setting, circumstance
+[sound:s8-3226_コンクリートに鉄筋を埋め込む。.mp3]	<b>(鉄筋)</b> <br> コンクリートに鉄筋を埋め込む。<br> こんくりーとにてっきんをうめこんむ。 <br> Embed steel bars in concrete.			
+<b>(鉄筋)</b> <br> コンクリートに鉄筋を埋め込む。	[sound:s8-3226_コンクリートに鉄筋を埋め込む。.mp3] <br> こんくりーとにてっきんをうめこんむ。 <br> Embed steel bars in concrete.			
+[sound:k8-3227_背後.mp3]	背後 <br> はいご <br> back, rear
+back, rear	背後 <br> はいご <br> [sound:k8-3227_背後.mp3]
+背後	[sound:k8-3227_背後.mp3] <br> はいご <br> back, rear
+[sound:s8-3227_彼は家に寄る途中だ。.mp3]	<b>(寄)</b> <br> 彼は家に寄る途中だ。<br> かれはいえによるとちゅうだ。 <br> He's on his way to stop by home.			
+<b>(寄)</b> <br> 彼は家に寄る途中だ。	[sound:s8-3227_彼は家に寄る途中だ。.mp3] <br> かれはいえによるとちゅうだ。 <br> He's on his way to stop by home.			
+[sound:k8-3228_背中.mp3]	背中 <br> せなか <br> back (of body)
+back (of body)	背中 <br> せなか <br> [sound:k8-3228_背中.mp3]
+背中	[sound:k8-3228_背中.mp3] <br> せなか <br> back (of body)
+[sound:s8-3228_資料を机に寄せる。.mp3]	<b>(寄せる)</b> <br> 資料を机に寄せる。<br> しりょうをつくえによせる。 <br> Bring the documents closer to the desk.			
+<b>(寄せる)</b> <br> 資料を机に寄せる。	[sound:s8-3228_資料を机に寄せる。.mp3] <br> しりょうをつくえによせる。 <br> Bring the documents closer to the desk.			
+[sound:k8-3229_背任.mp3]	背任 <br> はいにん <br> breach of trust (law)
+breach of trust (law)	背任 <br> はいにん <br> [sound:k8-3229_背任.mp3]
+背任	[sound:k8-3229_背任.mp3] <br> はいにん <br> breach of trust (law)
+[sound:s8-3229_寄付金を募る。.mp3]	<b>(寄付)</b> <br> 寄付金を募る。<br> きふきんをつのる。 <br> Raise funds through donations.			
+<b>(寄付)</b> <br> 寄付金を募る。	[sound:s8-3229_寄付金を募る。.mp3] <br> きふきんをつのる。 <br> Raise funds through donations.			
+[sound:k8-3230_背広.mp3]	背広 <br> せびろ, セビロ <br> business suit
+business suit	背広 <br> せびろ, セビロ <br> [sound:k8-3230_背広.mp3]
+背広	[sound:k8-3230_背広.mp3] <br> せびろ, セビロ <br> business suit
+[sound:s8-3230_公園で年寄りが散歩する。.mp3]	<b>(年寄り)</b> <br> 公園で年寄りが散歩する。<br> こうえんでとしよりがさんぽする。 <br> Elderly people take a walk in the park.			
+<b>(年寄り)</b> <br> 公園で年寄りが散歩する。	[sound:s8-3230_公園で年寄りが散歩する。.mp3] <br> こうえんでとしよりがさんぽする。 <br> Elderly people take a walk in the park.			
+[sound:k8-3231_背番号.mp3]	背番号 <br> せばんごう <br> number on player's back
+number on player's back	背番号 <br> せばんごう <br> [sound:k8-3231_背番号.mp3]
+背番号	[sound:k8-3231_背番号.mp3] <br> せばんごう <br> number on player's back
+[sound:s8-3231_寄せが速いピッチャーだ。.mp3]	<b>(寄せ)</b> <br> 寄せが速いピッチャーだ。<br> よせがはやいぴっちゃーだ。 <br> He's a pitcher with a fast delivery.			
+<b>(寄せ)</b> <br> 寄せが速いピッチャーだ。	[sound:s8-3231_寄せが速いピッチャーだ。.mp3] <br> よせがはやいぴっちゃーだ。 <br> He's a pitcher with a fast delivery.			
+[sound:k8-3232_背筋.mp3]	背筋 <br> せすじ, はいきん <br> the muscles along the spine, dorsal muscles; spinal column; seam in the back, back seam
+the muscles along the spine, dorsal muscles; spinal column; seam in the back, back seam	背筋 <br> せすじ, はいきん <br> [sound:k8-3232_背筋.mp3]
+背筋	[sound:k8-3232_背筋.mp3] <br> せすじ, はいきん <br> the muscles along the spine, dorsal muscles; spinal column; seam in the back, back seam
+[sound:s8-3232_双方が歩み寄りを示す。.mp3]	<b>(歩み寄り)</b> <br> 双方が歩み寄りを示す。<br> そうほうがあゆみよりをしめす。 <br> Both sides show willingness to compromise.			
+<b>(歩み寄り)</b> <br> 双方が歩み寄りを示す。	[sound:s8-3232_双方が歩み寄りを示す。.mp3] <br> そうほうがあゆみよりをしめす。 <br> Both sides show willingness to compromise.			
+[sound:k8-3233_背泳ぎ.mp3]	背泳ぎ <br> せおよぎ <br> backstroke (swim.)
+backstroke (swim.)	背泳ぎ <br> せおよぎ <br> [sound:k8-3233_背泳ぎ.mp3]
+背泳ぎ	[sound:k8-3233_背泳ぎ.mp3] <br> せおよぎ <br> backstroke (swim.)
+[sound:s8-3233_船は港に寄港する。.mp3]	<b>(寄港)</b> <br> 船は港に寄港する。<br> ふねはみなとにきこうする。 <br> The ship calls at the port.			
+<b>(寄港)</b> <br> 船は港に寄港する。	[sound:s8-3233_船は港に寄港する。.mp3] <br> ふねはみなとにきこうする。 <br> The ship calls at the port.			
+[sound:k8-3234_背骨.mp3]	背骨 <br> せぼね <br> spine, backbone
+spine, backbone	背骨 <br> せぼね <br> [sound:k8-3234_背骨.mp3]
+背骨	[sound:k8-3234_背骨.mp3] <br> せぼね <br> spine, backbone
+[sound:s8-3234_壁に寄り掛かる。.mp3]	<b>(寄り掛かる)</b> <br> 壁に寄り掛かる。<br> かべによりかかる。 <br> Lean against the wall.			
+<b>(寄り掛かる)</b> <br> 壁に寄り掛かる。	[sound:s8-3234_壁に寄り掛かる。.mp3] <br> かべによりかかる。 <br> Lean against the wall.			
+[sound:k8-3235_昭.mp3]	昭 <br> (on: ショウ) <br> meaning: shining, bright
+meaning: shining, bright	昭 <br> (on: ショウ) <br> [sound:k8-3235_昭.mp3]
+昭	[sound:k8-3235_昭.mp3] <br> (on: ショウ) <br> meaning: shining, bright
+[sound:s8-3235_寄席で落語を聞く。.mp3]	<b>(寄席)</b> <br> 寄席で落語を聞く。<br> よせでらくごをきく。 <br> Listen to rakugo at a traditional Japanese storytelling theater.			
+<b>(寄席)</b> <br> 寄席で落語を聞く。	[sound:s8-3235_寄席で落語を聞く。.mp3] <br> よせでらくごをきく。 <br> Listen to rakugo at a traditional Japanese storytelling theater.			
+[sound:k8-3236_昭和.mp3]	昭和 <br> しょうわ <br> Showa era (1926.12.25-1989.1.7)
+Showa era (1926.12.25-1989.1.7)	昭和 <br> しょうわ <br> [sound:k8-3236_昭和.mp3]
+昭和	[sound:k8-3236_昭和.mp3] <br> しょうわ <br> Showa era (1926.12.25-1989.1.7)
+[sound:s8-3236_最寄りの駅まで歩く。.mp3]	<b>(最寄り)</b> <br> 最寄りの駅まで歩く。<br> もよりのえきまであるく。 <br> Walk to the nearest station.			
+<b>(最寄り)</b> <br> 最寄りの駅まで歩く。	[sound:s8-3236_最寄りの駅まで歩く。.mp3] <br> もよりのえきまであるく。 <br> Walk to the nearest station.			
+[sound:k8-3237_昭和時代.mp3]	昭和時代 <br> しょうわじだい <br> Showa period (1926-1989 CE)
+Showa period (1926-1989 CE)	昭和時代 <br> しょうわじだい <br> [sound:k8-3237_昭和時代.mp3]
+昭和時代	[sound:k8-3237_昭和時代.mp3] <br> しょうわじだい <br> Showa period (1926-1989 CE)
+[sound:s8-3237_寄生虫の危険性を理解する。.mp3]	<b>(寄生虫)</b> <br> 寄生虫の危険性を理解する。<br> きせいちゅうのきけんせいをりかいする。 <br> Understand the risks of parasites.			
+<b>(寄生虫)</b> <br> 寄生虫の危険性を理解する。	[sound:s8-3237_寄生虫の危険性を理解する。.mp3] <br> きせいちゅうのきけんせいをりかいする。 <br> Understand the risks of parasites.			
+[sound:k8-3238_昭和年間.mp3]	昭和年間 <br> しょうわねんかん <br> Showa era
+Showa era	昭和年間 <br> しょうわねんかん <br> [sound:k8-3238_昭和年間.mp3]
+昭和年間	[sound:k8-3238_昭和年間.mp3] <br> しょうわねんかん <br> Showa era
+[sound:s8-3238_彼のアドバイスは大いに益になる。.mp3]	<b>(益)</b> <br> 彼のアドバイスは大いに益になる。<br> かれのあどばいすはおおいにえきになる。 <br> His advice is greatly beneficial.			
+<b>(益)</b> <br> 彼のアドバイスは大いに益になる。	[sound:s8-3238_彼のアドバイスは大いに益になる。.mp3] <br> かれのあどばいすはおおいにえきになる。 <br> His advice is greatly beneficial.			
+[sound:k8-3239_昭栄.mp3]	昭栄 <br> しょうえい <br> Shoei (motorcycle helmet manufacturing company), Shouei
+Shoei (motorcycle helmet manufacturing company), Shouei	昭栄 <br> しょうえい <br> [sound:k8-3239_昭栄.mp3]
+昭栄	[sound:k8-3239_昭栄.mp3] <br> しょうえい <br> Shoei (motorcycle helmet manufacturing company), Shouei
+[sound:s8-3239_企業の利益を最大化する。.mp3]	<b>(利益)</b> <br> 企業の利益を最大化する。<br> きぎょうのりえきをさいだいかする。 <br> Maximize profits for the company.			
+<b>(利益)</b> <br> 企業の利益を最大化する。	[sound:s8-3239_企業の利益を最大化する。.mp3] <br> きぎょうのりえきをさいだいかする。 <br> Maximize profits for the company.			
+[sound:k8-3240_昭昭.mp3]	昭昭 <br> しょうしょう <br> clear, bright, plain, obvious
+clear, bright, plain, obvious	昭昭 <br> しょうしょう <br> [sound:k8-3240_昭昭.mp3]
+昭昭	[sound:k8-3240_昭昭.mp3] <br> しょうしょう <br> clear, bright, plain, obvious
+[sound:s8-3240_収益を上げるために努力する。.mp3]	<b>(収益)</b> <br> 収益を上げるために努力する。<br> しゅうえきをあげるためにどりょくする。 <br> Make efforts to increase revenue.			
+<b>(収益)</b> <br> 収益を上げるために努力する。	[sound:s8-3240_収益を上げるために努力する。.mp3] <br> しゅうえきをあげるためにどりょくする。 <br> Make efforts to increase revenue.			
+[sound:k8-3241_昭々.mp3]	昭々 <br> しょうしょう <br> clear, bright, plain, obvious
+clear, bright, plain, obvious	昭々 <br> しょうしょう <br> [sound:k8-3241_昭々.mp3]
+昭々	[sound:k8-3241_昭々.mp3] <br> しょうしょう <br> clear, bright, plain, obvious
+[sound:s8-3241_この提案は双方に益となる。.mp3]	<b>(益)</b> <br> この提案は双方に益となる。<br> このていあんはそうほうにえきとなる。 <br> This proposal is beneficial to both sides.			
+<b>(益)</b> <br> この提案は双方に益となる。	[sound:s8-3241_この提案は双方に益となる。.mp3] <br> このていあんはそうほうにえきとなる。 <br> This proposal is beneficial to both sides.			
+[sound:k8-3242_昭然.mp3]	昭然 <br> しょうぜん <br> manifest, clear, evident, obvious
+manifest, clear, evident, obvious	昭然 <br> しょうぜん <br> [sound:k8-3242_昭然.mp3]
+昭然	[sound:k8-3242_昭然.mp3] <br> しょうぜん <br> manifest, clear, evident, obvious
+[sound:s8-3242_企業の経常利益が増加した。.mp3]	<b>(経常利益)</b> <br> 企業の経常利益が増加した。<br> きぎょうのけいじょうりえきがぞうかした。 <br> The company's operating profit has increased.			
+<b>(経常利益)</b> <br> 企業の経常利益が増加した。	[sound:s8-3242_企業の経常利益が増加した。.mp3] <br> きぎょうのけいじょうりえきがぞうかした。 <br> The company's operating profit has increased.			
+[sound:k8-3243_昭代.mp3]	昭代 <br> しょうだい <br> glorious reign, enlightened era
+glorious reign, enlightened era	昭代 <br> しょうだい <br> [sound:k8-3243_昭代.mp3]
+昭代	[sound:k8-3243_昭代.mp3] <br> しょうだい <br> glorious reign, enlightened era
+[sound:s8-3243_減益が続いている。.mp3]	<b>(減益)</b> <br> 減益が続いている。<br> げんえきがつづいている。 <br> There has been a continued decrease in profits.			
+<b>(減益)</b> <br> 減益が続いている。	[sound:s8-3243_減益が続いている。.mp3] <br> げんえきがつづいている。 <br> There has been a continued decrease in profits.			
+[sound:k8-3244_昭和一桁.mp3]	昭和一桁 <br> しょうわひとけた <br> (member of the generation born in) the first nine years of the Showa period (from 1926 to 1934)
+(member of the generation born in) the first nine years of the Showa period (from 1926 to 1934)	昭和一桁 <br> しょうわひとけた <br> [sound:k8-3244_昭和一桁.mp3]
+昭和一桁	[sound:k8-3244_昭和一桁.mp3] <br> しょうわひとけた <br> (member of the generation born in) the first nine years of the Showa period (from 1926 to 1934)
+[sound:s8-3244_販売差益を計算する。.mp3]	<b>(差益)</b> <br> 販売差益を計算する。<br> はんばいさえきをけいさんする。 <br> Calculate the sales margin.			
+<b>(差益)</b> <br> 販売差益を計算する。	[sound:s8-3244_販売差益を計算する。.mp3] <br> はんばいさえきをけいさんする。 <br> Calculate the sales margin.			
+[sound:k8-3245_昭和元禄.mp3]	昭和元禄 <br> しょうわげんろく <br> the flourishing mid-Showa period (1960s and early 1970s) of peace, rapid economic growth, and life of ease
+the flourishing mid-Showa period (1960s and early 1970s) of peace, rapid economic growth, and life of ease	昭和元禄 <br> しょうわげんろく <br> [sound:k8-3245_昭和元禄.mp3]
+昭和元禄	[sound:k8-3245_昭和元禄.mp3] <br> しょうわげんろく <br> the flourishing mid-Showa period (1960s and early 1970s) of peace, rapid economic growth, and life of ease
+[sound:s8-3245_今年は増益を達成した。.mp3]	<b>(増益)</b> <br> 今年は増益を達成した。<br> ことしはぞうえきをたっせいした。 <br> This year, we achieved an increase in profits.			
+<b>(増益)</b> <br> 今年は増益を達成した。	[sound:s8-3245_今年は増益を達成した。.mp3] <br> ことしはぞうえきをたっせいした。 <br> This year, we achieved an increase in profits.			
+[sound:k8-3246_廃.mp3]	廃 <br> (kun: すた.れる, すた.る; on: ハイ) <br> abolish, obsolete, cessation, discarding, abandon
+abolish, obsolete, cessation, discarding, abandon	廃 <br> (kun: すた.れる, すた.る; on: ハイ) <br> [sound:k8-3246_廃.mp3]
+廃	[sound:k8-3246_廃.mp3] <br> (kun: すた.れる, すた.る; on: ハイ) <br> abolish, obsolete, cessation, discarding, abandon
+[sound:s8-3246_国益を守るために行動する。.mp3]	<b>(国益)</b> <br> 国益を守るために行動する。<br> こくえきをまもるためにこうどうする。 <br> Take action to protect national interests.			
+<b>(国益)</b> <br> 国益を守るために行動する。	[sound:s8-3246_国益を守るために行動する。.mp3] <br> こくえきをまもるためにこうどうする。 <br> Take action to protect national interests.			
+[sound:k8-3247_廃棄.mp3]	廃棄 <br> はいき <br> annulment, disposal, abandon, scrap, discarding, repeal
+annulment, disposal, abandon, scrap, discarding, repeal	廃棄 <br> はいき <br> [sound:k8-3247_廃棄.mp3]
+廃棄	[sound:k8-3247_廃棄.mp3] <br> はいき <br> annulment, disposal, abandon, scrap, discarding, repeal
+[sound:s8-3247_公益のために働く。.mp3]	<b>(公益)</b> <br> 公益のために働く。<br> こうえきのためにはたらく。 <br> Work for the public good.			
+<b>(公益)</b> <br> 公益のために働く。	[sound:s8-3247_公益のために働く。.mp3] <br> こうえきのためにはたらく。 <br> Work for the public good.			
+[sound:k8-3248_廃止.mp3]	廃止 <br> はいし <br> abolition, repeal
+abolition, repeal	廃止 <br> はいし <br> [sound:k8-3248_廃止.mp3]
+廃止	[sound:k8-3248_廃止.mp3] <br> はいし <br> abolition, repeal
+[sound:s8-3248_彼は公益法人に勤めている。.mp3]	<b>(公益法人)</b> <br> 彼は公益法人に勤めている。<br> かれはこうえきほうじんにつとめている。 <br> He works for a public-interest corporation.			
+<b>(公益法人)</b> <br> 彼は公益法人に勤めている。	[sound:s8-3248_彼は公益法人に勤めている。.mp3] <br> かれはこうえきほうじんにつとめている。 <br> He works for a public-interest corporation.			
+[sound:k8-3249_廃案.mp3]	廃案 <br> はいあん <br> rejected bill (project)
+rejected bill (project)	廃案 <br> はいあん <br> [sound:k8-3249_廃案.mp3]
+廃案	[sound:k8-3249_廃案.mp3] <br> はいあん <br> rejected bill (project)
+[sound:s8-3249_混んでいる電車に乗る。.mp3]	<b>(込)</b> <br> 混んでいる電車に乗る。<br> こんでいるでんしゃにのる。 <br> Board a crowded train.			
+<b>(込)</b> <br> 混んでいる電車に乗る。	[sound:s8-3249_混んでいる電車に乗る。.mp3] <br> こんでいるでんしゃにのる。 <br> Board a crowded train.			
+[sound:k8-3250_撤廃.mp3]	撤廃 <br> てっぱい <br> annulment, abolition, repeal, rescission
+annulment, abolition, repeal, rescission	撤廃 <br> てっぱい <br> [sound:k8-3250_撤廃.mp3]
+撤廃	[sound:k8-3250_撤廃.mp3] <br> てっぱい <br> annulment, abolition, repeal, rescission
+[sound:s8-3250_売上見込みを立てる。.mp3]	<b>(見込み)</b> <br> 売上見込みを立てる。<br> うりあげみこみをたてる。 <br> Make sales forecasts.			
+<b>(見込み)</b> <br> 売上見込みを立てる。	[sound:s8-3250_売上見込みを立てる。.mp3] <br> うりあげみこみをたてる。 <br> Make sales forecasts.			
+[sound:k8-3251_全廃.mp3]	全廃 <br> ぜんぱい <br> total abolition
+total abolition	全廃 <br> ぜんぱい <br> [sound:k8-3251_全廃.mp3]
+全廃	[sound:k8-3251_全廃.mp3] <br> ぜんぱい <br> total abolition
+[sound:s8-3251_計画に要望を盛り込む。.mp3]	<b>(盛り込む)</b> <br> 計画に要望を盛り込む。<br> けいかくにようぼうをもりこむ。 <br> Include requests in the plan.			
+<b>(盛り込む)</b> <br> 計画に要望を盛り込む。	[sound:s8-3251_計画に要望を盛り込む。.mp3] <br> けいかくにようぼうをもりこむ。 <br> Include requests in the plan.			
+[sound:k8-3252_廃絶.mp3]	廃絶 <br> はいぜつ <br> extinction, abolition
+extinction, abolition	廃絶 <br> はいぜつ <br> [sound:k8-3252_廃絶.mp3]
+廃絶	[sound:k8-3252_廃絶.mp3] <br> はいぜつ <br> extinction, abolition
+[sound:s8-3252_イベントに申し込みする。.mp3]	<b>(申し込み)</b> <br> イベントに申し込みする。<br> いべんとにもうしこみする。 <br> Apply for the event.			
+<b>(申し込み)</b> <br> イベントに申し込みする。	[sound:s8-3252_イベントに申し込みする。.mp3] <br> いべんとにもうしこみする。 <br> Apply for the event.			
+[sound:k8-3253_荒廃.mp3]	荒廃 <br> こうはい <br> ruin
+ruin	荒廃 <br> こうはい <br> [sound:k8-3253_荒廃.mp3]
+荒廃	[sound:k8-3253_荒廃.mp3] <br> こうはい <br> ruin
+[sound:s8-3253_彼を追い込む状況になる。.mp3]	<b>(追い込む)</b> <br> 彼を追い込む状況になる。<br> かれをおいこむじょうきょうになる。 <br> Be in a situation to push him to the edge.			
+<b>(追い込む)</b> <br> 彼を追い込む状況になる。	[sound:s8-3253_彼を追い込む状況になる。.mp3] <br> かれをおいこむじょうきょうになる。 <br> Be in a situation to push him to the edge.			
+[sound:k8-3254_廃虚.mp3]	廃虚 <br> はいきょ <br> ruins
+ruins	廃虚 <br> はいきょ <br> [sound:k8-3254_廃虚.mp3]
+廃虚	[sound:k8-3254_廃虚.mp3] <br> はいきょ <br> ruins
+[sound:s8-3254_事故に人を巻き込む。.mp3]	<b>(巻き込む)</b> <br> 事故に人を巻き込む。<br> じこにひとをまきこむ。 <br> Involve people in an accident.			
+<b>(巻き込む)</b> <br> 事故に人を巻き込む。	[sound:s8-3254_事故に人を巻き込む。.mp3] <br> じこにひとをまきこむ。 <br> Involve people in an accident.			
+[sound:k8-3255_廃業.mp3]	廃業 <br> はいぎょう <br> cessation of business, discontinuation of business
+cessation of business, discontinuation of business	廃業 <br> はいぎょう <br> [sound:k8-3255_廃業.mp3]
+廃業	[sound:k8-3255_廃業.mp3] <br> はいぎょう <br> cessation of business, discontinuation of business
+[sound:s8-3255_禁止物を持ち込む。.mp3]	<b>(持ち込む)</b> <br> 禁止物を持ち込む。<br> きんしものをもちこんむ。 <br> Bring prohibited items.			
+<b>(持ち込む)</b> <br> 禁止物を持ち込む。	[sound:s8-3255_禁止物を持ち込む。.mp3] <br> きんしものをもちこんむ。 <br> Bring prohibited items.			
+[sound:k8-3256_存廃.mp3]	存廃 <br> ぞんぱい <br> (whether to) continue or eliminate, existence
+(whether to) continue or eliminate, existence	存廃 <br> ぞんぱい <br> [sound:k8-3256_存廃.mp3]
+存廃	[sound:k8-3256_存廃.mp3] <br> ぞんぱい <br> (whether to) continue or eliminate, existence
+[sound:s8-3256_成功を見込む。.mp3]	<b>(見込む)</b> <br> 成功を見込む。<br> せいこうをみこむ。 <br> Anticipate success.			
+<b>(見込む)</b> <br> 成功を見込む。	[sound:s8-3256_成功を見込む。.mp3] <br> せいこうをみこむ。 <br> Anticipate success.			
+[sound:k8-3257_植.mp3]	植 <br> (kun: う.える, う.わる; on: ショク) <br> plant
+plant	植 <br> (kun: う.える, う.わる; on: ショク) <br> [sound:k8-3257_植.mp3]
+植	[sound:k8-3257_植.mp3] <br> (kun: う.える, う.わる; on: ショク) <br> plant
+[sound:s8-3257_新入社員の意気込みが高い。.mp3]	<b>(意気込み)</b> <br> 新入社員の意気込みが高い。<br> しんにゅうしゃいんのいきごみがたかい。 <br> New employees are enthusiastic.			
+<b>(意気込み)</b> <br> 新入社員の意気込みが高い。	[sound:s8-3257_新入社員の意気込みが高い。.mp3] <br> しんにゅうしゃいんのいきごみがたかい。 <br> New employees are enthusiastic.			
+[sound:k8-3258_移植.mp3]	移植 <br> いしょく <br> transplanting, porting, implantation, engrafting
+transplanting, porting, implantation, engrafting	移植 <br> いしょく <br> [sound:k8-3258_移植.mp3]
+移植	[sound:k8-3258_移植.mp3] <br> いしょく <br> transplanting, porting, implantation, engrafting
+[sound:s8-3258_システムにデータを組み込む。.mp3]	<b>(組み込む)</b> <br> システムにデータを組み込む。<br> しすてむにでーたをくみこむ。 <br> Embed data into the system.			
+<b>(組み込む)</b> <br> システムにデータを組み込む。	[sound:s8-3258_システムにデータを組み込む。.mp3] <br> しすてむにでーたをくみこむ。 <br> Embed data into the system.			
+[sound:k8-3259_植物.mp3]	植物 <br> しょくぶつ <br> plant, vegetation
+plant, vegetation	植物 <br> しょくぶつ <br> [sound:k8-3259_植物.mp3]
+植物	[sound:k8-3259_植物.mp3] <br> しょくぶつ <br> plant, vegetation
+[sound:s8-3259_商品を売り込む戦略を立てる。.mp3]	<b>(売り込み)</b> <br> 商品を売り込む戦略を立てる。<br> しょうひんをうりこむせんりゃくをたてる。 <br> Develop a strategy to promote the product.			
+<b>(売り込み)</b> <br> 商品を売り込む戦略を立てる。	[sound:s8-3259_商品を売り込む戦略を立てる。.mp3] <br> しょうひんをうりこむせんりゃくをたてる。 <br> Develop a strategy to promote the product.			
+[sound:k8-3260_植民地.mp3]	植民地 <br> しょくみんち <br> colony; colonial
+colony; colonial	植民地 <br> しょくみんち <br> [sound:k8-3260_植民地.mp3]
+植民地	[sound:k8-3260_植民地.mp3] <br> しょくみんち <br> colony; colonial
+[sound:s8-3260_彼は笑顔で挨拶する。.mp3]	<b>(顔)</b> <br> 彼は笑顔で挨拶する。<br> かれはえがおであいさつする。 <br> He greets with a smile.			
+<b>(顔)</b> <br> 彼は笑顔で挨拶する。	[sound:s8-3260_彼は笑顔で挨拶する。.mp3] <br> かれはえがおであいさつする。 <br> He greets with a smile.			
+[sound:k8-3261_入植.mp3]	入植 <br> にゅうしょく <br> settlement, immigration
+settlement, immigration	入植 <br> にゅうしょく <br> [sound:k8-3261_入植.mp3]
+入植	[sound:k8-3261_入植.mp3] <br> にゅうしょく <br> settlement, immigration
+[sound:s8-3261_彼の顔色が悪い。.mp3]	<b>(顔)</b> <br> 彼の顔色が悪い。<br> かれのかおいろがわるい。 <br> His complexion is bad.			
+<b>(顔)</b> <br> 彼の顔色が悪い。	[sound:s8-3261_彼の顔色が悪い。.mp3] <br> かれのかおいろがわるい。 <br> His complexion is bad.			
+[sound:k8-3262_動植物.mp3]	動植物 <br> どうしょくぶつ <br> plants and animals, flora and fauna
+plants and animals, flora and fauna	動植物 <br> どうしょくぶつ <br> [sound:k8-3262_動植物.mp3]
+動植物	[sound:k8-3262_動植物.mp3] <br> どうしょくぶつ <br> plants and animals, flora and fauna
+[sound:s8-3262_彼は知らん顔をして通り過ぎた。.mp3]	<b>(知らん顔)</b> <br> 彼は知らん顔をして通り過ぎた。<br> かれはしらんがおをしてとおりすぎた。 <br> He passed by with an indifferent expression.			
+<b>(知らん顔)</b> <br> 彼は知らん顔をして通り過ぎた。	[sound:s8-3262_彼は知らん顔をして通り過ぎた。.mp3] <br> かれはしらんがおをしてとおりすぎた。 <br> He passed by with an indifferent expression.			
+[sound:k8-3263_植林.mp3]	植林 <br> しょくりん <br> afforestation
+afforestation	植林 <br> しょくりん <br> [sound:k8-3263_植林.mp3]
+植林	[sound:k8-3263_植林.mp3] <br> しょくりん <br> afforestation
+[sound:s8-3263_彼女の笑顔が明るい。.mp3]	<b>(笑顔)</b> <br> 彼女の笑顔が明るい。<br> かのじょのえがおがあかるい。 <br> Her smile is bright.			
+<b>(笑顔)</b> <br> 彼女の笑顔が明るい。	[sound:s8-3263_彼女の笑顔が明るい。.mp3] <br> かのじょのえがおがあかるい。 <br> Her smile is bright.			
+[sound:k8-3264_植樹.mp3]	植樹 <br> しょくじゅ <br> tree-planting
+tree-planting	植樹 <br> しょくじゅ <br> [sound:k8-3264_植樹.mp3]
+植樹	[sound:k8-3264_植樹.mp3] <br> しょくじゅ <br> tree-planting
+[sound:s8-3264_会議の顔ぶれが豪華だ。.mp3]	<b>(顔ぶれ)</b> <br> 会議の顔ぶれが豪華だ。<br> かいぎのかおぶれがごうかだ。 <br> The lineup of attendees at the meeting is impressive.			
+<b>(顔ぶれ)</b> <br> 会議の顔ぶれが豪華だ。	[sound:s8-3264_会議の顔ぶれが豪華だ。.mp3] <br> かいぎのかおぶれがごうかだ。 <br> The lineup of attendees at the meeting is impressive.			
+[sound:k8-3265_植物園.mp3]	植物園 <br> しょくぶつえん <br> botanical garden
+botanical garden	植物園 <br> しょくぶつえん <br> [sound:k8-3265_植物園.mp3]
+植物園	[sound:k8-3265_植物園.mp3] <br> しょくぶつえん <br> botanical garden
+[sound:s8-3265_似顔画を描く。.mp3]	<b>(似顔)</b> <br> 似顔画を描く。<br> にがおえをかく。 <br> Draw a portrait.			
+<b>(似顔)</b> <br> 似顔画を描く。	[sound:s8-3265_似顔画を描く。.mp3] <br> にがおえをかく。 <br> Draw a portrait.			
+[sound:k8-3266_田植え.mp3]	田植え <br> たうえ <br> rice planting
+rice planting	田植え <br> たうえ <br> [sound:k8-3266_田植え.mp3]
+田植え	[sound:k8-3266_田植え.mp3] <br> たうえ <br> rice planting
+[sound:s8-3266_彼女の素顔を見たことがあるか。.mp3]	<b>(素顔)</b> <br> 彼女の素顔を見たことがあるか。<br> かのじょのすがおをみたことがあるか。 <br> Have you ever seen her without makeup?			
+<b>(素顔)</b> <br> 彼女の素顔を見たことがあるか。	[sound:s8-3266_彼女の素顔を見たことがあるか。.mp3] <br> かのじょのすがおをみたことがあるか。 <br> Have you ever seen her without makeup?			
+[sound:k8-3267_植木.mp3]	植木 <br> うえき <br> garden shrubs, trees, potted plant
+garden shrubs, trees, potted plant	植木 <br> うえき <br> [sound:k8-3267_植木.mp3]
+植木	[sound:k8-3267_植木.mp3] <br> うえき <br> garden shrubs, trees, potted plant
+[sound:s8-3267_彼の顔色が青白い。.mp3]	<b>(顔色)</b> <br> 彼の顔色が青白い。<br> かれのかおいろがあおじろい。 <br> His complexion is pale.			
+<b>(顔色)</b> <br> 彼の顔色が青白い。	[sound:s8-3267_彼の顔色が青白い。.mp3] <br> かれのかおいろがあおじろい。 <br> His complexion is pale.			
+[sound:k8-3268_熱.mp3]	熱 <br> (kun: あつ.い; on: ネツ) <br> heat, temperature, fever, mania, passion
+heat, temperature, fever, mania, passion	熱 <br> (kun: あつ.い; on: ネツ) <br> [sound:k8-3268_熱.mp3]
+熱	[sound:k8-3268_熱.mp3] <br> (kun: あつ.い; on: ネツ) <br> heat, temperature, fever, mania, passion
+[sound:s8-3268_新入社員との顔合わせをする。.mp3]	<b>(顔合わせ)</b> <br> 新入社員との顔合わせをする。<br> しんにゅうしゃいんとのかおあわせをする。 <br> Have a meeting with the new employees.			
+<b>(顔合わせ)</b> <br> 新入社員との顔合わせをする。	[sound:s8-3268_新入社員との顔合わせをする。.mp3] <br> しんにゅうしゃいんとのかおあわせをする。 <br> Have a meeting with the new employees.			
+[sound:k8-3269_熱.mp3]	熱 <br> ねつ <br> fever, temperature
+fever, temperature	熱 <br> ねつ <br> [sound:k8-3269_熱.mp3]
+熱	[sound:k8-3269_熱.mp3] <br> ねつ <br> fever, temperature
+[sound:s8-3269_彼の顔面に怒りの表情が浮かんだ。.mp3]	<b>(顔面)</b> <br> 彼の顔面に怒りの表情が浮かんだ。<br> かれのがんめんにいかりのひょうじょうがうかんだ。 <br> An angry expression appeared on his face.			
+<b>(顔面)</b> <br> 彼の顔面に怒りの表情が浮かんだ。	[sound:s8-3269_彼の顔面に怒りの表情が浮かんだ。.mp3] <br> かれのがんめんにいかりのひょうじょうがうかんだ。 <br> An angry expression appeared on his face.			
+[sound:k8-3270_熱心.mp3]	熱心 <br> ねっしん <br> zeal, enthusiasm
+zeal, enthusiasm	熱心 <br> ねっしん <br> [sound:k8-3270_熱心.mp3]
+熱心	[sound:k8-3270_熱心.mp3] <br> ねっしん <br> zeal, enthusiasm
+[sound:s8-3270_街で顔見知りに出会う。.mp3]	<b>(顔見知り)</b> <br> 街で顔見知りに出会う。<br> まちでかおみしりにでかう。 <br> Meet an acquaintance on the street.			
+<b>(顔見知り)</b> <br> 街で顔見知りに出会う。	[sound:s8-3270_街で顔見知りに出会う。.mp3] <br> まちでかおみしりにでかう。 <br> Meet an acquaintance on the street.			
+[sound:k8-3271_熱帯.mp3]	熱帯 <br> ねったい <br> tropics
+tropics	熱帯 <br> ねったい <br> [sound:k8-3271_熱帯.mp3]
+熱帯	[sound:k8-3271_熱帯.mp3] <br> ねったい <br> tropics
+[sound:s8-3271_緊急事態に備える。.mp3]	<b>(緊)</b> <br> 緊急事態に備える。<br> きんきゅうじたいにそなえる。 <br> Prepare for emergencies.			
+<b>(緊)</b> <br> 緊急事態に備える。	[sound:s8-3271_緊急事態に備える。.mp3] <br> きんきゅうじたいにそなえる。 <br> Prepare for emergencies.			
+[sound:k8-3272_情熱.mp3]	情熱 <br> じょうねつ <br> passion, enthusiasm, zeal
+passion, enthusiasm, zeal	情熱 <br> じょうねつ <br> [sound:k8-3272_情熱.mp3]
+情熱	[sound:k8-3272_情熱.mp3] <br> じょうねつ <br> passion, enthusiasm, zeal
+[sound:s8-3272_緊急の連絡が入った。.mp3]	<b>(緊急)</b> <br> 緊急の連絡が入った。<br> きんきゅうのれんらくがはいった。 <br> An urgent message came in.			
+<b>(緊急)</b> <br> 緊急の連絡が入った。	[sound:s8-3272_緊急の連絡が入った。.mp3] <br> きんきゅうのれんらくがはいった。 <br> An urgent message came in.			
+[sound:k8-3273_熱い.mp3]	熱い <br> あつい <br> hot (thing)
+hot (thing)	熱い <br> あつい <br> [sound:k8-3273_熱い.mp3]
+熱い	[sound:k8-3273_熱い.mp3] <br> あつい <br> hot (thing)
+[sound:s8-3273_彼女は緊張している。.mp3]	<b>(緊張)</b> <br> 彼女は緊張している。<br> かのじょはきんちょうしている。 <br> She is nervous.			
+<b>(緊張)</b> <br> 彼女は緊張している。	[sound:s8-3273_彼女は緊張している。.mp3] <br> かのじょはきんちょうしている。 <br> She is nervous.			
+[sound:k8-3274_熱意.mp3]	熱意 <br> ねつい <br> zeal, enthusiasm
+zeal, enthusiasm	熱意 <br> ねつい <br> [sound:k8-3274_熱意.mp3]
+熱意	[sound:k8-3274_熱意.mp3] <br> ねつい <br> zeal, enthusiasm
+[sound:s8-3274_二国間の緊密な関係を築く。.mp3]	<b>(緊密)</b> <br> 二国間の緊密な関係を築く。<br> にこくかんのきんみつなかんけいをきずく。 <br> Build close relations between two countries.			
+<b>(緊密)</b> <br> 二国間の緊密な関係を築く。	[sound:s8-3274_二国間の緊密な関係を築く。.mp3] <br> にこくかんのきんみつなかんけいをきずく。 <br> Build close relations between two countries.			
+[sound:k8-3275_熱気.mp3]	熱気 <br> ねっき <br> heat, hot air, enthusiasm
+heat, hot air, enthusiasm	熱気 <br> ねっき <br> [sound:k8-3275_熱気.mp3]
+熱気	[sound:k8-3275_熱気.mp3] <br> ねっき <br> heat, hot air, enthusiasm
+[sound:s8-3275_戦場は緊迫した状況だ。.mp3]	<b>(緊迫)</b> <br> 戦場は緊迫した状況だ。<br> せんじょうはきんぱくしたじょうきょうだ。 <br> The battlefield is in a tense situation.			
+<b>(緊迫)</b> <br> 戦場は緊迫した状況だ。	[sound:s8-3275_戦場は緊迫した状況だ。.mp3] <br> せんじょうはきんぱくしたじょうきょうだ。 <br> The battlefield is in a tense situation.			
+[sound:k8-3276_熱戦.mp3]	熱戦 <br> ねっせん <br> fierce fighting, close contest
+fierce fighting, close contest	熱戦 <br> ねっせん <br> [sound:k8-3276_熱戦.mp3]
+熱戦	[sound:k8-3276_熱戦.mp3] <br> ねっせん <br> fierce fighting, close contest
+[sound:s8-3276_支出を緊縮する必要がある。.mp3]	<b>(緊縮)</b> <br> 支出を緊縮する必要がある。<br> ししゅつをきんしゅくするひつようがある。 <br> There is a need to tighten spending.			
+<b>(緊縮)</b> <br> 支出を緊縮する必要がある。	[sound:s8-3276_支出を緊縮する必要がある。.mp3] <br> ししゅつをきんしゅくするひつようがある。 <br> There is a need to tighten spending.			
+[sound:k8-3277_過熱.mp3]	過熱 <br> かねつ <br> superheating, overheating
+superheating, overheating	過熱 <br> かねつ <br> [sound:k8-3277_過熱.mp3]
+過熱	[sound:k8-3277_過熱.mp3] <br> かねつ <br> superheating, overheating
+[sound:s8-3277_緊要な情報を伝える。.mp3]	<b>(緊要)</b> <br> 緊要な情報を伝える。<br> きんようなじょうほうをつたえる。 <br> Communicate crucial information.			
+<b>(緊要)</b> <br> 緊要な情報を伝える。	[sound:s8-3277_緊要な情報を伝える。.mp3] <br> きんようなじょうほうをつたえる。 <br> Communicate crucial information.			
+[sound:k8-3278_熱狂.mp3]	熱狂 <br> ねっきょう <br> wild enthusiasm, being crazy about
+wild enthusiasm, being crazy about	熱狂 <br> ねっきょう <br> [sound:k8-3278_熱狂.mp3]
+熱狂	[sound:k8-3278_熱狂.mp3] <br> ねっきょう <br> wild enthusiasm, being crazy about
+[sound:s8-3278_緊い状況が続いている。.mp3]	<b>(緊い)</b> <br> 緊い状況が続いている。<br> きんいじょうきょうがつづいている。 <br> A tense situation continues.			
+<b>(緊い)</b> <br> 緊い状況が続いている。	[sound:s8-3278_緊い状況が続いている。.mp3] <br> きんいじょうきょうがつづいている。 <br> A tense situation continues.			
+[sound:k8-3279_宿.mp3]	宿 <br> (kun: やど, やど.る, やど.す; on: シュク) <br> inn, lodging, relay station, dwell, lodge, be pregnant, home, dwelling
+inn, lodging, relay station, dwell, lodge, be pregnant, home, dwelling	宿 <br> (kun: やど, やど.る, やど.す; on: シュク) <br> [sound:k8-3279_宿.mp3]
+宿	[sound:k8-3279_宿.mp3] <br> (kun: やど, やど.る, やど.す; on: シュク) <br> inn, lodging, relay station, dwell, lodge, be pregnant, home, dwelling
+[sound:s8-3279_彼の表情が緊まった。.mp3]	<b>(緊まる)</b> <br> 彼の表情が緊まった。<br> かれのひょうじょうがきんまった。 <br> His expression became tense.			
+<b>(緊まる)</b> <br> 彼の表情が緊まった。	[sound:s8-3279_彼の表情が緊まった。.mp3] <br> かれのひょうじょうがきんまった。 <br> His expression became tense.			
+[sound:k8-3280_宿.mp3]	宿 <br> やど <br> inn, lodging
+inn, lodging	宿 <br> やど <br> [sound:k8-3280_宿.mp3]
+宿	[sound:k8-3280_宿.mp3] <br> やど <br> inn, lodging
+[sound:s8-3280_ネクタイを緊める。.mp3]	<b>(緊める)</b> <br> ネクタイを緊める。<br> ねくたいをしめる。 <br> Tighten the tie.			
+<b>(緊める)</b> <br> ネクタイを緊める。	[sound:s8-3280_ネクタイを緊める。.mp3] <br> ねくたいをしめる。 <br> Tighten the tie.			
+[sound:k8-3281_宿泊.mp3]	宿泊 <br> しゅくはく <br> lodging
+lodging	宿泊 <br> しゅくはく <br> [sound:k8-3281_宿泊.mp3]
+宿泊	[sound:k8-3281_宿泊.mp3] <br> しゅくはく <br> lodging
+[sound:s8-3281_彼の緊とした表情が印象的だった。.mp3]	<b>(緊と)</b> <br> 彼の緊とした表情が印象的だった。<br> かれのきんとしたひょうじょうがいんしょうてきだった。 <br> His intense expression was impressive.			
+<b>(緊と)</b> <br> 彼の緊とした表情が印象的だった。	[sound:s8-3281_彼の緊とした表情が印象的だった。.mp3] <br> かれのきんとしたひょうじょうがいんしょうてきだった。 <br> His intense expression was impressive.			
+[sound:k8-3282_合宿.mp3]	合宿 <br> がっしゅく <br> lodging together, training camp, boarding house
+lodging together, training camp, boarding house	合宿 <br> がっしゅく <br> [sound:k8-3282_合宿.mp3]
+合宿	[sound:k8-3282_合宿.mp3] <br> がっしゅく <br> lodging together, training camp, boarding house
+[sound:s8-3282_その映画は他に類を見ない。.mp3]	<b>(類)</b> <br> その映画は他に類を見ない。<br> そのえいがはほかにるいをみない。 <br> That movie is unlike any other.			
+<b>(類)</b> <br> その映画は他に類を見ない。	[sound:s8-3282_その映画は他に類を見ない。.mp3] <br> そのえいがはほかにるいをみない。 <br> That movie is unlike any other.			
+[sound:k8-3283_宿舎.mp3]	宿舎 <br> しゅくしゃ <br> lodging house
+lodging house	宿舎 <br> しゅくしゃ <br> [sound:k8-3283_宿舎.mp3]
+宿舎	[sound:k8-3283_宿舎.mp3] <br> しゅくしゃ <br> lodging house
+[sound:s8-3283_宇宙への人類の探査が進む。.mp3]	<b>(人類)</b> <br> 宇宙への人類の探査が進む。<br> うちゅうへのじんるいのたんさがすすむ。 <br> Human exploration of space is advancing.			
+<b>(人類)</b> <br> 宇宙への人類の探査が進む。	[sound:s8-3283_宇宙への人類の探査が進む。.mp3] <br> うちゅうへのじんるいのたんさがすすむ。 <br> Human exploration of space is advancing.			
+[sound:k8-3284_宿題.mp3]	宿題 <br> しゅくだい <br> homework
+homework	宿題 <br> しゅくだい <br> [sound:k8-3284_宿題.mp3]
+宿題	[sound:k8-3284_宿題.mp3] <br> しゅくだい <br> homework
+[sound:s8-3284_様々な種類の果物がある。.mp3]	<b>(種類)</b> <br> 様々な種類の果物がある。<br> さまざまなしゅるいのくだものがある。 <br> There are various kinds of fruits.			
+<b>(種類)</b> <br> 様々な種類の果物がある。	[sound:s8-3284_様々な種類の果物がある。.mp3] <br> さまざまなしゅるいのくだものがある。 <br> There are various kinds of fruits.			
+[sound:k8-3285_宿命.mp3]	宿命 <br> しゅくめい <br> fate, destiny, predestination
+fate, destiny, predestination	宿命 <br> しゅくめい <br> [sound:k8-3285_宿命.mp3]
+宿命	[sound:k8-3285_宿命.mp3] <br> しゅくめい <br> fate, destiny, predestination
+[sound:s8-3285_書類を整理する。.mp3]	<b>(書類)</b> <br> 書類を整理する。<br> しょるいをせいりする。 <br> Organize documents.			
+<b>(書類)</b> <br> 書類を整理する。	[sound:s8-3285_書類を整理する。.mp3] <br> しょるいをせいりする。 <br> Organize documents.			
+[sound:k8-3286_宿駅.mp3]	宿駅 <br> しゅくえき <br> post town, relay station, stage
+post town, relay station, stage	宿駅 <br> しゅくえき <br> [sound:k8-3286_宿駅.mp3]
+宿駅	[sound:k8-3286_宿駅.mp3] <br> しゅくえき <br> post town, relay station, stage
+[sound:s8-3286_親類一同が集まる。.mp3]	<b>(親類)</b> <br> 親類一同が集まる。<br> しんるいいちどうがあつまる。 <br> The relatives gather together.			
+<b>(親類)</b> <br> 親類一同が集まる。	[sound:s8-3286_親類一同が集まる。.mp3] <br> しんるいいちどうがあつまる。 <br> The relatives gather together.			
+[sound:k8-3287_下宿.mp3]	下宿 <br> げしゅく <br> boarding, lodging, boarding house
+boarding, lodging, boarding house	下宿 <br> げしゅく <br> [sound:k8-3287_下宿.mp3]
+下宿	[sound:k8-3287_下宿.mp3] <br> げしゅく <br> boarding, lodging, boarding house
+[sound:s8-3287_衣類を洗濯する。.mp3]	<b>(衣類)</b> <br> 衣類を洗濯する。<br> いるいをせんたくする。 <br> Wash clothes.			
+<b>(衣類)</b> <br> 衣類を洗濯する。	[sound:s8-3287_衣類を洗濯する。.mp3] <br> いるいをせんたくする。 <br> Wash clothes.			
+[sound:k8-3288_民宿.mp3]	民宿 <br> みんしゅく <br> private home providing lodging for travelers (travellers)
+private home providing lodging for travelers (travellers)	民宿 <br> みんしゅく <br> [sound:k8-3288_民宿.mp3]
+民宿	[sound:k8-3288_民宿.mp3] <br> みんしゅく <br> private home providing lodging for travelers (travellers)
+[sound:s8-3288_図書館で本を分類する。.mp3]	<b>(分類)</b> <br> 図書館で本を分類する。<br> としょかんでほんをぶんるいする。 <br> Classify books in the library.			
+<b>(分類)</b> <br> 図書館で本を分類する。	[sound:s8-3288_図書館で本を分類する。.mp3] <br> としょかんでほんをぶんるいする。 <br> Classify books in the library.			
+[sound:k8-3289_宿敵.mp3]	宿敵 <br> しゅくてき <br> old enemy, longtime enemy, arch-enemy, traditional rival, longstanding foe
+old enemy, longtime enemy, arch-enemy, traditional rival, longstanding foe	宿敵 <br> しゅくてき <br> [sound:k8-3289_宿敵.mp3]
+宿敵	[sound:k8-3289_宿敵.mp3] <br> しゅくてき <br> old enemy, longtime enemy, arch-enemy, traditional rival, longstanding foe
+[sound:s8-3289_二つの物の類似点を見つける。.mp3]	<b>(類似)</b> <br> 二つの物の類似点を見つける。<br> ふたつのもののるいじてんをみつける。 <br> Find similarities between two things.			
+<b>(類似)</b> <br> 二つの物の類似点を見つける。	[sound:s8-3289_二つの物の類似点を見つける。.mp3] <br> ふたつのもののるいじてんをみつける。 <br> Find similarities between two things.			
+[sound:k8-3290_早.mp3]	早 <br> (kun: はや.い, はや, はや-, はや.まる, はや.める, さ-; on: ソウ, サッ) <br> early, fast
+early, fast	早 <br> (kun: はや.い, はや, はや-, はや.まる, はや.める, さ-; on: ソウ, サッ) <br> [sound:k8-3290_早.mp3]
+早	[sound:k8-3290_早.mp3] <br> (kun: はや.い, はや, はや-, はや.まる, はや.める, さ-; on: ソウ, サッ) <br> early, fast
+[sound:s8-3290_酒類の販売が規制される。.mp3]	<b>(酒類)</b> <br> 酒類の販売が規制される。<br> しゅるいのはんばいがきせいされる。 <br> The sale of alcoholic beverages is regulated.			
+<b>(酒類)</b> <br> 酒類の販売が規制される。	[sound:s8-3290_酒類の販売が規制される。.mp3] <br> しゅるいのはんばいがきせいされる。 <br> The sale of alcoholic beverages is regulated.			
+[sound:k8-3291_早期.mp3]	早期 <br> そうき <br> early stage
+early stage	早期 <br> そうき <br> [sound:k8-3291_早期.mp3]
+早期	[sound:k8-3291_早期.mp3] <br> そうき <br> early stage
+[sound:s8-3291_人類学の研究をする。.mp3]	<b>(人類学)</b> <br> 人類学の研究をする。<br> じんるいがくのけんきゅうをする。 <br> Study anthropology.			
+<b>(人類学)</b> <br> 人類学の研究をする。	[sound:s8-3291_人類学の研究をする。.mp3] <br> じんるいがくのけんきゅうをする。 <br> Study anthropology.			
+[sound:k8-3292_早.mp3]	早 <br> はや <br> already, now, by this time
+already, now, by this time	早 <br> はや <br> [sound:k8-3292_早.mp3]
+早	[sound:k8-3292_早.mp3] <br> はや <br> already, now, by this time
+[sound:s8-3292_鳥類の生態を観察する。.mp3]	<b>(鳥類)</b> <br> 鳥類の生態を観察する。<br> ちょうるいのせいたいをかんさつする。 <br> Observe the ecology of birds.			
+<b>(鳥類)</b> <br> 鳥類の生態を観察する。	[sound:s8-3292_鳥類の生態を観察する。.mp3] <br> ちょうるいのせいたいをかんさつする。 <br> Observe the ecology of birds.			
+[sound:k8-3293_早急.mp3]	早急 <br> さっきゅう, そうきゅう <br> urgent
+urgent	早急 <br> さっきゅう, そうきゅう <br> [sound:k8-3293_早急.mp3]
+早急	[sound:k8-3293_早急.mp3] <br> さっきゅう, そうきゅう <br> urgent
+[sound:s8-3293_幼児を保育園に通わせる。.mp3]	<b>(児)</b> <br> 幼児を保育園に通わせる。<br> ようじをほいくえんにかよわせる。 <br> Have a preschooler attend nursery school.			
+<b>(児)</b> <br> 幼児を保育園に通わせる。	[sound:s8-3293_幼児を保育園に通わせる。.mp3] <br> ようじをほいくえんにかよわせる。 <br> Have a preschooler attend nursery school.			
+[sound:k8-3294_早朝.mp3]	早朝 <br> そうちょう <br> early morning
+early morning	早朝 <br> そうちょう <br> [sound:k8-3294_早朝.mp3]
+早朝	[sound:k8-3294_早朝.mp3] <br> そうちょう <br> early morning
+[sound:s8-3294_児童養護施設で働く。.mp3]	<b>(児童)</b> <br> 児童養護施設で働く。<br> じどうようごしせつではたらく。 <br> Work at a children's home.			
+<b>(児童)</b> <br> 児童養護施設で働く。	[sound:s8-3294_児童養護施設で働く。.mp3] <br> じどうようごしせつではたらく。 <br> Work at a children's home.			
+[sound:k8-3295_早める.mp3]	早める <br> はやめる <br> to hasten, to quicken, to expedite, to precipitate, to accelerate
+to hasten, to quicken, to expedite, to precipitate, to accelerate	早める <br> はやめる <br> [sound:k8-3295_早める.mp3]
+早める	[sound:k8-3295_早める.mp3] <br> はやめる <br> to hasten, to quicken, to expedite, to precipitate, to accelerate
+[sound:s8-3295_育児に専念する。.mp3]	<b>(育児)</b> <br> 育児に専念する。<br> いくじにせんねんする。 <br> Devote oneself to childcare.			
+<b>(育児)</b> <br> 育児に専念する。	[sound:s8-3295_育児に専念する。.mp3] <br> いくじにせんねんする。 <br> Devote oneself to childcare.			
+[sound:k8-3296_早々.mp3]	早々 <br> そうそう, はやばや <br> early, all in good time; quickly, promptly; just- (opened, started, etc.)
+early, all in good time; quickly, promptly; just- (opened, started, etc.)	早々 <br> そうそう, はやばや <br> [sound:k8-3296_早々.mp3]
+早々	[sound:k8-3296_早々.mp3] <br> そうそう, はやばや <br> early, all in good time; quickly, promptly; just- (opened, started, etc.)
+[sound:s8-3296_孤児院で暮らす。.mp3]	<b>(孤児)</b> <br> 孤児院で暮らす。<br> こじいんでくらす。 <br> Live in an orphanage.			
+<b>(孤児)</b> <br> 孤児院で暮らす。	[sound:s8-3296_孤児院で暮らす。.mp3] <br> こじいんでくらす。 <br> Live in an orphanage.			
+[sound:k8-3297_早い.mp3]	早い <br> はやい <br> fast, quick, hasty, brisk; early (in the day, etc.), premature; (too) soon, not yet, (too) early; easy, simple, quick
+fast, quick, hasty, brisk; early (in the day, etc.), premature; (too) soon, not yet, (too) early; easy, simple, quick	早い <br> はやい <br> [sound:k8-3297_早い.mp3]
+早い	[sound:k8-3297_早い.mp3] <br> はやい <br> fast, quick, hasty, brisk; early (in the day, etc.), premature; (too) soon, not yet, (too) early; easy, simple, quick
+[sound:s8-3297_幼児の成長を見守る。.mp3]	<b>(児)</b> <br> 幼児の成長を見守る。<br> ようじのせいちょうをみまもる。 <br> Watch over the growth of young children.			
+<b>(児)</b> <br> 幼児の成長を見守る。	[sound:s8-3297_幼児の成長を見守る。.mp3] <br> ようじのせいちょうをみまもる。 <br> Watch over the growth of young children.			
+[sound:k8-3298_時期尚早.mp3]	時期尚早 <br> じきしょうそう <br> premature
+premature	時期尚早 <br> じきしょうそう <br> [sound:k8-3298_時期尚早.mp3]
+時期尚早	[sound:k8-3298_時期尚早.mp3] <br> じきしょうそう <br> premature
+[sound:s8-3298_幼児向けの絵本を読む。.mp3]	<b>(幼児)</b> <br> 幼児向けの絵本を読む。<br> ようじむけのえほんをよむ。 <br> Read picture books for young children.			
+<b>(幼児)</b> <br> 幼児向けの絵本を読む。	[sound:s8-3298_幼児向けの絵本を読む。.mp3] <br> ようじむけのえほんをよむ。 <br> Read picture books for young children.			
+[sound:k8-3299_素早く.mp3]	素早く <br> すばやく <br> quickly, nimbly, agilely
+quickly, nimbly, agilely	素早く <br> すばやく <br> [sound:k8-3299_素早く.mp3]
+素早く	[sound:k8-3299_素早く.mp3] <br> すばやく <br> quickly, nimbly, agilely
+[sound:s8-3299_小児科医に診てもらう。.mp3]	<b>(小児)</b> <br> 小児科医に診てもらう。<br> しょうにかいにみてもらう。 <br> See a pediatrician.			
+<b>(小児)</b> <br> 小児科医に診てもらう。	[sound:s8-3299_小児科医に診てもらう。.mp3] <br> しょうにかいにみてもらう。 <br> See a pediatrician.			
+[sound:k8-3300_早乙女.mp3]	早乙女 <br> さおとめ <br> young female rice planter, young girl
+young female rice planter, young girl	早乙女 <br> さおとめ <br> [sound:k8-3300_早乙女.mp3]
+早乙女	[sound:k8-3300_早乙女.mp3] <br> さおとめ <br> young female rice planter, young girl
+[sound:s8-3300_女児のための服を買う。.mp3]	<b>(女児)</b> <br> 女児のための服を買う。<br> じょじのためのふくをかう。 <br> Buy clothes for a girl.			
+<b>(女児)</b> <br> 女児のための服を買う。	[sound:s8-3300_女児のための服を買う。.mp3] <br> じょじのためのふくをかう。 <br> Buy clothes for a girl.			
+[sound:k8-3301_張.mp3]	張 <br> (kun: は.る, -は.り, -ば.り; on: チョウ) <br> lengthen, counter for bows &amp; stringed instruments, stretch, spread, put up (tent)
+lengthen, counter for bows &amp; stringed instruments, stretch, spread, put up (tent)	張 <br> (kun: は.る, -は.り, -ば.り; on: チョウ) <br> [sound:k8-3301_張.mp3]
+張	[sound:k8-3301_張.mp3] <br> (kun: は.る, -は.り, -ば.り; on: チョウ) <br> lengthen, counter for bows &amp; stringed instruments, stretch, spread, put up (tent)
+[sound:s8-3301_胎児の成長過程を学ぶ。.mp3]	<b>(胎児)</b> <br> 胎児の成長過程を学ぶ。<br> たいじのせいちょうかていをまなぶ。 <br> Learn about the growth process of a fetus.			
+<b>(胎児)</b> <br> 胎児の成長過程を学ぶ。	[sound:s8-3301_胎児の成長過程を学ぶ。.mp3] <br> たいじのせいちょうかていをまなぶ。 <br> Learn about the growth process of a fetus.			
+[sound:k8-3302_主張.mp3]	主張 <br> しゅちょう <br> claim, request, insistence, assertion, advocacy, emphasis, contention, opinion, tenet
+claim, request, insistence, assertion, advocacy, emphasis, contention, opinion, tenet	主張 <br> しゅちょう <br> [sound:k8-3302_主張.mp3]
+主張	[sound:k8-3302_主張.mp3] <br> しゅちょう <br> claim, request, insistence, assertion, advocacy, emphasis, contention, opinion, tenet
+[sound:s8-3302_男児の教育に力を入れる。.mp3]	<b>(男児)</b> <br> 男児の教育に力を入れる。<br> だんじのきょういくにちからをいれる。 <br> Focus on the education of boys.			
+<b>(男児)</b> <br> 男児の教育に力を入れる。	[sound:s8-3302_男児の教育に力を入れる。.mp3] <br> だんじのきょういくにちからをいれる。 <br> Focus on the education of boys.			
+[sound:k8-3303_緊張.mp3]	緊張 <br> きんちょう <br> tension, mental strain, nervousness
+tension, mental strain, nervousness	緊張 <br> きんちょう <br> [sound:k8-3303_緊張.mp3]
+緊張	[sound:k8-3303_緊張.mp3] <br> きんちょう <br> tension, mental strain, nervousness
+[sound:s8-3303_遺児を支援する機関がある。.mp3]	<b>(遺児)</b> <br> 遺児を支援する機関がある。<br> いじをしえんするきかんがある。 <br> There are organizations that support orphaned children.			
+<b>(遺児)</b> <br> 遺児を支援する機関がある。	[sound:s8-3303_遺児を支援する機関がある。.mp3] <br> いじをしえんするきかんがある。 <br> There are organizations that support orphaned children.			
+[sound:k8-3304_張り.mp3]	張り <br> ばり <br> in the style of (esp. literary, artistic, etc. works), reminiscent of; attached or stretched on
+in the style of (esp. literary, artistic, etc. works), reminiscent of; attached or stretched on	張り <br> ばり <br> [sound:k8-3304_張り.mp3]
+張り	[sound:k8-3304_張り.mp3] <br> ばり <br> in the style of (esp. literary, artistic, etc. works), reminiscent of; attached or stretched on
+[sound:s8-3304_予定より余裕をもって行動する。.mp3]	<b>(余)</b> <br> 予定より余裕をもって行動する。<br> よていよりよゆうをもってこうどうする。 <br> Act with more than enough time than planned.			
+<b>(余)</b> <br> 予定より余裕をもって行動する。	[sound:s8-3304_予定より余裕をもって行動する。.mp3] <br> よていよりよゆうをもってこうどうする。 <br> Act with more than enough time than planned.			
+[sound:k8-3305_頑張って.mp3]	頑張って <br> がんばって <br> Hold on, Go for it, Keep at it
+Hold on, Go for it, Keep at it	頑張って <br> がんばって <br> [sound:k8-3305_頑張って.mp3]
+頑張って	[sound:k8-3305_頑張って.mp3] <br> がんばって <br> Hold on, Go for it, Keep at it
+[sound:s8-3305_余裕を持って仕事をする。.mp3]	<b>(余裕)</b> <br> 余裕を持って仕事をする。<br> よゆうをもってしごとをする。 <br> Work with ease.			
+<b>(余裕)</b> <br> 余裕を持って仕事をする。	[sound:s8-3305_余裕を持って仕事をする。.mp3] <br> よゆうをもってしごとをする。 <br> Work with ease.			
+[sound:k8-3306_出張.mp3]	出張 <br> しゅっちょう <br> official tour, business trip
+official tour, business trip	出張 <br> しゅっちょう <br> [sound:k8-3306_出張.mp3]
+出張	[sound:k8-3306_出張.mp3] <br> しゅっちょう <br> official tour, business trip
+[sound:s8-3306_改善する余地がある。.mp3]	<b>(余地)</b> <br> 改善する余地がある。<br> かいぜんするよちがある。 <br> There is room for improvement.			
+<b>(余地)</b> <br> 改善する余地がある。	[sound:s8-3306_改善する余地がある。.mp3] <br> かいぜんするよちがある。 <br> There is room for improvement.			
+[sound:k8-3307_張る.mp3]	張る <br> はる <br> to stick, to paste, to affix; to stretch, to spread, to strain, to tighten; to form (e.g. ice on a pond); to fill, to swell; to stick out, to put, to slap; to be expensive
+to stick, to paste, to affix; to stretch, to spread, to strain, to tighten; to form (e.g. ice on a pond); to fill, to swell; to stick out, to put, to slap; to be expensive	張る <br> はる <br> [sound:k8-3307_張る.mp3]
+張る	[sound:k8-3307_張る.mp3] <br> はる <br> to stick, to paste, to affix; to stretch, to spread, to strain, to tighten; to form (e.g. ice on a pond); to fill, to swell; to stick out, to put, to slap; to be expensive
+[sound:s8-3307_彼の行動は余りにも奇妙だ。.mp3]	<b>(余りに)</b> <br> 彼の行動は余りにも奇妙だ。<br> かれのこうどうはあまりにもきみょうだ。 <br> His behavior is too strange.			
+<b>(余りに)</b> <br> 彼の行動は余りにも奇妙だ。	[sound:s8-3307_彼の行動は余りにも奇妙だ。.mp3] <br> かれのこうどうはあまりにもきみょうだ。 <br> His behavior is too strange.			
+[sound:k8-3308_拡張.mp3]	拡張 <br> かくちょう <br> expansion, extension, enlargement, escape, ESC
+expansion, extension, enlargement, escape, ESC	拡張 <br> かくちょう <br> [sound:k8-3308_拡張.mp3]
+拡張	[sound:k8-3308_拡張.mp3] <br> かくちょう <br> expansion, extension, enlargement, escape, ESC
+[sound:s8-3308_この問題には余儀ない。.mp3]	<b>(余儀ない)</b> <br> この問題には余儀ない。<br> このもんだいにはよぎない。 <br> There is no other choice in this matter.			
+<b>(余儀ない)</b> <br> この問題には余儀ない。	[sound:s8-3308_この問題には余儀ない。.mp3] <br> このもんだいにはよぎない。 <br> There is no other choice in this matter.			
+[sound:k8-3309_膨張.mp3]	膨張 <br> ぼうちょう <br> expansion, swelling, increase, growth
+expansion, swelling, increase, growth	膨張 <br> ぼうちょう <br> [sound:k8-3309_膨張.mp3]
+膨張	[sound:k8-3309_膨張.mp3] <br> ぼうちょう <br> expansion, swelling, increase, growth
+[sound:s8-3309_彼は事情に余儀なく辞任した。.mp3]	<b>(余儀なく)</b> <br> 彼は事情に余儀なく辞任した。<br> かれはじじょうによぎなくじにんした。 <br> He resigned due to unavoidable circumstances.			
+<b>(余儀なく)</b> <br> 彼は事情に余儀なく辞任した。	[sound:s8-3309_彼は事情に余儀なく辞任した。.mp3] <br> かれはじじょうによぎなくじにんした。 <br> He resigned due to unavoidable circumstances.			
+[sound:k8-3310_引っ張り剪断強度.mp3]	引っ張り剪断強度 <br> ひっぱりせんだんきょうど <br> peel strength (conductor from substrate)
+peel strength (conductor from substrate)	引っ張り剪断強度 <br> ひっぱりせんだんきょうど <br> [sound:k8-3310_引っ張り剪断強度.mp3]
+引っ張り剪断強度	[sound:k8-3310_引っ張り剪断強度.mp3] <br> ひっぱりせんだんきょうど <br> peel strength (conductor from substrate)
+[sound:s8-3310_余暇を利用して趣味に没頭する。.mp3]	<b>(余暇)</b> <br> 余暇を利用して趣味に没頭する。<br> よかをりようしてしゅみにぼっとうする。 <br> Devote hobbies in leisure time.			
+<b>(余暇)</b> <br> 余暇を利用して趣味に没頭する。	[sound:s8-3310_余暇を利用して趣味に没頭する。.mp3] <br> よかをりようしてしゅみにぼっとうする。 <br> Devote hobbies in leisure time.			
+[sound:k8-3311_頑張り.mp3]	頑張り <br> がんばり <br> tenacity, endurance
+tenacity, endurance	頑張り <br> がんばり <br> [sound:k8-3311_頑張り.mp3]
+頑張り	[sound:k8-3311_頑張り.mp3] <br> がんばり <br> tenacity, endurance
+[sound:s8-3311_余りを貯金する。.mp3]	<b>(余り)</b> <br> 余りを貯金する。<br> あまりをちょきんする。 <br> Save the remainder.			
+<b>(余り)</b> <br> 余りを貯金する。	[sound:s8-3311_余りを貯金する。.mp3] <br> あまりをちょきんする。 <br> Save the remainder.			
+[sound:k8-3312_映.mp3]	映 <br> (kun: うつ.る, うつ.す, は.える, -ば.え; on: エイ) <br> reflect, reflection, projection
+reflect, reflection, projection	映 <br> (kun: うつ.る, うつ.す, は.える, -ば.え; on: エイ) <br> [sound:k8-3312_映.mp3]
+映	[sound:k8-3312_映.mp3] <br> (kun: うつ.る, うつ.す, は.える, -ば.え; on: エイ) <br> reflect, reflection, projection
+[sound:s8-3312_時間が余ったので散歩に行く。.mp3]	<b>(余る)</b> <br> 時間が余ったので散歩に行く。<br> じかんがあまったのでさんぽにいく。 <br> Since there was extra time, I went for a walk.			
+<b>(余る)</b> <br> 時間が余ったので散歩に行く。	[sound:s8-3312_時間が余ったので散歩に行く。.mp3] <br> じかんがあまったのでさんぽにいく。 <br> Since there was extra time, I went for a walk.			
+[sound:k8-3313_映画.mp3]	映画 <br> えいが <br> movie, film
+movie, film	映画 <br> えいが <br> [sound:k8-3313_映画.mp3]
+映画	[sound:k8-3313_映画.mp3] <br> えいが <br> movie, film
+[sound:s8-3313_余計なお世話だ。.mp3]	<b>(余計)</b> <br> 余計なお世話だ。<br> よけいなおせわだ。 <br> It's unnecessary meddling.			
+<b>(余計)</b> <br> 余計なお世話だ。	[sound:s8-3313_余計なお世話だ。.mp3] <br> よけいなおせわだ。 <br> It's unnecessary meddling.			
+[sound:k8-3314_映像.mp3]	映像 <br> えいぞう <br> reflection, image, picture (e.g. on a television)
+reflection, image, picture (e.g. on a television)	映像 <br> えいぞう <br> [sound:k8-3314_映像.mp3]
+映像	[sound:k8-3314_映像.mp3] <br> えいぞう <br> reflection, image, picture (e.g. on a television)
+[sound:s8-3314_事件の余波が広がる。.mp3]	<b>(余波)</b> <br> 事件の余波が広がる。<br> じけんのよはがひろがる。 <br> The aftermath of the incident spreads.			
+<b>(余波)</b> <br> 事件の余波が広がる。	[sound:s8-3314_事件の余波が広がる。.mp3] <br> じけんのよはがひろがる。 <br> The aftermath of the incident spreads.			
+[sound:k8-3315_上映.mp3]	上映 <br> じょうえい <br> screening (a movie), showing; to screen a movie
+screening (a movie), showing; to screen a movie	上映 <br> じょうえい <br> [sound:k8-3315_上映.mp3]
+上映	[sound:k8-3315_上映.mp3] <br> じょうえい <br> screening (a movie), showing; to screen a movie
+[sound:s8-3315_禁煙を守る。.mp3]	<b>(禁)</b> <br> 禁煙を守る。<br> きんえんをまもる。 <br> Obey the no-smoking rule.			
+<b>(禁)</b> <br> 禁煙を守る。	[sound:s8-3315_禁煙を守る。.mp3] <br> きんえんをまもる。 <br> Obey the no-smoking rule.			
+[sound:k8-3316_放映.mp3]	放映 <br> ほうえい <br> televising
+televising	放映 <br> ほうえい <br> [sound:k8-3316_放映.mp3]
+放映	[sound:k8-3316_放映.mp3] <br> ほうえい <br> televising
+[sound:s8-3316_交通法違反が禁止されている。.mp3]	<b>(禁止)</b> <br> 交通法違反が禁止されている。<br> こうつうほういはんがきんしされている。 <br> Traffic violations are prohibited.			
+<b>(禁止)</b> <br> 交通法違反が禁止されている。	[sound:s8-3316_交通法違反が禁止されている。.mp3] <br> こうつうほういはんがきんしされている。 <br> Traffic violations are prohibited.			
+[sound:k8-3317_映画館.mp3]	映画館 <br> えいがかん <br> movie theatre (theater), cinema
+movie theatre (theater), cinema	映画館 <br> えいがかん <br> [sound:k8-3317_映画館.mp3]
+映画館	[sound:k8-3317_映画館.mp3] <br> えいがかん <br> movie theatre (theater), cinema
+[sound:s8-3317_規制が解禁された。.mp3]	<b>(解禁)</b> <br> 規制が解禁された。<br> きせいがかいきんされた。 <br> The regulation has been lifted.			
+<b>(解禁)</b> <br> 規制が解禁された。	[sound:s8-3317_規制が解禁された。.mp3] <br> きせいがかいきんされた。 <br> The regulation has been lifted.			
+[sound:k8-3318_反映.mp3]	反映 <br> はんえい <br> reflection, influence
+reflection, influence	反映 <br> はんえい <br> [sound:k8-3318_反映.mp3]
+反映	[sound:k8-3318_反映.mp3] <br> はんえい <br> reflection, influence
+[sound:s8-3318_禁煙エリアに入る。.mp3]	<b>(禁煙)</b> <br> 禁煙エリアに入る。<br> きんえんえりあにはいる。 <br> Enter a no-smoking area.			
+<b>(禁煙)</b> <br> 禁煙エリアに入る。	[sound:s8-3318_禁煙エリアに入る。.mp3] <br> きんえんえりあにはいる。 <br> Enter a no-smoking area.			
+[sound:k8-3319_映し出す.mp3]	映し出す <br> うつしだす <br> to project, to reflect
+to project, to reflect	映し出す <br> うつしだす <br> [sound:k8-3319_映し出す.mp3]
+映し出す	[sound:k8-3319_映し出す.mp3] <br> うつしだす <br> to project, to reflect
+[sound:s8-3319_独禁法に基づいて調査する。.mp3]	<b>(独禁法)</b> <br> 独禁法に基づいて調査する。<br> どっきんほうにもとづいてちょうさする。 <br> Investigate based on the Antimonopoly Act.			
+<b>(独禁法)</b> <br> 独禁法に基づいて調査する。	[sound:s8-3319_独禁法に基づいて調査する。.mp3] <br> どっきんほうにもとづいてちょうさする。 <br> Investigate based on the Antimonopoly Act.			
+[sound:k8-3320_大映.mp3]	大映 <br> だいえい <br> Daiei Motion Picture Company
+Daiei Motion Picture Company	大映 <br> だいえい <br> [sound:k8-3320_大映.mp3]
+大映	[sound:k8-3320_大映.mp3] <br> だいえい <br> Daiei Motion Picture Company
+[sound:s8-3320_武器の禁輸が行われた。.mp3]	<b>(禁輸)</b> <br> 武器の禁輸が行われた。<br> ぶきのきんゆがおこなわれた。 <br> An arms embargo was imposed.			
+<b>(禁輸)</b> <br> 武器の禁輸が行われた。	[sound:s8-3320_武器の禁輸が行われた。.mp3] <br> ぶきのきんゆがおこなわれた。 <br> An arms embargo was imposed.			
+[sound:k8-3321_映る.mp3]	映る <br> うつる <br> to be reflected, to harmonize with (harmonise), to come out (photo), to be projected
+to be reflected, to harmonize with (harmonise), to come out (photo), to be projected	映る <br> うつる <br> [sound:k8-3321_映る.mp3]
+映る	[sound:k8-3321_映る.mp3] <br> うつる <br> to be reflected, to harmonize with (harmonise), to come out (photo), to be projected
+[sound:s8-3321_薬物の使用を禁止する法律がある。.mp3]	<b>(禁止法)</b> <br> 薬物の使用を禁止する法律がある。<br> やくぶつのしようをきんしするほうりつがある。 <br> There are laws prohibiting drug use.			
+<b>(禁止法)</b> <br> 薬物の使用を禁止する法律がある。	[sound:s8-3321_薬物の使用を禁止する法律がある。.mp3] <br> やくぶつのしようをきんしするほうりつがある。 <br> There are laws prohibiting drug use.			
+[sound:k8-3322_劇映画.mp3]	劇映画 <br> げきえいが <br> film drama
+film drama	劇映画 <br> げきえいが <br> [sound:k8-3322_劇映画.mp3]
+劇映画	[sound:k8-3322_劇映画.mp3] <br> げきえいが <br> film drama
+[sound:s8-3322_人質を監禁する。.mp3]	<b>(監禁)</b> <br> 人質を監禁する。<br> ひとじちをかんきんする。 <br> Keep hostages captive.			
+<b>(監禁)</b> <br> 人質を監禁する。	[sound:s8-3322_人質を監禁する。.mp3] <br> ひとじちをかんきんする。 <br> Keep hostages captive.			
+[sound:k8-3323_限.mp3]	限 <br> (kun: かぎ.る, かぎ.り, -かぎ.り; on: ゲン) <br> limit, restrict, to best of ability
+limit, restrict, to best of ability	限 <br> (kun: かぎ.る, かぎ.り, -かぎ.り; on: ゲン) <br> [sound:k8-3323_限.mp3]
+限	[sound:k8-3323_限.mp3] <br> (kun: かぎ.る, かぎ.り, -かぎ.り; on: ゲン) <br> limit, restrict, to best of ability
+[sound:s8-3323_飲酒を禁じる。.mp3]	<b>(禁じる)</b> <br> 飲酒を禁じる。<br> いんしゅをきんじる。 <br> Prohibit drinking alcohol.			
+<b>(禁じる)</b> <br> 飲酒を禁じる。	[sound:s8-3323_飲酒を禁じる。.mp3] <br> いんしゅをきんじる。 <br> Prohibit drinking alcohol.			
+[sound:k8-3324_限る.mp3]	限る <br> かぎる <br> to restrict, to limit, to confine
+to restrict, to limit, to confine	限る <br> かぎる <br> [sound:k8-3324_限る.mp3]
+限る	[sound:k8-3324_限る.mp3] <br> かぎる <br> to restrict, to limit, to confine
+[sound:s8-3324_窃盗犯は禁固刑を受けた。.mp3]	<b>(禁固)</b> <br> 窃盗犯は禁固刑を受けた。<br> せっとうはんはきんこけいをうけた。 <br> The thief received a prison sentence.			
+<b>(禁固)</b> <br> 窃盗犯は禁固刑を受けた。	[sound:s8-3324_窃盗犯は禁固刑を受けた。.mp3] <br> せっとうはんはきんこけいをうけた。 <br> The thief received a prison sentence.			
+[sound:k8-3325_期限.mp3]	期限 <br> きげん <br> term, period, time frame; time limit, deadline, cutoff (date)
+term, period, time frame; time limit, deadline, cutoff (date)	期限 <br> きげん <br> [sound:k8-3325_期限.mp3]
+期限	[sound:k8-3325_期限.mp3] <br> きげん <br> term, period, time frame; time limit, deadline, cutoff (date)
+[sound:s8-3325_人質を軟禁する。.mp3]	<b>(軟禁)</b> <br> 人質を軟禁する。<br> ひとじちをなんきんする。 <br> Keep someone under house arrest.			
+<b>(軟禁)</b> <br> 人質を軟禁する。	[sound:s8-3325_人質を軟禁する。.mp3] <br> ひとじちをなんきんする。 <br> Keep someone under house arrest.			
+[sound:k8-3326_権限.mp3]	権限 <br> けんげん <br> power, authority, jurisdiction
+power, authority, jurisdiction	権限 <br> けんげん <br> [sound:k8-3326_権限.mp3]
+権限	[sound:k8-3326_権限.mp3] <br> けんげん <br> power, authority, jurisdiction
+[sound:s8-3326_その件には彼の印がない。.mp3]	<b>(印)</b> <br> その件には彼の印がない。<br> そのけんにはかれのしるしがない。 <br> There's no indication of his involvement in that matter.			
+<b>(印)</b> <br> その件には彼の印がない。	[sound:s8-3326_その件には彼の印がない。.mp3] <br> そのけんにはかれのしるしがない。 <br> There's no indication of his involvement in that matter.			
+[sound:k8-3327_制限.mp3]	制限 <br> せいげん <br> restriction, restraint, limitation, limit
+restriction, restraint, limitation, limit	制限 <br> せいげん <br> [sound:k8-3327_制限.mp3]
+制限	[sound:k8-3327_制限.mp3] <br> せいげん <br> restriction, restraint, limitation, limit
+[sound:s8-3327_書類に捺印する。.mp3]	<b>(印)</b> <br> 書類に捺印する。<br> しょるいになついんする。 <br> Stamp the document.			
+<b>(印)</b> <br> 書類に捺印する。	[sound:s8-3327_書類に捺印する。.mp3] <br> しょるいになついんする。 <br> Stamp the document.			
+[sound:k8-3328_限界.mp3]	限界 <br> げんかい <br> limit, bound
+limit, bound	限界 <br> げんかい <br> [sound:k8-3328_限界.mp3]
+限界	[sound:k8-3328_限界.mp3] <br> げんかい <br> limit, bound
+[sound:s8-3328_その国の印象が変わった。.mp3]	<b>(印象)</b> <br> その国の印象が変わった。<br> そのくにのいんしょうがかわった。 <br> The impression of that country has changed.			
+<b>(印象)</b> <br> その国の印象が変わった。	[sound:s8-3328_その国の印象が変わった。.mp3] <br> そのくにのいんしょうがかわった。 <br> The impression of that country has changed.			
+[sound:k8-3329_限り.mp3]	限り <br> かぎり <br> limit(s), bounds; degree, extent, scope; as far as possible, as much as possible, to the best of one's ability; unless (after neg. verb); the end, the last
+limit(s), bounds; degree, extent, scope; as far as possible, as much as possible, to the best of one's ability; unless (after neg. verb); the end, the last	限り <br> かぎり <br> [sound:k8-3329_限り.mp3]
+限り	[sound:k8-3329_限り.mp3] <br> かぎり <br> limit(s), bounds; degree, extent, scope; as far as possible, as much as possible, to the best of one's ability; unless (after neg. verb); the end, the last
+[sound:s8-3329_条約を調印する。.mp3]	<b>(調印)</b> <br> 条約を調印する。<br> じょうやくをちょういんする。 <br> Sign the treaty.			
+<b>(調印)</b> <br> 条約を調印する。	[sound:s8-3329_条約を調印する。.mp3] <br> じょうやくをちょういんする。 <br> Sign the treaty.			
+[sound:k8-3330_限定.mp3]	限定 <br> げんてい <br> limit, restriction
+limit, restriction	限定 <br> げんてい <br> [sound:k8-3330_限定.mp3]
+限定	[sound:k8-3330_限定.mp3] <br> げんてい <br> limit, restriction
+[sound:s8-3330_パンフレットを印刷する。.mp3]	<b>(印刷)</b> <br> パンフレットを印刷する。<br> ぱんふれっとをいんさつする。 <br> Print the brochure.			
+<b>(印刷)</b> <br> パンフレットを印刷する。	[sound:s8-3330_パンフレットを印刷する。.mp3] <br> ぱんふれっとをいんさつする。 <br> Print the brochure.			
+[sound:k8-3331_上限.mp3]	上限 <br> じょうげん <br> upper limit, maximum
+upper limit, maximum	上限 <br> じょうげん <br> [sound:k8-3331_上限.mp3]
+上限	[sound:k8-3331_上限.mp3] <br> じょうげん <br> upper limit, maximum
+[sound:s8-3331_封書に消印を押す。.mp3]	<b>(消印)</b> <br> 封書に消印を押す。<br> ふうしょにけしいんをおす。 <br> Stamp the postmark on the envelope.			
+<b>(消印)</b> <br> 封書に消印を押す。	[sound:s8-3331_封書に消印を押す。.mp3] <br> ふうしょにけしいんをおす。 <br> Stamp the postmark on the envelope.			
+[sound:k8-3332_最大限.mp3]	最大限 <br> さいだいげん <br> maximum
+maximum	最大限 <br> さいだいげん <br> [sound:k8-3332_最大限.mp3]
+最大限	[sound:k8-3332_最大限.mp3] <br> さいだいげん <br> maximum
+[sound:s8-3332_彼の言葉は印象的だった。.mp3]	<b>(印象的)</b> <br> 彼の言葉は印象的だった。<br> かれのことばはいんしょうてきだった。 <br> His words were impressive.			
+<b>(印象的)</b> <br> 彼の言葉は印象的だった。	[sound:s8-3332_彼の言葉は印象的だった。.mp3] <br> かれのことばはいんしょうてきだった。 <br> His words were impressive.			
+[sound:k8-3333_限度.mp3]	限度 <br> げんど <br> limit, bounds
+limit, bounds	限度 <br> げんど <br> [sound:k8-3333_限度.mp3]
+限度	[sound:k8-3333_限度.mp3] <br> げんど <br> limit, bounds
+[sound:s8-3333_日本の旗印は太陽だ。.mp3]	<b>(旗印)</b> <br> 日本の旗印は太陽だ。<br> にほんのはたじるしはたいようだ。 <br> The flag emblem of Japan is the sun.			
+<b>(旗印)</b> <br> 日本の旗印は太陽だ。	[sound:s8-3333_日本の旗印は太陽だ。.mp3] <br> にほんのはたじるしはたいようだ。 <br> The flag emblem of Japan is the sun.			
+[sound:k8-3334_親.mp3]	親 <br> (kun: おや, おや-, した.しい, した.しむ; on: シン) <br> parent, intimacy, relative, familiarity, dealer (cards)
+parent, intimacy, relative, familiarity, dealer (cards)	親 <br> (kun: おや, おや-, した.しい, した.しむ; on: シン) <br> [sound:k8-3334_親.mp3]
+親	[sound:k8-3334_親.mp3] <br> (kun: おや, おや-, した.しい, した.しむ; on: シン) <br> parent, intimacy, relative, familiarity, dealer (cards)
+[sound:s8-3334_個人用の印鑑を作る。.mp3]	<b>(印鑑)</b> <br> 個人用の印鑑を作る。<br> こじんようのいんかんをつくる。 <br> Make a personal seal.			
+<b>(印鑑)</b> <br> 個人用の印鑑を作る。	[sound:s8-3334_個人用の印鑑を作る。.mp3] <br> こじんようのいんかんをつくる。 <br> Make a personal seal.			
+[sound:k8-3335_親.mp3]	親 <br> おや <br> parent, parents; dealer (in cards); founder; (pet) owner
+parent, parents; dealer (in cards); founder; (pet) owner	親 <br> おや <br> [sound:k8-3335_親.mp3]
+親	[sound:k8-3335_親.mp3] <br> おや <br> parent, parents; dealer (in cards); founder; (pet) owner
+[sound:s8-3335_契約書に印紙を貼る。.mp3]	<b>(印紙)</b> <br> 契約書に印紙を貼る。<br> けいやくしょにいんしをはる。 <br> Attach a revenue stamp to the contract.			
+<b>(印紙)</b> <br> 契約書に印紙を貼る。	[sound:s8-3335_契約書に印紙を貼る。.mp3] <br> けいやくしょにいんしをはる。 <br> Attach a revenue stamp to the contract.			
+[sound:k8-3336_父親.mp3]	父親 <br> ちちおや <br> father
+father	父親 <br> ちちおや <br> [sound:k8-3336_父親.mp3]
+父親	[sound:k8-3336_父親.mp3] <br> ちちおや <br> father
+[sound:s8-3336_彼の行動は良い印象を付けた。.mp3]	<b>(印象付ける)</b> <br> 彼の行動は良い印象を付けた。<br> かれのこうどうはよいいんしょうをつけた。 <br> His actions left a good impression.			
+<b>(印象付ける)</b> <br> 彼の行動は良い印象を付けた。	[sound:s8-3336_彼の行動は良い印象を付けた。.mp3] <br> かれのこうどうはよいいんしょうをつけた。 <br> His actions left a good impression.			
+[sound:k8-3337_母親.mp3]	母親 <br> ははおや <br> mother
+mother	母親 <br> ははおや <br> [sound:k8-3337_母親.mp3]
+母親	[sound:k8-3337_母親.mp3] <br> ははおや <br> mother
+[sound:s8-3337_逆に考える。.mp3]	<b>(逆)</b> <br> 逆に考える。<br> ぎゃくにかんがえる。 <br> Think the opposite.			
+<b>(逆)</b> <br> 逆に考える。	[sound:s8-3337_逆に考える。.mp3] <br> ぎゃくにかんがえる。 <br> Think the opposite.			
+[sound:k8-3338_両親.mp3]	両親 <br> りょうしん, ふたおや <br> parents, both parents
+parents, both parents	両親 <br> りょうしん, ふたおや <br> [sound:k8-3338_両親.mp3]
+両親	[sound:k8-3338_両親.mp3] <br> りょうしん, ふたおや <br> parents, both parents
+[sound:s8-3338_逆に進む。.mp3]	<b>(逆)</b> <br> 逆に進む。<br> ぎゃくにすすむ。 <br> Go in the opposite direction.			
+<b>(逆)</b> <br> 逆に進む。	[sound:s8-3338_逆に進む。.mp3] <br> ぎゃくにすすむ。 <br> Go in the opposite direction.			
+[sound:k8-3339_親子.mp3]	親子 <br> おやこ, しんし <br> parent and child
+parent and child	親子 <br> おやこ, しんし <br> [sound:k8-3339_親子.mp3]
+親子	[sound:k8-3339_親子.mp3] <br> おやこ, しんし <br> parent and child
+[sound:s8-3339_試合の逆転があった。.mp3]	<b>(逆転)</b> <br> 試合の逆転があった。<br> しあいのぎゃくてんがあった。 <br> There was a turnaround in the game.			
+<b>(逆転)</b> <br> 試合の逆転があった。	[sound:s8-3339_試合の逆転があった。.mp3] <br> しあいのぎゃくてんがあった。 <br> There was a turnaround in the game.			
+[sound:k8-3340_親方.mp3]	親方 <br> おやかた <br> master; coach in professional sumo
+master; coach in professional sumo	親方 <br> おやかた <br> [sound:k8-3340_親方.mp3]
+親方	[sound:k8-3340_親方.mp3] <br> おやかた <br> master; coach in professional sumo
+[sound:s8-3340_逆転勝ちで優勝する。.mp3]	<b>(逆転勝ち)</b> <br> 逆転勝ちで優勝する。<br> ぎゃくてんがちでゆうしょうする。 <br> Win by a comeback and become the champion.			
+<b>(逆転勝ち)</b> <br> 逆転勝ちで優勝する。	[sound:s8-3340_逆転勝ちで優勝する。.mp3] <br> ぎゃくてんがちでゆうしょうする。 <br> Win by a comeback and become the champion.			
+[sound:k8-3341_親しむ.mp3]	親しむ <br> したしむ <br> to be intimate with, to befriend
+to be intimate with, to befriend	親しむ <br> したしむ <br> [sound:k8-3341_親しむ.mp3]
+親しむ	[sound:k8-3341_親しむ.mp3] <br> したしむ <br> to be intimate with, to befriend
+[sound:s8-3341_ビジネスには逆風が吹いている。.mp3]	<b>(逆風)</b> <br> ビジネスには逆風が吹いている。<br> びじねすにはぎゃくふうがふいている。 <br> There's a headwind in business.			
+<b>(逆風)</b> <br> ビジネスには逆風が吹いている。	[sound:s8-3341_ビジネスには逆風が吹いている。.mp3] <br> びじねすにはぎゃくふうがふいている。 <br> There's a headwind in business.			
+[sound:k8-3342_親類.mp3]	親類 <br> しんるい <br> relation, kin
+relation, kin	親類 <br> しんるい <br> [sound:k8-3342_親類.mp3]
+親類	[sound:k8-3342_親類.mp3] <br> しんるい <br> relation, kin
+[sound:s8-3342_逆手に取る。.mp3]	<b>(逆手)</b> <br> 逆手に取る。<br> ぎゃくてにとる。 <br> Take advantage of the situation.			
+<b>(逆手)</b> <br> 逆手に取る。	[sound:s8-3342_逆手に取る。.mp3] <br> ぎゃくてにとる。 <br> Take advantage of the situation.			
+[sound:k8-3343_親善.mp3]	親善 <br> しんぜん <br> friendship
+friendship	親善 <br> しんぜん <br> [sound:k8-3343_親善.mp3]
+親善	[sound:k8-3343_親善.mp3] <br> しんぜん <br> friendship
+[sound:s8-3343_逆輸入品が増えている。.mp3]	<b>(逆輸入)</b> <br> 逆輸入品が増えている。<br> ぎゃくゆにゅうひんがふえている。 <br> There is an increase in reverse-imported goods.			
+<b>(逆輸入)</b> <br> 逆輸入品が増えている。	[sound:s8-3343_逆輸入品が増えている。.mp3] <br> ぎゃくゆにゅうひんがふえている。 <br> There is an increase in reverse-imported goods.			
+[sound:k8-3344_肉親.mp3]	肉親 <br> にくしん <br> blood relationship, blood relative
+blood relationship, blood relative	肉親 <br> にくしん <br> [sound:k8-3344_肉親.mp3]
+肉親	[sound:k8-3344_肉親.mp3] <br> にくしん <br> blood relationship, blood relative
+[sound:s8-3344_逆効果を生む。.mp3]	<b>(逆効果)</b> <br> 逆効果を生む。<br> ぎゃくこうかをうむ。 <br> Have the opposite effect.			
+<b>(逆効果)</b> <br> 逆効果を生む。	[sound:s8-3344_逆効果を生む。.mp3] <br> ぎゃくこうかをうむ。 <br> Have the opposite effect.			
+[sound:k8-3345_額.mp3]	額 <br> (kun: ひたい; on: ガク) <br> forehead, tablet, plaque, framed picture, sum, amount, volume
+forehead, tablet, plaque, framed picture, sum, amount, volume	額 <br> (kun: ひたい; on: ガク) <br> [sound:k8-3345_額.mp3]
+額	[sound:k8-3345_額.mp3] <br> (kun: ひたい; on: ガク) <br> forehead, tablet, plaque, framed picture, sum, amount, volume
+[sound:s8-3345_逆なでしないで。.mp3]	<b>(逆なで)</b> <br> 逆なでしないで。<br> ぎゃくなでしないで。 <br> Don't rub the wrong way.			
+<b>(逆なで)</b> <br> 逆なでしないで。	[sound:s8-3345_逆なでしないで。.mp3] <br> ぎゃくなでしないで。 <br> Don't rub the wrong way.			
+[sound:k8-3346_額.mp3]	額 <br> がく <br> picture (framed); amount or sum (of money)
+picture (framed); amount or sum (of money)	額 <br> がく <br> [sound:k8-3346_額.mp3]
+額	[sound:k8-3346_額.mp3] <br> がく <br> picture (framed); amount or sum (of money)
+[sound:s8-3346_反逆罪で逮捕された。.mp3]	<b>(反逆)</b> <br> 反逆罪で逮捕された。<br> はんぎゃくざいでたいほされた。 <br> Arrested for treason.			
+<b>(反逆)</b> <br> 反逆罪で逮捕された。	[sound:s8-3346_反逆罪で逮捕された。.mp3] <br> はんぎゃくざいでたいほされた。 <br> Arrested for treason.			
+[sound:k8-3347_総額.mp3]	総額 <br> そうがく <br> sum total, total amount
+sum total, total amount	総額 <br> そうがく <br> [sound:k8-3347_総額.mp3]
+総額	[sound:k8-3347_総額.mp3] <br> そうがく <br> sum total, total amount
+[sound:s8-3347_逆襲を試みる。.mp3]	<b>(逆襲)</b> <br> 逆襲を試みる。<br> ぎゃくしゅうをこころみる。 <br> Attempt a counterattack.			
+<b>(逆襲)</b> <br> 逆襲を試みる。	[sound:s8-3347_逆襲を試みる。.mp3] <br> ぎゃくしゅうをこころみる。 <br> Attempt a counterattack.			
+[sound:k8-3348_金額.mp3]	金額 <br> きんがく <br> amount of money
+amount of money	金額 <br> きんがく <br> [sound:k8-3348_金額.mp3]
+金額	[sound:k8-3348_金額.mp3] <br> きんがく <br> amount of money
+[sound:s8-3348_王国を統治する。.mp3]	<b>(王)</b> <br> 王国を統治する。<br> おうこくをとうちする。 <br> Rule the kingdom.			
+<b>(王)</b> <br> 王国を統治する。	[sound:s8-3348_王国を統治する。.mp3] <br> おうこくをとうちする。 <br> Rule the kingdom.			
+[sound:k8-3349_巨額.mp3]	巨額 <br> きょがく <br> great sum
+great sum	巨額 <br> きょがく <br> [sound:k8-3349_巨額.mp3]
+巨額	[sound:k8-3349_巨額.mp3] <br> きょがく <br> great sum
+[sound:s8-3349_王の御許しを得る。.mp3]	<b>(王)</b> <br> 王の御許しを得る。<br> おうのごゆるしをえる。 <br> Obtain the king's permission.			
+<b>(王)</b> <br> 王の御許しを得る。	[sound:s8-3349_王の御許しを得る。.mp3] <br> おうのごゆるしをえる。 <br> Obtain the king's permission.			
+[sound:k8-3350_多額.mp3]	多額 <br> たがく <br> large amount of money
+large amount of money	多額 <br> たがく <br> [sound:k8-3350_多額.mp3]
+多額	[sound:k8-3350_多額.mp3] <br> たがく <br> large amount of money
+[sound:s8-3350_新国王が即位する。.mp3]	<b>(国王)</b> <br> 新国王が即位する。<br> しんこくおうがそくいする。 <br> The new king ascends to the throne.			
+<b>(国王)</b> <br> 新国王が即位する。	[sound:s8-3350_新国王が即位する。.mp3] <br> しんこくおうがそくいする。 <br> The new king ascends to the throne.			
+[sound:k8-3351_全額.mp3]	全額 <br> ぜんがく <br> total, full amount, sum
+total, full amount, sum	全額 <br> ぜんがく <br> [sound:k8-3351_全額.mp3]
+全額	[sound:k8-3351_全額.mp3] <br> ぜんがく <br> total, full amount, sum
+[sound:s8-3351_女王陛下が即位する。.mp3]	<b>(女王)</b> <br> 女王陛下が即位する。<br> じょおうへいかがそくいする。 <br> The queen ascends to the throne.			
+<b>(女王)</b> <br> 女王陛下が即位する。	[sound:s8-3351_女王陛下が即位する。.mp3] <br> じょおうへいかがそくいする。 <br> The queen ascends to the throne.			
+[sound:k8-3352_額面.mp3]	額面 <br> がくめん <br> face value, par
+face value, par	額面 <br> がくめん <br> [sound:k8-3352_額面.mp3]
+額面	[sound:k8-3352_額面.mp3] <br> がくめん <br> face value, par
+[sound:s8-3352_北欧の小さな王国。.mp3]	<b>(王国)</b> <br> 北欧の小さな王国。<br> ほくおうのちいさなおうこく。 <br> A small kingdom in northern Europe.			
+<b>(王国)</b> <br> 北欧の小さな王国。	[sound:s8-3352_北欧の小さな王国。.mp3] <br> ほくおうのちいさなおうこく。 <br> A small kingdom in northern Europe.			
+[sound:k8-3353_月額.mp3]	月額 <br> げつがく <br> monthly amount (sum)
+monthly amount (sum)	月額 <br> げつがく <br> [sound:k8-3353_月額.mp3]
+月額	[sound:k8-3353_月額.mp3] <br> げつがく <br> monthly amount (sum)
+[sound:s8-3353_王座に就く。.mp3]	<b>(王座)</b> <br> 王座に就く。<br> おうざにつく。 <br> Ascend the throne.			
+<b>(王座)</b> <br> 王座に就く。	[sound:s8-3353_王座に就く。.mp3] <br> おうざにつく。 <br> Ascend the throne.			
+[sound:k8-3354_高額.mp3]	高額 <br> こうがく <br> large sum (money)
+large sum (money)	高額 <br> こうがく <br> [sound:k8-3354_高額.mp3]
+高額	[sound:k8-3354_高額.mp3] <br> こうがく <br> large sum (money)
+[sound:s8-3354_王子が誕生した。.mp3]	<b>(王子)</b> <br> 王子が誕生した。<br> おうじがたんじょうした。 <br> A prince was born.			
+<b>(王子)</b> <br> 王子が誕生した。	[sound:s8-3354_王子が誕生した。.mp3] <br> おうじがたんじょうした。 <br> A prince was born.			
+[sound:k8-3355_税額.mp3]	税額 <br> ぜいがく <br> amount of tax
+amount of tax	税額 <br> ぜいがく <br> [sound:k8-3355_税額.mp3]
+税額	[sound:k8-3355_税額.mp3] <br> ぜいがく <br> amount of tax
+[sound:s8-3355_王将を補う。.mp3]	<b>(王将)</b> <br> 王将を補う。<br> おうしょうをおうう。 <br> Supplement the king.			
+<b>(王将)</b> <br> 王将を補う。	[sound:s8-3355_王将を補う。.mp3] <br> おうしょうをおうう。 <br> Supplement the king.			
+[sound:k8-3356_監.mp3]	監 <br> (on: カン) <br> meaning: oversee, official, govt office, rule, administer
+meaning: oversee, official, govt office, rule, administer	監 <br> (on: カン) <br> [sound:k8-3356_監.mp3]
+監	[sound:k8-3356_監.mp3] <br> (on: カン) <br> meaning: oversee, official, govt office, rule, administer
+[sound:s8-3356_チームは王者の座を守った。.mp3]	<b>(王者)</b> <br> チームは王者の座を守った。<br> ちーむはおうじゃのざをまもった。 <br> The team defended their champion title.			
+<b>(王者)</b> <br> チームは王者の座を守った。	[sound:s8-3356_チームは王者の座を守った。.mp3] <br> ちーむはおうじゃのざをまもった。 <br> The team defended their champion title.			
+[sound:k8-3357_監督.mp3]	監督 <br> かんとく <br> supervision, control, superintendence, direction; director, superintendent, supervisor, coach, foreman, manager, overseer, controller, boss
+supervision, control, superintendence, direction; director, superintendent, supervisor, coach, foreman, manager, overseer, controller, boss	監督 <br> かんとく <br> [sound:k8-3357_監督.mp3]
+監督	[sound:k8-3357_監督.mp3] <br> かんとく <br> supervision, control, superintendence, direction; director, superintendent, supervisor, coach, foreman, manager, overseer, controller, boss
+[sound:s8-3357_王室の結婚式に出席する。.mp3]	<b>(王室)</b> <br> 王室の結婚式に出席する。<br> おうしつのけっこんしきにしゅっせきする。 <br> Attend the royal wedding.			
+<b>(王室)</b> <br> 王室の結婚式に出席する。	[sound:s8-3357_王室の結婚式に出席する。.mp3] <br> おうしつのけっこんしきにしゅっせきする。 <br> Attend the royal wedding.			
+[sound:k8-3358_監視.mp3]	監視 <br> かんし <br> observation, guarding, inspection, surveillance
+observation, guarding, inspection, surveillance	監視 <br> かんし <br> [sound:k8-3358_監視.mp3]
+監視	[sound:k8-3358_監視.mp3] <br> かんし <br> observation, guarding, inspection, surveillance
+[sound:s8-3358_古代エジプトの王朝。.mp3]	<b>(王朝)</b> <br> 古代エジプトの王朝。<br> こだいえじぷとのおうちょう。 <br> The ancient Egyptian dynasty.			
+<b>(王朝)</b> <br> 古代エジプトの王朝。	[sound:s8-3358_古代エジプトの王朝。.mp3] <br> こだいえじぷとのおうちょう。 <br> The ancient Egyptian dynasty.			
+[sound:k8-3359_監査役.mp3]	監査役 <br> かんさやく <br> auditor, inspector
+auditor, inspector	監査役 <br> かんさやく <br> [sound:k8-3359_監査役.mp3]
+監査役	[sound:k8-3359_監査役.mp3] <br> かんさやく <br> auditor, inspector
+[sound:s8-3359_郵便物を差し戻す。.mp3]	<b>(返)</b> <br> 郵便物を差し戻す。<br> ゆうびんぶつをさしもどす。 <br> Return the mail.			
+<b>(返)</b> <br> 郵便物を差し戻す。	[sound:s8-3359_郵便物を差し戻す。.mp3] <br> ゆうびんぶつをさしもどす。 <br> Return the mail.			
+[sound:k8-3360_監査.mp3]	監査 <br> かんさ <br> inspection, audit, judgement, judgment
+inspection, audit, judgement, judgment	監査 <br> かんさ <br> [sound:k8-3360_監査.mp3]
+監査	[sound:k8-3360_監査.mp3] <br> かんさ <br> inspection, audit, judgement, judgment
+[sound:s8-3360_土地を返還する。.mp3]	<b>(返還)</b> <br> 土地を返還する。<br> とちをへんかんする。 <br> Return the land.			
+<b>(返還)</b> <br> 土地を返還する。	[sound:s8-3360_土地を返還する。.mp3] <br> とちをへんかんする。 <br> Return the land.			
+[sound:k8-3361_監禁.mp3]	監禁 <br> かんきん <br> confinement
+confinement	監禁 <br> かんきん <br> [sound:k8-3361_監禁.mp3]
+監禁	[sound:k8-3361_監禁.mp3] <br> かんきん <br> confinement
+[sound:s8-3361_借金を返済する。.mp3]	<b>(返済)</b> <br> 借金を返済する。<br> しゃっきんをへんさいする。 <br> Repay a debt.			
+<b>(返済)</b> <br> 借金を返済する。	[sound:s8-3361_借金を返済する。.mp3] <br> しゃっきんをへんさいする。 <br> Repay a debt.			
+[sound:k8-3362_監察.mp3]	監察 <br> かんさつ <br> inspection, inspector
+inspection, inspector	監察 <br> かんさつ <br> [sound:k8-3362_監察.mp3]
+監察	[sound:k8-3362_監察.mp3] <br> かんさつ <br> inspection, inspector
+[sound:s8-3362_同じことを繰り返す。.mp3]	<b>(繰り返し)</b> <br> 同じことを繰り返す。<br> おなじことをくりかえす。 <br> Repeat the same thing.			
+<b>(繰り返し)</b> <br> 同じことを繰り返す。	[sound:s8-3362_同じことを繰り返す。.mp3] <br> おなじことをくりかえす。 <br> Repeat the same thing.			
+[sound:k8-3363_監修.mp3]	監修 <br> かんしゅう <br> (editorial) supervision, general editorship
+(editorial) supervision, general editorship	監修 <br> かんしゅう <br> [sound:k8-3363_監修.mp3]
+監修	[sound:k8-3363_監修.mp3] <br> かんしゅう <br> (editorial) supervision, general editorship
+[sound:s8-3363_彼女は感謝の見返りを求めた。.mp3]	<b>(見返り)</b> <br> 彼女は感謝の見返りを求めた。<br> かのじょはかんしゃのみかえりをもとめた。 <br> She sought gratitude in return.			
+<b>(見返り)</b> <br> 彼女は感謝の見返りを求めた。	[sound:s8-3363_彼女は感謝の見返りを求めた。.mp3] <br> かのじょはかんしゃのみかえりをもとめた。 <br> She sought gratitude in return.			
+[sound:k8-3364_総監.mp3]	総監 <br> そうかん <br> inspector general, commissioner
+inspector general, commissioner	総監 <br> そうかん <br> [sound:k8-3364_総監.mp3]
+総監	[sound:k8-3364_総監.mp3] <br> そうかん <br> inspector general, commissioner
+[sound:s8-3364_メールに返事をする。.mp3]	<b>(返事)</b> <br> メールに返事をする。<br> めーるにへんじをする。 <br> Reply to the email.			
+<b>(返事)</b> <br> メールに返事をする。	[sound:s8-3364_メールに返事をする。.mp3] <br> めーるにへんじをする。 <br> Reply to the email.			
+[sound:k8-3365_監獄.mp3]	監獄 <br> かんごく <br> prison
+prison	監獄 <br> かんごく <br> [sound:k8-3365_監獄.mp3]
+監獄	[sound:k8-3365_監獄.mp3] <br> かんごく <br> prison
+[sound:s8-3365_同じミスを繰り返さないようにする。.mp3]	<b>(繰り返す)</b> <br> 同じミスを繰り返さないようにする。<br> おなじみすをくりかえさないようにする。 <br> Ensure not to repeat the same mistake.			
+<b>(繰り返す)</b> <br> 同じミスを繰り返さないようにする。	[sound:s8-3365_同じミスを繰り返さないようにする。.mp3] <br> おなじみすをくりかえさないようにする。 <br> Ensure not to repeat the same mistake.			
+[sound:k8-3366_監理.mp3]	監理 <br> かんり <br> superintendence, supervision
+superintendence, supervision	監理 <br> かんり <br> [sound:k8-3366_監理.mp3]
+監理	[sound:k8-3366_監理.mp3] <br> かんり <br> superintendence, supervision
+[sound:s8-3366_巻き返しを図る。.mp3]	<b>(巻き返し)</b> <br> 巻き返しを図る。<br> まきかえしをはかる。 <br> Attempt a comeback.			
+<b>(巻き返し)</b> <br> 巻き返しを図る。	[sound:s8-3366_巻き返しを図る。.mp3] <br> まきかえしをはかる。 <br> Attempt a comeback.			
+[sound:k8-3367_環.mp3]	環 <br> (kun: わ; on: カン) <br> ring, circle, link, wheel
+ring, circle, link, wheel	環 <br> (kun: わ; on: カン) <br> [sound:k8-3367_環.mp3]
+環	[sound:k8-3367_環.mp3] <br> (kun: わ; on: カン) <br> ring, circle, link, wheel
+[sound:s8-3367_お返しを用意する。.mp3]	<b>(お返し)</b> <br> お返しを用意する。<br> おかえしをよういする。 <br> Prepare a return gift.			
+<b>(お返し)</b> <br> お返しを用意する。	[sound:s8-3367_お返しを用意する。.mp3] <br> おかえしをよういする。 <br> Prepare a return gift.			
+[sound:k8-3368_環境.mp3]	環境 <br> かんきょう <br> environment, circumstance
+environment, circumstance	環境 <br> かんきょう <br> [sound:k8-3368_環境.mp3]
+環境	[sound:k8-3368_環境.mp3] <br> かんきょう <br> environment, circumstance
+[sound:s8-3368_過去を振り返る。.mp3]	<b>(振り返る)</b> <br> 過去を振り返る。<br> かこをふりかえる。 <br> Look back on the past.			
+<b>(振り返る)</b> <br> 過去を振り返る。	[sound:s8-3368_過去を振り返る。.mp3] <br> かこをふりかえる。 <br> Look back on the past.			
+[sound:k8-3369_環境庁.mp3]	環境庁 <br> かんきょうちょう <br> Environment Agency
+Environment Agency	環境庁 <br> かんきょうちょう <br> [sound:k8-3369_環境庁.mp3]
+環境庁	[sound:k8-3369_環境庁.mp3] <br> かんきょうちょう <br> Environment Agency
+[sound:s8-3369_お金を返す。.mp3]	<b>(返す)</b> <br> お金を返す。<br> おかねをかえす。 <br> Return the money.			
+<b>(返す)</b> <br> お金を返す。	[sound:s8-3369_お金を返す。.mp3] <br> おかねをかえす。 <br> Return the money.			
+[sound:k8-3370_一環.mp3]	一環 <br> いっかん <br> link (e.g. a part of a larger plan)
+link (e.g. a part of a larger plan)	一環 <br> いっかん <br> [sound:k8-3370_一環.mp3]
+一環	[sound:k8-3370_一環.mp3] <br> いっかん <br> link (e.g. a part of a larger plan)
+[sound:s8-3370_目標を設定する。.mp3]	<b>(標)</b> <br> 目標を設定する。<br> もくひょうをせっていする。 <br> Set goals.			
+<b>(標)</b> <br> 目標を設定する。	[sound:s8-3370_目標を設定する。.mp3] <br> もくひょうをせっていする。 <br> Set goals.			
+[sound:k8-3371_循環.mp3]	循環 <br> じゅんかん <br> circulation, rotation, cycle
+circulation, rotation, cycle	循環 <br> じゅんかん <br> [sound:k8-3371_循環.mp3]
+循環	[sound:k8-3371_循環.mp3] <br> じゅんかん <br> circulation, rotation, cycle
+[sound:s8-3371_目標を達成する。.mp3]	<b>(目標)</b> <br> 目標を達成する。<br> もくひょうをたっせいする。 <br> Achieve the goal.			
+<b>(目標)</b> <br> 目標を達成する。	[sound:s8-3371_目標を達成する。.mp3] <br> もくひょうをたっせいする。 <br> Achieve the goal.			
+[sound:k8-3372_悪循環.mp3]	悪循環 <br> あくじゅんかん <br> vicious circle
+vicious circle	悪循環 <br> あくじゅんかん <br> [sound:k8-3372_悪循環.mp3]
+悪循環	[sound:k8-3372_悪循環.mp3] <br> あくじゅんかん <br> vicious circle
+[sound:s8-3372_標準装備が充実している。.mp3]	<b>(標準)</b> <br> 標準装備が充実している。<br> ひょうじゅんそうびがじゅうじつしている。 <br> The standard equipment is well-equipped.			
+<b>(標準)</b> <br> 標準装備が充実している。	[sound:s8-3372_標準装備が充実している。.mp3] <br> ひょうじゅんそうびがじゅうじつしている。 <br> The standard equipment is well-equipped.			
+[sound:k8-3373_環状.mp3]	環状 <br> かんじょう <br> annulation, ring-forming
+annulation, ring-forming	環状 <br> かんじょう <br> [sound:k8-3373_環状.mp3]
+環状	[sound:k8-3373_環状.mp3] <br> かんじょう <br> annulation, ring-forming
+[sound:s8-3373_指標となる数字を調べる。.mp3]	<b>(指標)</b> <br> 指標となる数字を調べる。<br> しひょうとなるすうじをしらべる。 <br> Investigate the numbers that serve as indicators.			
+<b>(指標)</b> <br> 指標となる数字を調べる。	[sound:s8-3373_指標となる数字を調べる。.mp3] <br> しひょうとなるすうじをしらべる。 <br> Investigate the numbers that serve as indicators.			
+[sound:k8-3374_循環器.mp3]	循環器 <br> じゅんかんき <br> circulatory organ
+circulatory organ	循環器 <br> じゅんかんき <br> [sound:k8-3374_循環器.mp3]
+循環器	[sound:k8-3374_循環器.mp3] <br> じゅんかんき <br> circulatory organ
+[sound:s8-3374_その山の標高は3000メートルだ。.mp3]	<b>(標高)</b> <br> その山の標高は3000メートルだ。<br> そのやまのひょうこうは3000めーとるだ。 <br> The altitude of that mountain is 3000 meters.			
+<b>(標高)</b> <br> その山の標高は3000メートルだ。	[sound:s8-3374_その山の標高は3000メートルだ。.mp3] <br> そのやまのひょうこうは3000めーとるだ。 <br> The altitude of that mountain is 3000 meters.			
+[sound:k8-3375_環境衛生.mp3]	環境衛生 <br> かんきょうえいせい <br> environmental hygiene
+environmental hygiene	環境衛生 <br> かんきょうえいせい <br> [sound:k8-3375_環境衛生.mp3]
+環境衛生	[sound:k8-3375_環境衛生.mp3] <br> かんきょうえいせい <br> environmental hygiene
+[sound:s8-3375_彼は犯罪者を標的にしている。.mp3]	<b>(標的)</b> <br> 彼は犯罪者を標的にしている。<br> かれははんざいしゃをひょうてきにしている。 <br> He is targeting criminals.			
+<b>(標的)</b> <br> 彼は犯罪者を標的にしている。	[sound:s8-3375_彼は犯罪者を標的にしている。.mp3] <br> かれははんざいしゃをひょうてきにしている。 <br> He is targeting criminals.			
+[sound:k8-3376_環濠.mp3]	環濠 <br> かんごう <br> (circular) moat
+(circular) moat	環濠 <br> かんごう <br> [sound:k8-3376_環濠.mp3]
+環濠	[sound:k8-3376_環濠.mp3] <br> かんごう <br> (circular) moat
+[sound:s8-3376_商標を登録する。.mp3]	<b>(商標)</b> <br> 商標を登録する。<br> しょうひょうをとうろくする。 <br> Register a trademark.			
+<b>(商標)</b> <br> 商標を登録する。	[sound:s8-3376_商標を登録する。.mp3] <br> しょうひょうをとうろくする。 <br> Register a trademark.			
+[sound:k8-3377_環状線.mp3]	環状線 <br> かんじょうせん <br> loop line, (transportation) belt line
+loop line, (transportation) belt line	環状線 <br> かんじょうせん <br> [sound:k8-3377_環状線.mp3]
+環状線	[sound:k8-3377_環状線.mp3] <br> かんじょうせん <br> loop line, (transportation) belt line
+[sound:s8-3377_道路の標識が見えない。.mp3]	<b>(標識)</b> <br> 道路の標識が見えない。<br> どうろのひょうしきがみえない。 <br> The road signs are not visible.			
+<b>(標識)</b> <br> 道路の標識が見えない。	[sound:s8-3377_道路の標識が見えない。.mp3] <br> どうろのひょうしきがみえない。 <br> The road signs are not visible.			
+[sound:k8-3378_験.mp3]	験 <br> (kun: あかし, しるし, ため.す, ためし; on: ケン, ゲン) <br> verification, effect, testing
+verification, effect, testing	験 <br> (kun: あかし, しるし, ため.す, ためし; on: ケン, ゲン) <br> [sound:k8-3378_験.mp3]
+験	[sound:k8-3378_験.mp3] <br> (kun: あかし, しるし, ため.す, ためし; on: ケン, ゲン) <br> verification, effect, testing
+[sound:s8-3378_標本を収集する。.mp3]	<b>(標本)</b> <br> 標本を収集する。<br> ひょうほんをしゅうしゅうする。 <br> Collect specimens.			
+<b>(標本)</b> <br> 標本を収集する。	[sound:s8-3378_標本を収集する。.mp3] <br> ひょうほんをしゅうしゅうする。 <br> Collect specimens.			
+[sound:k8-3379_経験.mp3]	経験 <br> けいけん <br> experience
+experience	経験 <br> けいけん <br> [sound:k8-3379_経験.mp3]
+経験	[sound:k8-3379_経験.mp3] <br> けいけん <br> experience
+[sound:s8-3379_会社の標語を考える。.mp3]	<b>(標語)</b> <br> 会社の標語を考える。<br> かいしゃのひょうごをかんがえる。 <br> Think of a company slogan.			
+<b>(標語)</b> <br> 会社の標語を考える。	[sound:s8-3379_会社の標語を考える。.mp3] <br> かいしゃのひょうごをかんがえる。 <br> Think of a company slogan.			
+[sound:k8-3380_試験.mp3]	試験 <br> しけん <br> examination, test, study, trial
+examination, test, study, trial	試験 <br> しけん <br> [sound:k8-3380_試験.mp3]
+試験	[sound:k8-3380_試験.mp3] <br> しけん <br> examination, test, study, trial
+[sound:s8-3380_座標軸を設定する。.mp3]	<b>(座標軸)</b> <br> 座標軸を設定する。<br> ざひょうじくをせっていする。 <br> Set up coordinate axes.			
+<b>(座標軸)</b> <br> 座標軸を設定する。	[sound:s8-3380_座標軸を設定する。.mp3] <br> ざひょうじくをせっていする。 <br> Set up coordinate axes.			
+[sound:k8-3381_実験.mp3]	実験 <br> じっけん <br> experiment
+experiment	実験 <br> じっけん <br> [sound:k8-3381_実験.mp3]
+実験	[sound:k8-3381_実験.mp3] <br> じっけん <br> experiment
+[sound:s8-3381_外貨を換える。.mp3]	<b>(換)</b> <br> 外貨を換える。<br> がいかをかえる。 <br> Exchange foreign currency.			
+<b>(換)</b> <br> 外貨を換える。	[sound:s8-3381_外貨を換える。.mp3] <br> がいかをかえる。 <br> Exchange foreign currency.			
+[sound:k8-3382_受験.mp3]	受験 <br> じゅけん <br> taking an examination
+taking an examination	受験 <br> じゅけん <br> [sound:k8-3382_受験.mp3]
+受験	[sound:k8-3382_受験.mp3] <br> じゅけん <br> taking an examination
+[sound:s8-3382_名刺を交換する。.mp3]	<b>(交換)</b> <br> 名刺を交換する。<br> めいしをこうかんする。 <br> Exchange business cards.			
+<b>(交換)</b> <br> 名刺を交換する。	[sound:s8-3382_名刺を交換する。.mp3] <br> めいしをこうかんする。 <br> Exchange business cards.			
+[sound:k8-3383_体験.mp3]	体験 <br> たいけん <br> personal experience
+personal experience	体験 <br> たいけん <br> [sound:k8-3383_体験.mp3]
+体験	[sound:k8-3383_体験.mp3] <br> たいけん <br> personal experience
+[sound:s8-3383_方針を転換する。.mp3]	<b>(転換)</b> <br> 方針を転換する。<br> ほうしんをてんかんする。 <br> Change the policy.			
+<b>(転換)</b> <br> 方針を転換する。	[sound:s8-3383_方針を転換する。.mp3] <br> ほうしんをてんかんする。 <br> Change the policy.			
+[sound:k8-3384_経験者.mp3]	経験者 <br> けいけんしゃ <br> experienced person, person who has had a particular experience
+experienced person, person who has had a particular experience	経験者 <br> けいけんしゃ <br> [sound:k8-3384_経験者.mp3]
+経験者	[sound:k8-3384_経験者.mp3] <br> けいけんしゃ <br> experienced person, person who has had a particular experience
+[sound:s8-3384_通貨を換算する。.mp3]	<b>(換算)</b> <br> 通貨を換算する。<br> つうかをかんさんする。 <br> Convert currency.			
+<b>(換算)</b> <br> 通貨を換算する。	[sound:s8-3384_通貨を換算する。.mp3] <br> つうかをかんさんする。 <br> Convert currency.			
+[sound:k8-3385_核実験.mp3]	核実験 <br> かくじっけん <br> nuclear (bomb) test
+nuclear (bomb) test	核実験 <br> かくじっけん <br> [sound:k8-3385_核実験.mp3]
+核実験	[sound:k8-3385_核実験.mp3] <br> かくじっけん <br> nuclear (bomb) test
+[sound:s8-3385_商品券を引き換える。.mp3]	<b>(引き換え)</b> <br> 商品券を引き換える。<br> しょうひんけんをひきかえる。 <br> Redeem the gift certificate.			
+<b>(引き換え)</b> <br> 商品券を引き換える。	[sound:s8-3385_商品券を引き換える。.mp3] <br> しょうひんけんをひきかえる。 <br> Redeem the gift certificate.			
+[sound:k8-3386_国家試験.mp3]	国家試験 <br> こっかしけん <br> state examination
+state examination	国家試験 <br> こっかしけん <br> [sound:k8-3386_国家試験.mp3]
+国家試験	[sound:k8-3386_国家試験.mp3] <br> こっかしけん <br> state examination
+[sound:s8-3386_換気を行う。.mp3]	<b>(換気)</b> <br> 換気を行う。<br> かんきをおこなう。 <br> Perform ventilation.			
+<b>(換気)</b> <br> 換気を行う。	[sound:s8-3386_換気を行う。.mp3] <br> かんきをおこなう。 <br> Perform ventilation.			
+[sound:k8-3387_試験場.mp3]	試験場 <br> しけんじょう <br> examination hall (room), laboratory
+examination hall (room), laboratory	試験場 <br> しけんじょう <br> [sound:k8-3387_試験場.mp3]
+試験場	[sound:k8-3387_試験場.mp3] <br> しけんじょう <br> examination hall (room), laboratory
+[sound:s8-3387_互換性がある。.mp3]	<b>(互換)</b> <br> 互換性がある。<br> ごかんせいがある。 <br> There is compatibility.			
+<b>(互換)</b> <br> 互換性がある。	[sound:s8-3387_互換性がある。.mp3] <br> ごかんせいがある。 <br> There is compatibility.			
+[sound:k8-3388_実験室.mp3]	実験室 <br> じっけんしつ <br> laboratory
+laboratory	実験室 <br> じっけんしつ <br> [sound:k8-3388_実験室.mp3]
+実験室	[sound:k8-3388_実験室.mp3] <br> じっけんしつ <br> laboratory
+[sound:s8-3388_外貨を換金する手数料。.mp3]	<b>(換金)</b> <br> 外貨を換金する手数料。<br> がいかをかんきんするてすうりょう。 <br> Exchange rate for converting foreign currency.			
+<b>(換金)</b> <br> 外貨を換金する手数料。	[sound:s8-3388_外貨を換金する手数料。.mp3] <br> がいかをかんきんするてすうりょう。 <br> Exchange rate for converting foreign currency.			
+[sound:k8-3389_追.mp3]	追 <br> (kun: お.う; on: ツイ) <br> chase, drive away, follow, pursue, meanwhile
+chase, drive away, follow, pursue, meanwhile	追 <br> (kun: お.う; on: ツイ) <br> [sound:k8-3389_追.mp3]
+追	[sound:k8-3389_追.mp3] <br> (kun: お.う; on: ツイ) <br> chase, drive away, follow, pursue, meanwhile
+[sound:s8-3389_データを別の形式に変換する。.mp3]	<b>(変換)</b> <br> データを別の形式に変換する。<br> でーたをべつのけいしきにへんかんする。 <br> Convert data into another format.			
+<b>(変換)</b> <br> データを別の形式に変換する。	[sound:s8-3389_データを別の形式に変換する。.mp3] <br> でーたをべつのけいしきにへんかんする。 <br> Convert data into another format.			
+[sound:k8-3390_追う.mp3]	追う <br> おう <br> to chase, to run after, to pursue; to follow (i.e. a set order, a trend); to drive out, to oust, to expel; to drive (i.e. a herd); (in passive voice) to be pressed (for time, etc.)
+to chase, to run after, to pursue; to follow (i.e. a set order, a trend); to drive out, to oust, to expel; to drive (i.e. a herd); (in passive voice) to be pressed (for time, etc.)	追う <br> おう <br> [sound:k8-3390_追う.mp3]
+追う	[sound:k8-3390_追う.mp3] <br> おう <br> to chase, to run after, to pursue; to follow (i.e. a set order, a trend); to drive out, to oust, to expel; to drive (i.e. a herd); (in passive voice) to be pressed (for time, etc.)
+[sound:s8-3390_次の駅で乗り換える。.mp3]	<b>(乗り換え)</b> <br> 次の駅で乗り換える。<br> つぎのえきでのりかえる。 <br> Change trains at the next station.			
+<b>(乗り換え)</b> <br> 次の駅で乗り換える。	[sound:s8-3390_次の駅で乗り換える。.mp3] <br> つぎのえきでのりかえる。 <br> Change trains at the next station.			
+[sound:k8-3391_追加.mp3]	追加 <br> ついか <br> addition, supplement, append (e.g. to a file), appendix
+addition, supplement, append (e.g. to a file), appendix	追加 <br> ついか <br> [sound:k8-3391_追加.mp3]
+追加	[sound:k8-3391_追加.mp3] <br> ついか <br> addition, supplement, append (e.g. to a file), appendix
+[sound:s8-3391_新しい職場に乗り換える。.mp3]	<b>(乗り換える)</b> <br> 新しい職場に乗り換える。<br> あたらしいしょくばにのりかえる。 <br> Transfer to a new workplace.			
+<b>(乗り換える)</b> <br> 新しい職場に乗り換える。	[sound:s8-3391_新しい職場に乗り換える。.mp3] <br> あたらしいしょくばにのりかえる。 <br> Transfer to a new workplace.			
+[sound:k8-3392_追い込む.mp3]	追い込む <br> おいこむ <br> to herd, to corner, to drive
+to herd, to corner, to drive	追い込む <br> おいこむ <br> [sound:k8-3392_追い込む.mp3]
+追い込む	[sound:k8-3392_追い込む.mp3] <br> おいこむ <br> to herd, to corner, to drive
+[sound:s8-3392_久しぶりに会う。.mp3]	<b>(久)</b> <br> 久しぶりに会う。<br> ひさしぶりにあう。 <br> Meet after a long time.			
+<b>(久)</b> <br> 久しぶりに会う。	[sound:s8-3392_久しぶりに会う。.mp3] <br> ひさしぶりにあう。 <br> Meet after a long time.			
+[sound:k8-3393_追及.mp3]	追及 <br> ついきゅう <br> investigation (e.g. into someone's guilt), questioning, pressing, hounding, pinning down; catching up, overtaking
+investigation (e.g. into someone's guilt), questioning, pressing, hounding, pinning down; catching up, overtaking	追及 <br> ついきゅう <br> [sound:k8-3393_追及.mp3]
+追及	[sound:k8-3393_追及.mp3] <br> ついきゅう <br> investigation (e.g. into someone's guilt), questioning, pressing, hounding, pinning down; catching up, overtaking
+[sound:s8-3393_久々に故郷に帰る。.mp3]	<b>(久々)</b> <br> 久々に故郷に帰る。<br> ひさびさにこきょうにかえる。 <br> Return to hometown after a long time.			
+<b>(久々)</b> <br> 久々に故郷に帰る。	[sound:s8-3393_久々に故郷に帰る。.mp3] <br> ひさびさにこきょうにかえる。 <br> Return to hometown after a long time.			
+[sound:k8-3394_追放.mp3]	追放 <br> ついほう <br> exile, banishment
+exile, banishment	追放 <br> ついほう <br> [sound:k8-3394_追放.mp3]
+追放	[sound:k8-3394_追放.mp3] <br> ついほう <br> exile, banishment
+[sound:s8-3394_永久に保持する。.mp3]	<b>(永久)</b> <br> 永久に保持する。<br> えいきゅうにほじする。 <br> Maintain permanently.			
+<b>(永久)</b> <br> 永久に保持する。	[sound:s8-3394_永久に保持する。.mp3] <br> えいきゅうにほじする。 <br> Maintain permanently.			
+[sound:k8-3395_追っ掛ける.mp3]	追っ掛ける <br> おっかける <br> to chase, to run after, to pursue
+to chase, to run after, to pursue	追っ掛ける <br> おっかける <br> [sound:k8-3395_追っ掛ける.mp3]
+追っ掛ける	[sound:k8-3395_追っ掛ける.mp3] <br> おっかける <br> to chase, to run after, to pursue
+[sound:s8-3395_恒久平和を築く。.mp3]	<b>(恒久)</b> <br> 恒久平和を築く。<br> こうきゅうへいわをきずく。 <br> Establish lasting peace.			
+<b>(恒久)</b> <br> 恒久平和を築く。	[sound:s8-3395_恒久平和を築く。.mp3] <br> こうきゅうへいわをきずく。 <br> Establish lasting peace.			
+[sound:k8-3396_追悼.mp3]	追悼 <br> ついとう <br> mourning, memorial
+mourning, memorial	追悼 <br> ついとう <br> [sound:k8-3396_追悼.mp3]
+追悼	[sound:k8-3396_追悼.mp3] <br> ついとう <br> mourning, memorial
+[sound:s8-3396_耐久性のある家具。.mp3]	<b>(耐久)</b> <br> 耐久性のある家具。<br> たいきゅうせいのあるかぐ。 <br> Durable furniture.			
+<b>(耐久)</b> <br> 耐久性のある家具。	[sound:s8-3396_耐久性のある家具。.mp3] <br> たいきゅうせいのあるかぐ。 <br> Durable furniture.			
+[sound:k8-3397_追い風.mp3]	追い風 <br> おいかぜ, おいて <br> tailwind, fair or favorable wind (favourable)
+tailwind, fair or favorable wind (favourable)	追い風 <br> おいかぜ, おいて <br> [sound:k8-3397_追い風.mp3]
+追い風	[sound:k8-3397_追い風.mp3] <br> おいかぜ, おいて <br> tailwind, fair or favorable wind (favourable)
+[sound:s8-3397_持久力を鍛える。.mp3]	<b>(持久)</b> <br> 持久力を鍛える。<br> じきゅうりょくをきたえる。 <br> Train endurance.			
+<b>(持久)</b> <br> 持久力を鍛える。	[sound:s8-3397_持久力を鍛える。.mp3] <br> じきゅうりょくをきたえる。 <br> Train endurance.			
+[sound:k8-3398_追徴.mp3]	追徴 <br> ついちょう <br> supplementary charge
+supplementary charge	追徴 <br> ついちょう <br> [sound:k8-3398_追徴.mp3]
+追徴	[sound:k8-3398_追徴.mp3] <br> ついちょう <br> supplementary charge
+[sound:s8-3398_この製品は耐久性が高い。.mp3]	<b>(耐久性)</b> <br> この製品は耐久性が高い。<br> このせいひんはたいきゅうせいがたかい。 <br> This product has high durability.			
+<b>(耐久性)</b> <br> この製品は耐久性が高い。	[sound:s8-3398_この製品は耐久性が高い。.mp3] <br> このせいひんはたいきゅうせいがたかい。 <br> This product has high durability.			
+[sound:k8-3399_追いつく.mp3]	追いつく <br> おいつく <br> to overtake, to catch up (with)
+to overtake, to catch up (with)	追いつく <br> おいつく <br> [sound:k8-3399_追いつく.mp3]
+追いつく	[sound:k8-3399_追いつく.mp3] <br> おいつく <br> to overtake, to catch up (with)
+[sound:s8-3399_彼と久しい友情がある。.mp3]	<b>(久しい)</b> <br> 彼と久しい友情がある。<br> かれとひさしいゆうじょうがある。 <br> He has a long-standing friendship with him.			
+<b>(久しい)</b> <br> 彼と久しい友情がある。	[sound:s8-3399_彼と久しい友情がある。.mp3] <br> かれとひさしいゆうじょうがある。 <br> He has a long-standing friendship with him.			
+[sound:k8-3400_審.mp3]	審 <br> (kun: つまび.らか, つぶさ.に; on: シン) <br> hearing, judge, trial
+hearing, judge, trial	審 <br> (kun: つまび.らか, つぶさ.に; on: シン) <br> [sound:k8-3400_審.mp3]
+審	[sound:k8-3400_審.mp3] <br> (kun: つまび.らか, つぶさ.に; on: シン) <br> hearing, judge, trial
+[sound:s8-3400_半永久的な解決策。.mp3]	<b>(半永久)</b> <br> 半永久的な解決策。<br> はんえいきゅうてきなかいけつさく。 <br> A semi-permanent solution.			
+<b>(半永久)</b> <br> 半永久的な解決策。	[sound:s8-3400_半永久的な解決策。.mp3] <br> はんえいきゅうてきなかいけつさく。 <br> A semi-permanent solution.			
+[sound:k8-3401_審議.mp3]	審議 <br> しんぎ <br> deliberation
+deliberation	審議 <br> しんぎ <br> [sound:k8-3401_審議.mp3]
+審議	[sound:k8-3401_審議.mp3] <br> しんぎ <br> deliberation
+[sound:s8-3401_悠久の時を感じる。.mp3]	<b>(悠久)</b> <br> 悠久の時を感じる。<br> ゆうきゅうのときをかんじる。 <br> Feel the eternity of time.			
+<b>(悠久)</b> <br> 悠久の時を感じる。	[sound:s8-3401_悠久の時を感じる。.mp3] <br> ゆうきゅうのときをかんじる。 <br> Feel the eternity of time.			
+[sound:k8-3402_審査.mp3]	審査 <br> しんさ <br> judging, inspection, examination, investigation
+judging, inspection, examination, investigation	審査 <br> しんさ <br> [sound:k8-3402_審査.mp3]
+審査	[sound:k8-3402_審査.mp3] <br> しんさ <br> judging, inspection, examination, investigation
+[sound:s8-3402_短いスカートをはく。.mp3]	<b>(短)</b> <br> 短いスカートをはく。<br> みじかいすかーとをはく。 <br> Wear a short skirt.			
+<b>(短)</b> <br> 短いスカートをはく。	[sound:s8-3402_短いスカートをはく。.mp3] <br> みじかいすかーとをはく。 <br> Wear a short skirt.			
+[sound:k8-3403_審判.mp3]	審判 <br> しんぱん, しんばん <br> refereeing, trial, judgement, judgment, umpire, referee
+refereeing, trial, judgement, judgment, umpire, referee	審判 <br> しんぱん, しんばん <br> [sound:k8-3403_審判.mp3]
+審判	[sound:k8-3403_審判.mp3] <br> しんぱん, しんばん <br> refereeing, trial, judgement, judgment, umpire, referee
+[sound:s8-3403_短期間での集中治療。.mp3]	<b>(短期)</b> <br> 短期間での集中治療。<br> たんきかんでのしゅうちゅうちりょう。 <br> Intensive care for a short period.			
+<b>(短期)</b> <br> 短期間での集中治療。	[sound:s8-3403_短期間での集中治療。.mp3] <br> たんきかんでのしゅうちゅうちりょう。 <br> Intensive care for a short period.			
+[sound:k8-3404_一審.mp3]	一審 <br> いっしん <br> first instance, first trial
+first instance, first trial	一審 <br> いっしん <br> [sound:k8-3404_一審.mp3]
+一審	[sound:k8-3404_一審.mp3] <br> いっしん <br> first instance, first trial
+[sound:s8-3404_短大生のアルバイト。.mp3]	<b>(短大)</b> <br> 短大生のアルバイト。<br> たんだいせいのあるばいと。 <br> Part-time job for junior college students.			
+<b>(短大)</b> <br> 短大生のアルバイト。	[sound:s8-3404_短大生のアルバイト。.mp3] <br> たんだいせいのあるばいと。 <br> Part-time job for junior college students.			
+[sound:k8-3405_審理.mp3]	審理 <br> しんり <br> trial
+trial	審理 <br> しんり <br> [sound:k8-3405_審理.mp3]
+審理	[sound:k8-3405_審理.mp3] <br> しんり <br> trial
+[sound:s8-3405_短歌を詠む。.mp3]	<b>(短歌)</b> <br> 短歌を詠む。<br> たんかをうたむ。 <br> Compose a tanka poem.			
+<b>(短歌)</b> <br> 短歌を詠む。	[sound:s8-3405_短歌を詠む。.mp3] <br> たんかをうたむ。 <br> Compose a tanka poem.			
+[sound:k8-3406_不審.mp3]	不審 <br> ふしん <br> incomplete understanding, doubt, question, distrust, suspicion, strangeness, infidelity
+incomplete understanding, doubt, question, distrust, suspicion, strangeness, infidelity	不審 <br> ふしん <br> [sound:k8-3406_不審.mp3]
+不審	[sound:k8-3406_不審.mp3] <br> ふしん <br> incomplete understanding, doubt, question, distrust, suspicion, strangeness, infidelity
+[sound:s8-3406_短縮バージョンを作成する。.mp3]	<b>(短縮)</b> <br> 短縮バージョンを作成する。<br> たんしゅくばーじょんをさくせいする。 <br> Create a shortened version.			
+<b>(短縮)</b> <br> 短縮バージョンを作成する。	[sound:s8-3406_短縮バージョンを作成する。.mp3] <br> たんしゅくばーじょんをさくせいする。 <br> Create a shortened version.			
+[sound:k8-3407_陪審.mp3]	陪審 <br> ばいしん <br> jury, juryman, juror
+jury, juryman, juror	陪審 <br> ばいしん <br> [sound:k8-3407_陪審.mp3]
+陪審	[sound:k8-3407_陪審.mp3] <br> ばいしん <br> jury, juryman, juror
+[sound:s8-3407_長短を見極める。.mp3]	<b>(長短)</b> <br> 長短を見極める。<br> ちょうたんをみきわめる。 <br> Judge the pros and cons.			
+<b>(長短)</b> <br> 長短を見極める。	[sound:s8-3407_長短を見極める。.mp3] <br> ちょうたんをみきわめる。 <br> Judge the pros and cons.			
+[sound:k8-3408_再審.mp3]	再審 <br> さいしん <br> review, revision, reexamination, retrial
+review, revision, reexamination, retrial	再審 <br> さいしん <br> [sound:k8-3408_再審.mp3]
+再審	[sound:k8-3408_再審.mp3] <br> さいしん <br> review, revision, reexamination, retrial
+[sound:s8-3408_短期間での開発計画。.mp3]	<b>(短期間)</b> <br> 短期間での開発計画。<br> たんきかんでのかいはつけいかく。 <br> Development plan for a short period.			
+<b>(短期間)</b> <br> 短期間での開発計画。	[sound:s8-3408_短期間での開発計画。.mp3] <br> たんきかんでのかいはつけいかく。 <br> Development plan for a short period.			
+[sound:k8-3409_主審.mp3]	主審 <br> しゅしん <br> chief umpire
+chief umpire	主審 <br> しゅしん <br> [sound:k8-3409_主審.mp3]
+主審	[sound:k8-3409_主審.mp3] <br> しゅしん <br> chief umpire
+[sound:s8-3409_短時間で仕事を片付ける。.mp3]	<b>(短時間)</b> <br> 短時間で仕事を片付ける。<br> たんじかんでしごとをかたづける。 <br> Finish work in a short time.			
+<b>(短時間)</b> <br> 短時間で仕事を片付ける。	[sound:s8-3409_短時間で仕事を片付ける。.mp3] <br> たんじかんでしごとをかたづける。 <br> Finish work in a short time.			
+[sound:k8-3410_上告審.mp3]	上告審 <br> じょうこくしん <br> appeal hearing
+appeal hearing	上告審 <br> じょうこくしん <br> [sound:k8-3410_上告審.mp3]
+上告審	[sound:k8-3410_上告審.mp3] <br> じょうこくしん <br> appeal hearing
+[sound:s8-3410_短距離走の選手。.mp3]	<b>(短距離)</b> <br> 短距離走の選手。<br> たんきょりそうのせんしゅ。 <br> Short distance runner.			
+<b>(短距離)</b> <br> 短距離走の選手。	[sound:s8-3410_短距離走の選手。.mp3] <br> たんきょりそうのせんしゅ。 <br> Short distance runner.			
+[sound:k8-3411_商.mp3]	商 <br> (kun: あきな.う; on: ショウ) <br> make a deal, selling, dealing in, merchant
+make a deal, selling, dealing in, merchant	商 <br> (kun: あきな.う; on: ショウ) <br> [sound:k8-3411_商.mp3]
+商	[sound:k8-3411_商.mp3] <br> (kun: あきな.う; on: ショウ) <br> make a deal, selling, dealing in, merchant
+[sound:s8-3411_短編小説を書く。.mp3]	<b>(短編)</b> <br> 短編小説を書く。<br> たんぺんしょうせつをかく。 <br> Write a short story.			
+<b>(短編)</b> <br> 短編小説を書く。	[sound:s8-3411_短編小説を書く。.mp3] <br> たんぺんしょうせつをかく。 <br> Write a short story.			
+[sound:k8-3412_商.mp3]	商 <br> しょう <br> quotient; dealing, dealer, store; second degree (of the Japanese &amp; Chinese pentatonic scale); Shang (dynasty of China)
+quotient; dealing, dealer, store; second degree (of the Japanese &amp; Chinese pentatonic scale); Shang (dynasty of China)	商 <br> しょう <br> [sound:k8-3412_商.mp3]
+商	[sound:k8-3412_商.mp3] <br> しょう <br> quotient; dealing, dealer, store; second degree (of the Japanese &amp; Chinese pentatonic scale); Shang (dynasty of China)
+[sound:s8-3412_短銃を所持する。.mp3]	<b>(短銃)</b> <br> 短銃を所持する。<br> たんじゅうをしょじする。 <br> Possess a handgun.			
+<b>(短銃)</b> <br> 短銃を所持する。	[sound:s8-3412_短銃を所持する。.mp3] <br> たんじゅうをしょじする。 <br> Possess a handgun.			
+[sound:k8-3413_商品.mp3]	商品 <br> しょうひん <br> commodity, article of commerce, goods, stock, merchandise
+commodity, article of commerce, goods, stock, merchandise	商品 <br> しょうひん <br> [sound:k8-3413_商品.mp3]
+商品	[sound:k8-3413_商品.mp3] <br> しょうひん <br> commodity, article of commerce, goods, stock, merchandise
+[sound:s8-3413_油で料理をする。.mp3]	<b>(油)</b> <br> 油で料理をする。<br> あぶらでりょうりをする。 <br> Cook with oil.			
+<b>(油)</b> <br> 油で料理をする。	[sound:s8-3413_油で料理をする。.mp3] <br> あぶらでりょうりをする。 <br> Cook with oil.			
+[sound:k8-3414_商業.mp3]	商業 <br> しょうぎょう <br> commerce, trade, business
+commerce, trade, business	商業 <br> しょうぎょう <br> [sound:k8-3414_商業.mp3]
+商業	[sound:k8-3414_商業.mp3] <br> しょうぎょう <br> commerce, trade, business
+[sound:s8-3414_油がこぼれた。.mp3]	<b>(油)</b> <br> 油がこぼれた。<br> あぶらがこぼれた。 <br> The oil spilled.			
+<b>(油)</b> <br> 油がこぼれた。	[sound:s8-3414_油がこぼれた。.mp3] <br> あぶらがこぼれた。 <br> The oil spilled.			
+[sound:k8-3415_商社.mp3]	商社 <br> しょうしゃ <br> trading company, firm
+trading company, firm	商社 <br> しょうしゃ <br> [sound:k8-3415_商社.mp3]
+商社	[sound:k8-3415_商社.mp3] <br> しょうしゃ <br> trading company, firm
+[sound:s8-3415_石油資源を開発する。.mp3]	<b>(石油)</b> <br> 石油資源を開発する。<br> せきゆしげんをかいはつする。 <br> Develop petroleum resources.			
+<b>(石油)</b> <br> 石油資源を開発する。	[sound:s8-3415_石油資源を開発する。.mp3] <br> せきゆしげんをかいはつする。 <br> Develop petroleum resources.			
+[sound:k8-3416_通商.mp3]	通商 <br> つうしょう <br> commerce, trade
+commerce, trade	通商 <br> つうしょう <br> [sound:k8-3416_通商.mp3]
+通商	[sound:k8-3416_通商.mp3] <br> つうしょう <br> commerce, trade
+[sound:s8-3416_原油価格が上昇した。.mp3]	<b>(原油)</b> <br> 原油価格が上昇した。<br> げんゆかかくがじょうしょうした。 <br> Crude oil prices have risen.			
+<b>(原油)</b> <br> 原油価格が上昇した。	[sound:s8-3416_原油価格が上昇した。.mp3] <br> げんゆかかくがじょうしょうした。 <br> Crude oil prices have risen.			
+[sound:k8-3417_商店.mp3]	商店 <br> しょうてん <br> shop, small store, business, firm
+shop, small store, business, firm	商店 <br> しょうてん <br> [sound:k8-3417_商店.mp3]
+商店	[sound:k8-3417_商店.mp3] <br> しょうてん <br> shop, small store, business, firm
+[sound:s8-3417_油田の探査を行う。.mp3]	<b>(油田)</b> <br> 油田の探査を行う。<br> ゆでんのたんさをおこなう。 <br> Conduct oil field exploration.			
+<b>(油田)</b> <br> 油田の探査を行う。	[sound:s8-3417_油田の探査を行う。.mp3] <br> ゆでんのたんさをおこなう。 <br> Conduct oil field exploration.			
+[sound:k8-3418_商売.mp3]	商売 <br> しょうばい <br> trade, business, commerce, transaction, occupation
+trade, business, commerce, transaction, occupation	商売 <br> しょうばい <br> [sound:k8-3418_商売.mp3]
+商売	[sound:k8-3418_商売.mp3] <br> しょうばい <br> trade, business, commerce, transaction, occupation
+[sound:s8-3418_産油国の会議に参加する。.mp3]	<b>(産油国)</b> <br> 産油国の会議に参加する。<br> さんゆこくのかいぎにさんかする。 <br> Participate in the meeting of oil-producing countries.			
+<b>(産油国)</b> <br> 産油国の会議に参加する。	[sound:s8-3418_産油国の会議に参加する。.mp3] <br> さんゆこくのかいぎにさんかする。 <br> Participate in the meeting of oil-producing countries.			
+[sound:k8-3419_商法.mp3]	商法 <br> しょうほう <br> trade, business, commerce, commercial law
+trade, business, commerce, commercial law	商法 <br> しょうほう <br> [sound:k8-3419_商法.mp3]
+商法	[sound:k8-3419_商法.mp3] <br> しょうほう <br> trade, business, commerce, commercial law
+[sound:s8-3419_油井の設備を整える。.mp3]	<b>(油井)</b> <br> 油井の設備を整える。<br> ゆいのせつびをととのえる。 <br> Prepare the facilities of an oil well.			
+<b>(油井)</b> <br> 油井の設備を整える。	[sound:s8-3419_油井の設備を整える。.mp3] <br> ゆいのせつびをととのえる。 <br> Prepare the facilities of an oil well.			
+[sound:k8-3420_商工.mp3]	商工 <br> しょうこう <br> commerce and industry
+commerce and industry	商工 <br> しょうこう <br> [sound:k8-3420_商工.mp3]
+商工	[sound:k8-3420_商工.mp3] <br> しょうこう <br> commerce and industry
+[sound:s8-3420_軽油が不足している。.mp3]	<b>(軽油)</b> <br> 軽油が不足している。<br> けいゆがふそくしている。 <br> There is a shortage of kerosene.			
+<b>(軽油)</b> <br> 軽油が不足している。	[sound:s8-3420_軽油が不足している。.mp3] <br> けいゆがふそくしている。 <br> There is a shortage of kerosene.			
+[sound:k8-3421_商工会議所.mp3]	商工会議所 <br> しょうこうかいぎしょ <br> Chamber of Commerce and Industry
+Chamber of Commerce and Industry	商工会議所 <br> しょうこうかいぎしょ <br> [sound:k8-3421_商工会議所.mp3]
+商工会議所	[sound:k8-3421_商工会議所.mp3] <br> しょうこうかいぎしょ <br> Chamber of Commerce and Industry
+[sound:s8-3421_灯油が切れた。.mp3]	<b>(灯油)</b> <br> 灯油が切れた。<br> とうゆがきれた。 <br> The lamp oil ran out.			
+<b>(灯油)</b> <br> 灯油が切れた。	[sound:s8-3421_灯油が切れた。.mp3] <br> とうゆがきれた。 <br> The lamp oil ran out.			
+[sound:k8-3422_葉.mp3]	葉 <br> (kun: は; on: ヨウ) <br> leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment, piece
+leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment, piece	葉 <br> (kun: は; on: ヨウ) <br> [sound:k8-3422_葉.mp3]
+葉	[sound:k8-3422_葉.mp3] <br> (kun: は; on: ヨウ) <br> leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment, piece
+[sound:s8-3422_油彩画を描く。.mp3]	<b>(油彩)</b> <br> 油彩画を描く。<br> ゆさいがをかく。 <br> Draw an oil painting.			
+<b>(油彩)</b> <br> 油彩画を描く。	[sound:s8-3422_油彩画を描く。.mp3] <br> ゆさいがをかく。 <br> Draw an oil painting.			
+[sound:k8-3423_葉.mp3]	葉 <br> は <br> leaf
+leaf	葉 <br> は <br> [sound:k8-3423_葉.mp3]
+葉	[sound:k8-3423_葉.mp3] <br> は <br> leaf
+[sound:s8-3423_油絵を展示する。.mp3]	<b>(油絵)</b> <br> 油絵を展示する。<br> あぶらえをてんじする。 <br> Exhibit an oil painting.			
+<b>(油絵)</b> <br> 油絵を展示する。	[sound:s8-3423_油絵を展示する。.mp3] <br> あぶらえをてんじする。 <br> Exhibit an oil painting.			
+[sound:k8-3424_言葉.mp3]	言葉 <br> ことば, けとば <br> language, dialect; word, words, phrase, term, expression, remark; speech, (manner of) speaking
+language, dialect; word, words, phrase, term, expression, remark; speech, (manner of) speaking	言葉 <br> ことば, けとば <br> [sound:k8-3424_言葉.mp3]
+言葉	[sound:k8-3424_言葉.mp3] <br> ことば, けとば <br> language, dialect; word, words, phrase, term, expression, remark; speech, (manner of) speaking
+[sound:s8-3424_妻に手紙を書く。.mp3]	<b>(妻)</b> <br> 妻に手紙を書く。<br> つまにてがみをかく。 <br> Write a letter to my wife.			
+<b>(妻)</b> <br> 妻に手紙を書く。	[sound:s8-3424_妻に手紙を書く。.mp3] <br> つまにてがみをかく。 <br> Write a letter to my wife.			
+[sound:k8-3425_青葉.mp3]	青葉 <br> あおば <br> fresh leaves
+fresh leaves	青葉 <br> あおば <br> [sound:k8-3425_青葉.mp3]
+青葉	[sound:k8-3425_青葉.mp3] <br> あおば <br> fresh leaves
+[sound:s8-3425_彼は妻を大切にしている。.mp3]	<b>(妻)</b> <br> 彼は妻を大切にしている。<br> かれはつまをたいせつにしている。 <br> He values his wife dearly.			
+<b>(妻)</b> <br> 彼は妻を大切にしている。	[sound:s8-3425_彼は妻を大切にしている。.mp3] <br> かれはつまをたいせつにしている。 <br> He values his wife dearly.			
+[sound:k8-3426_紅葉.mp3]	紅葉 <br> こうよう, もみじ <br> autumn colours, fall colors, leaves changing color (colour); leaves turning red, red leaves; leaves turning yellow, yellow leaves; (Japanese) maple (Acer japonicum); venison
+autumn colours, fall colors, leaves changing color (colour); leaves turning red, red leaves; leaves turning yellow, yellow leaves; (Japanese) maple (Acer japonicum); venison	紅葉 <br> こうよう, もみじ <br> [sound:k8-3426_紅葉.mp3]
+紅葉	[sound:k8-3426_紅葉.mp3] <br> こうよう, もみじ <br> autumn colours, fall colors, leaves changing color (colour); leaves turning red, red leaves; leaves turning yellow, yellow leaves; (Japanese) maple (Acer japonicum); venison
+[sound:s8-3426_夫妻で旅行に行く。.mp3]	<b>(夫妻)</b> <br> 夫妻で旅行に行く。<br> ふさいでりょこうにいく。 <br> Go on a trip with one's spouse.			
+<b>(夫妻)</b> <br> 夫妻で旅行に行く。	[sound:s8-3426_夫妻で旅行に行く。.mp3] <br> ふさいでりょこうにいく。 <br> Go on a trip with one's spouse.			
+[sound:k8-3427_合言葉.mp3]	合言葉 <br> あいことば <br> password, watchword
+password, watchword	合言葉 <br> あいことば <br> [sound:k8-3427_合言葉.mp3]
+合言葉	[sound:k8-3427_合言葉.mp3] <br> あいことば <br> password, watchword
+[sound:s8-3427_彼は妻子を残して死んだ。.mp3]	<b>(妻子)</b> <br> 彼は妻子を残して死んだ。<br> かれはさいしをのこしてしんだ。 <br> He died leaving behind his wife and children.			
+<b>(妻子)</b> <br> 彼は妻子を残して死んだ。	[sound:s8-3427_彼は妻子を残して死んだ。.mp3] <br> かれはさいしをのこしてしんだ。 <br> He died leaving behind his wife and children.			
+[sound:k8-3428_若葉.mp3]	若葉 <br> わかば, どんよう <br> new leaves, fresh verdure
+new leaves, fresh verdure	若葉 <br> わかば, どんよう <br> [sound:k8-3428_若葉.mp3]
+若葉	[sound:k8-3428_若葉.mp3] <br> わかば, どんよう <br> new leaves, fresh verdure
+[sound:s8-3428_人妻との不倫関係。.mp3]	<b>(人妻)</b> <br> 人妻との不倫関係。<br> ひとづまとのふりんかんけい。 <br> Extramarital affair with a married woman.			
+<b>(人妻)</b> <br> 人妻との不倫関係。	[sound:s8-3428_人妻との不倫関係。.mp3] <br> ひとづまとのふりんかんけい。 <br> Extramarital affair with a married woman.			
+[sound:k8-3429_双葉.mp3]	双葉 <br> ふたば <br> bud, sprout
+bud, sprout	双葉 <br> ふたば <br> [sound:k8-3429_双葉.mp3]
+双葉	[sound:k8-3429_双葉.mp3] <br> ふたば <br> bud, sprout
+[sound:s8-3429_夜空に稲妻が走る。.mp3]	<b>(稲妻)</b> <br> 夜空に稲妻が走る。<br> よぞらにいなずまがはしる。 <br> Lightning flashes across the night sky.			
+<b>(稲妻)</b> <br> 夜空に稲妻が走る。	[sound:s8-3429_夜空に稲妻が走る。.mp3] <br> よぞらにいなずまがはしる。 <br> Lightning flashes across the night sky.			
+[sound:k8-3430_松葉.mp3]	松葉 <br> まつば <br> pine needle
+pine needle	松葉 <br> まつば <br> [sound:k8-3430_松葉.mp3]
+松葉	[sound:k8-3430_松葉.mp3] <br> まつば <br> pine needle
+[sound:s8-3430_彼は愛妻のことを話す。.mp3]	<b>(愛妻)</b> <br> 彼は愛妻のことを話す。<br> かれはあいさいのことをはなす。 <br> He talks about his beloved wife.			
+<b>(愛妻)</b> <br> 彼は愛妻のことを話す。	[sound:s8-3430_彼は愛妻のことを話す。.mp3] <br> かれはあいさいのことをはなす。 <br> He talks about his beloved wife.			
+[sound:k8-3431_落ち葉.mp3]	落ち葉 <br> おちば, らくよう <br> fallen leaves, leaf litter, defoliation, shedding leaves
+fallen leaves, leaf litter, defoliation, shedding leaves	落ち葉 <br> おちば, らくよう <br> [sound:k8-3431_落ち葉.mp3]
+落ち葉	[sound:k8-3431_落ち葉.mp3] <br> おちば, らくよう <br> fallen leaves, leaf litter, defoliation, shedding leaves
+[sound:s8-3431_新妻が料理を作る。.mp3]	<b>(新妻)</b> <br> 新妻が料理を作る。<br> しんさいがりょうりをつくる。 <br> The new bride cooks.			
+<b>(新妻)</b> <br> 新妻が料理を作る。	[sound:s8-3431_新妻が料理を作る。.mp3] <br> しんさいがりょうりをつくる。 <br> The new bride cooks.			
+[sound:k8-3432_言葉遣い.mp3]	言葉遣い <br> ことばづかい <br> speech, expression, wording
+speech, expression, wording	言葉遣い <br> ことばづかい <br> [sound:k8-3432_言葉遣い.mp3]
+言葉遣い	[sound:k8-3432_言葉遣い.mp3] <br> ことばづかい <br> speech, expression, wording
+[sound:s8-3432_良妻賢母の像。.mp3]	<b>(良妻)</b> <br> 良妻賢母の像。<br> りょうさいけんぼのぞう。 <br> The image of a good wife and wise mother.			
+<b>(良妻)</b> <br> 良妻賢母の像。	[sound:s8-3432_良妻賢母の像。.mp3] <br> りょうさいけんぼのぞう。 <br> The image of a good wife and wise mother.			
+[sound:k8-3433_義.mp3]	義 <br> (on: ギ) <br> meaning: righteousness, justice, morality, honor, loyalty, meaning
+meaning: righteousness, justice, morality, honor, loyalty, meaning	義 <br> (on: ギ) <br> [sound:k8-3433_義.mp3]
+義	[sound:k8-3433_義.mp3] <br> (on: ギ) <br> meaning: righteousness, justice, morality, honor, loyalty, meaning
+[sound:s8-3433_後妻との再婚。.mp3]	<b>(後妻)</b> <br> 後妻との再婚。<br> ごさいとのさいこん。 <br> Remarrying with a second wife.			
+<b>(後妻)</b> <br> 後妻との再婚。	[sound:s8-3433_後妻との再婚。.mp3] <br> ごさいとのさいこん。 <br> Remarrying with a second wife.			
+[sound:k8-3434_義.mp3]	義 <br> ぎ <br> morality, righteousness, justice, honour (honor); meaning; teachings, doctrine; nonconsanguineous relationship (i.e. of in-laws); prosthesis
+morality, righteousness, justice, honour (honor); meaning; teachings, doctrine; nonconsanguineous relationship (i.e. of in-laws); prosthesis	義 <br> ぎ <br> [sound:k8-3434_義.mp3]
+義	[sound:k8-3434_義.mp3] <br> ぎ <br> morality, righteousness, justice, honour (honor); meaning; teachings, doctrine; nonconsanguineous relationship (i.e. of in-laws); prosthesis
+[sound:s8-3434_先妻との離婚後。.mp3]	<b>(先妻)</b> <br> 先妻との離婚後。<br> せんさいとのりこんご。 <br> After divorcing the first wife.			
+<b>(先妻)</b> <br> 先妻との離婚後。	[sound:s8-3434_先妻との離婚後。.mp3] <br> せんさいとのりこんご。 <br> After divorcing the first wife.			
+[sound:k8-3435_主義.mp3]	主義 <br> しゅぎ <br> doctrine, rule, principle
+doctrine, rule, principle	主義 <br> しゅぎ <br> [sound:k8-3435_主義.mp3]
+主義	[sound:k8-3435_主義.mp3] <br> しゅぎ <br> doctrine, rule, principle
+[sound:s8-3435_暴風雨が吹く。.mp3]	<b>(暴)</b> <br> 暴風雨が吹く。<br> ぼうふううがふく。 <br> A violent storm blows.			
+<b>(暴)</b> <br> 暴風雨が吹く。	[sound:s8-3435_暴風雨が吹く。.mp3] <br> ぼうふううがふく。 <br> A violent storm blows.			
+[sound:k8-3436_朝鮮民主主義人民共和国.mp3]	朝鮮民主主義人民共和国 <br> ちょうせんみんしゅしゅぎじんみんきょうわこく <br> Democratic People's Republic of Korea (North Korea), DPRK
+Democratic People's Republic of Korea (North Korea), DPRK	朝鮮民主主義人民共和国 <br> ちょうせんみんしゅしゅぎじんみんきょうわこく <br> [sound:k8-3436_朝鮮民主主義人民共和国.mp3]
+朝鮮民主主義人民共和国	[sound:k8-3436_朝鮮民主主義人民共和国.mp3] <br> ちょうせんみんしゅしゅぎじんみんきょうわこく <br> Democratic People's Republic of Korea (North Korea), DPRK
+[sound:s8-3436_暴力団との対立が激化する。.mp3]	<b>(暴力団)</b> <br> 暴力団との対立が激化する。<br> ぼうりょくだんとのたいりつがげきかする。 <br> Conflict with the yakuza intensifies.			
+<b>(暴力団)</b> <br> 暴力団との対立が激化する。	[sound:s8-3436_暴力団との対立が激化する。.mp3] <br> ぼうりょくだんとのたいりつがげきかする。 <br> Conflict with the yakuza intensifies.			
+[sound:k8-3437_義務.mp3]	義務 <br> ぎむ <br> duty, obligation, responsibility
+duty, obligation, responsibility	義務 <br> ぎむ <br> [sound:k8-3437_義務.mp3]
+義務	[sound:k8-3437_義務.mp3] <br> ぎむ <br> duty, obligation, responsibility
+[sound:s8-3437_暴力は解決の道ではない。.mp3]	<b>(暴力)</b> <br> 暴力は解決の道ではない。<br> ぼうりょくはかいけつのみちではない。 <br> Violence is not the solution.			
+<b>(暴力)</b> <br> 暴力は解決の道ではない。	[sound:s8-3437_暴力は解決の道ではない。.mp3] <br> ぼうりょくはかいけつのみちではない。 <br> Violence is not the solution.			
+[sound:k8-3438_社会主義.mp3]	社会主義 <br> しゃかいしゅぎ <br> socialism
+socialism	社会主義 <br> しゃかいしゅぎ <br> [sound:k8-3438_社会主義.mp3]
+社会主義	[sound:k8-3438_社会主義.mp3] <br> しゃかいしゅぎ <br> socialism
+[sound:s8-3438_暴行事件が発生した。.mp3]	<b>(暴行)</b> <br> 暴行事件が発生した。<br> ぼうこうじけんがはっせいした。 <br> A case of assault occurred.			
+<b>(暴行)</b> <br> 暴行事件が発生した。	[sound:s8-3438_暴行事件が発生した。.mp3] <br> ぼうこうじけんがはっせいした。 <br> A case of assault occurred.			
+[sound:k8-3439_正義.mp3]	正義 <br> せいぎ <br> justice, right, righteousness, correct meaning
+justice, right, righteousness, correct meaning	正義 <br> せいぎ <br> [sound:k8-3439_正義.mp3]
+正義	[sound:k8-3439_正義.mp3] <br> せいぎ <br> justice, right, righteousness, correct meaning
+[sound:s8-3439_暴動が勃発した。.mp3]	<b>(暴動)</b> <br> 暴動が勃発した。<br> ぼうどうがぼっぱつした。 <br> A riot broke out.			
+<b>(暴動)</b> <br> 暴動が勃発した。	[sound:s8-3439_暴動が勃発した。.mp3] <br> ぼうどうがぼっぱつした。 <br> A riot broke out.			
+[sound:k8-3440_民主主義.mp3]	民主主義 <br> みんしゅしゅぎ <br> democracy
+democracy	民主主義 <br> みんしゅしゅぎ <br> [sound:k8-3440_民主主義.mp3]
+民主主義	[sound:k8-3440_民主主義.mp3] <br> みんしゅしゅぎ <br> democracy
+[sound:s8-3440_車が暴走する。.mp3]	<b>(暴走)</b> <br> 車が暴走する。<br> くるまがぼうそうする。 <br> The car goes out of control.			
+<b>(暴走)</b> <br> 車が暴走する。	[sound:s8-3440_車が暴走する。.mp3] <br> くるまがぼうそうする。 <br> The car goes out of control.			
+[sound:k8-3441_意義.mp3]	意義 <br> いぎ <br> meaning, significance
+meaning, significance	意義 <br> いぎ <br> [sound:k8-3441_意義.mp3]
+意義	[sound:k8-3441_意義.mp3] <br> いぎ <br> meaning, significance
+[sound:s8-3441_株価が暴落した。.mp3]	<b>(暴落)</b> <br> 株価が暴落した。<br> かぶかがぼうらくした。 <br> Stock prices plummeted.			
+<b>(暴落)</b> <br> 株価が暴落した。	[sound:s8-3441_株価が暴落した。.mp3] <br> かぶかがぼうらくした。 <br> Stock prices plummeted.			
+[sound:k8-3442_名義.mp3]	名義 <br> めいぎ <br> name; in the name of
+name; in the name of	名義 <br> めいぎ <br> [sound:k8-3442_名義.mp3]
+名義	[sound:k8-3442_名義.mp3] <br> めいぎ <br> name; in the name of
+[sound:s8-3442_暴風雨が来る。.mp3]	<b>(暴風)</b> <br> 暴風雨が来る。<br> ぼうふううがくる。 <br> A storm is coming.			
+<b>(暴風)</b> <br> 暴風雨が来る。	[sound:s8-3442_暴風雨が来る。.mp3] <br> ぼうふううがくる。 <br> A storm is coming.			
+[sound:k8-3443_共産主義.mp3]	共産主義 <br> きょうさんしゅぎ <br> communism, collectivism
+communism, collectivism	共産主義 <br> きょうさんしゅぎ <br> [sound:k8-3443_共産主義.mp3]
+共産主義	[sound:k8-3443_共産主義.mp3] <br> きょうさんしゅぎ <br> communism, collectivism
+[sound:s8-3443_子供が暴れて大変だ。.mp3]	<b>(暴れる)</b> <br> 子供が暴れて大変だ。<br> こどもがあばれてたいへんだ。 <br> The child is causing a commotion.			
+<b>(暴れる)</b> <br> 子供が暴れて大変だ。	[sound:s8-3443_子供が暴れて大変だ。.mp3] <br> こどもがあばれてたいへんだ。 <br> The child is causing a commotion.			
+[sound:k8-3444_伝.mp3]	伝 <br> (kun: つた.わる, つた.える, つた.う, つだ.う, -づた.い, つて; on: デン, テン) <br> transmit, go along, walk along, follow, report, communicate, legend, tradition
+transmit, go along, walk along, follow, report, communicate, legend, tradition	伝 <br> (kun: つた.わる, つた.える, つた.う, つだ.う, -づた.い, つて; on: デン, テン) <br> [sound:k8-3444_伝.mp3]
+伝	[sound:k8-3444_伝.mp3] <br> (kun: つた.わる, つた.える, つた.う, つだ.う, -づた.い, つて; on: デン, テン) <br> transmit, go along, walk along, follow, report, communicate, legend, tradition
+[sound:s8-3444_彼は乱暴な人だ。.mp3]	<b>(乱暴)</b> <br> 彼は乱暴な人だ。<br> かれはらんぼうなひとだ。 <br> He is a rough person.			
+<b>(乱暴)</b> <br> 彼は乱暴な人だ。	[sound:s8-3444_彼は乱暴な人だ。.mp3] <br> かれはらんぼうなひとだ。 <br> He is a rough person.			
+[sound:k8-3445_伝統.mp3]	伝統 <br> でんとう <br> tradition, convention
+tradition, convention	伝統 <br> でんとう <br> [sound:k8-3445_伝統.mp3]
+伝統	[sound:k8-3445_伝統.mp3] <br> でんとう <br> tradition, convention
+[sound:s8-3445_婦女暴行事件の容疑者。.mp3]	<b>(婦女暴行)</b> <br> 婦女暴行事件の容疑者。<br> ふじょぼうこうじけんのようぎしゃ。 <br> Suspect in a sexual assault case.			
+<b>(婦女暴行)</b> <br> 婦女暴行事件の容疑者。	[sound:s8-3445_婦女暴行事件の容疑者。.mp3] <br> ふじょぼうこうじけんのようぎしゃ。 <br> Suspect in a sexual assault case.			
+[sound:k8-3446_遺伝子.mp3]	遺伝子 <br> いでんし <br> gene, genetic
+gene, genetic	遺伝子 <br> いでんし <br> [sound:k8-3446_遺伝子.mp3]
+遺伝子	[sound:k8-3446_遺伝子.mp3] <br> いでんし <br> gene, genetic
+[sound:s8-3446_一輪の花。.mp3]	<b>(輪)</b> <br> 一輪の花。<br> いちりんのはな。 <br> A single flower.			
+<b>(輪)</b> <br> 一輪の花。	[sound:s8-3446_一輪の花。.mp3] <br> いちりんのはな。 <br> A single flower.			
+[sound:k8-3447_宣伝.mp3]	宣伝 <br> せんでん <br> propaganda, publicity, advertisement, advertising
+propaganda, publicity, advertisement, advertising	宣伝 <br> せんでん <br> [sound:k8-3447_宣伝.mp3]
+宣伝	[sound:k8-3447_宣伝.mp3] <br> せんでん <br> propaganda, publicity, advertisement, advertising
+[sound:s8-3447_五輪の競技。.mp3]	<b>(五輪)</b> <br> 五輪の競技。<br> ごりんのきょうぎ。 <br> Olympic Games.			
+<b>(五輪)</b> <br> 五輪の競技。	[sound:s8-3447_五輪の競技。.mp3] <br> ごりんのきょうぎ。 <br> Olympic Games.			
+[sound:k8-3448_伝説.mp3]	伝説 <br> でんせつ <br> tradition, legend, folklore
+tradition, legend, folklore	伝説 <br> でんせつ <br> [sound:k8-3448_伝説.mp3]
+伝説	[sound:k8-3448_伝説.mp3] <br> でんせつ <br> tradition, legend, folklore
+[sound:s8-3448_競輪場でレースをする。.mp3]	<b>(競輪)</b> <br> 競輪場でレースをする。<br> けいりんじょうでれーすをする。 <br> Race at the velodrome.			
+<b>(競輪)</b> <br> 競輪場でレースをする。	[sound:s8-3448_競輪場でレースをする。.mp3] <br> けいりんじょうでれーすをする。 <br> Race at the velodrome.			
+[sound:k8-3449_伝統的.mp3]	伝統的 <br> でんとうてき <br> traditional, conventional
+traditional, conventional	伝統的 <br> でんとうてき <br> [sound:k8-3449_伝統的.mp3]
+伝統的	[sound:k8-3449_伝統的.mp3] <br> でんとうてき <br> traditional, conventional
+[sound:s8-3449_結婚指輪を買う。.mp3]	<b>(指輪)</b> <br> 結婚指輪を買う。<br> けっこんゆびわをかう。 <br> Buy a wedding ring.			
+<b>(指輪)</b> <br> 結婚指輪を買う。	[sound:s8-3449_結婚指輪を買う。.mp3] <br> けっこんゆびわをかう。 <br> Buy a wedding ring.			
+[sound:k8-3450_駅伝.mp3]	駅伝 <br> えきでん <br> stagecoach, post horse
+stagecoach, post horse	駅伝 <br> えきでん <br> [sound:k8-3450_駅伝.mp3]
+駅伝	[sound:k8-3450_駅伝.mp3] <br> えきでん <br> stagecoach, post horse
+[sound:s8-3450_車輪が外れた。.mp3]	<b>(車輪)</b> <br> 車輪が外れた。<br> しゃりんがはずれた。 <br> The wheel came off.			
+<b>(車輪)</b> <br> 車輪が外れた。	[sound:s8-3450_車輪が外れた。.mp3] <br> しゃりんがはずれた。 <br> The wheel came off.			
+[sound:k8-3451_遺伝.mp3]	遺伝 <br> いでん <br> heredity, inherent
+heredity, inherent	遺伝 <br> いでん <br> [sound:k8-3451_遺伝.mp3]
+遺伝	[sound:k8-3451_遺伝.mp3] <br> いでん <br> heredity, inherent
+[sound:s8-3451_四輪車で移動する。.mp3]	<b>(四輪車)</b> <br> 四輪車で移動する。<br> よんりんしゃでいどうする。 <br> Travel by car.			
+<b>(四輪車)</b> <br> 四輪車で移動する。	[sound:s8-3451_四輪車で移動する。.mp3] <br> よんりんしゃでいどうする。 <br> Travel by car.			
+[sound:k8-3452_手伝い.mp3]	手伝い <br> てつだい <br> helper, assistant; help
+helper, assistant; help	手伝い <br> てつだい <br> [sound:k8-3452_手伝い.mp3]
+手伝い	[sound:k8-3452_手伝い.mp3] <br> てつだい <br> helper, assistant; help
+[sound:s8-3452_輪郭がぼやける。.mp3]	<b>(輪郭)</b> <br> 輪郭がぼやける。<br> りんかくがぼやける。 <br> The outline becomes blurry.			
+<b>(輪郭)</b> <br> 輪郭がぼやける。	[sound:s8-3452_輪郭がぼやける。.mp3] <br> りんかくがぼやける。 <br> The outline becomes blurry.			
+[sound:k8-3453_伝達.mp3]	伝達 <br> でんたつ <br> transmission (e.g. news), communication, delivery, conveyance, transfer, relay, propagation, conduction
+transmission (e.g. news), communication, delivery, conveyance, transfer, relay, propagation, conduction	伝達 <br> でんたつ <br> [sound:k8-3453_伝達.mp3]
+伝達	[sound:k8-3453_伝達.mp3] <br> でんたつ <br> transmission (e.g. news), communication, delivery, conveyance, transfer, relay, propagation, conduction
+[sound:s8-3453_二輪車を運転する。.mp3]	<b>(二輪車)</b> <br> 二輪車を運転する。<br> にりんしゃをうんてんする。 <br> Drive a motorcycle.			
+<b>(二輪車)</b> <br> 二輪車を運転する。	[sound:s8-3453_二輪車を運転する。.mp3] <br> にりんしゃをうんてんする。 <br> Drive a motorcycle.			
+[sound:k8-3454_自伝.mp3]	自伝 <br> じでん <br> autobiography
+autobiography	自伝 <br> じでん <br> [sound:k8-3454_自伝.mp3]
+自伝	[sound:k8-3454_自伝.mp3] <br> じでん <br> autobiography
+[sound:s8-3454_成功の両輪。.mp3]	<b>(両輪)</b> <br> 成功の両輪。<br> せいこうのりょうりん。 <br> The two pillars of success.			
+<b>(両輪)</b> <br> 成功の両輪。	[sound:s8-3454_成功の両輪。.mp3] <br> せいこうのりょうりん。 <br> The two pillars of success.			
+[sound:k8-3455_働.mp3]	働 <br> (kun: はたら.く; on: ドウ, リュク, リキ, ロク, リョク) <br> work, (kokuji)
+work, (kokuji)	働 <br> (kun: はたら.く; on: ドウ, リュク, リキ, ロク, リョク) <br> [sound:k8-3455_働.mp3]
+働	[sound:k8-3455_働.mp3] <br> (kun: はたら.く; on: ドウ, リュク, リキ, ロク, リョク) <br> work, (kokuji)
+[sound:s8-3455_花輪を作りました。.mp3]	<b>(花輪)</b> <br> 花輪を作りました。<br> はなわをつくりました。 <br> I made a flower wreath.			
+<b>(花輪)</b> <br> 花輪を作りました。	[sound:s8-3455_花輪を作りました。.mp3] <br> はなわをつくりました。 <br> I made a flower wreath.			
+[sound:k8-3456_働き.mp3]	働き <br> はたらき <br> work, workings, activity, ability, talent, function, labor, labour, action, operation, movement, motion, conjugation, inflection, achievement
+work, workings, activity, ability, talent, function, labor, labour, action, operation, movement, motion, conjugation, inflection, achievement	働き <br> はたらき <br> [sound:k8-3456_働き.mp3]
+働き	[sound:k8-3456_働き.mp3] <br> はたらき <br> work, workings, activity, ability, talent, function, labor, labour, action, operation, movement, motion, conjugation, inflection, achievement
+[sound:s8-3456_彼は占いが好きです。.mp3]	<b>(占)</b> <br> 彼は占いが好きです。<br> かれはうらないがすきです。 <br> He likes fortune-telling.			
+<b>(占)</b> <br> 彼は占いが好きです。	[sound:s8-3456_彼は占いが好きです。.mp3] <br> かれはうらないがすきです。 <br> He likes fortune-telling.			
+[sound:k8-3457_労働.mp3]	労働 <br> ろうどう <br> manual labor, manual labour, toil, work
+manual labor, manual labour, toil, work	労働 <br> ろうどう <br> [sound:k8-3457_労働.mp3]
+労働	[sound:k8-3457_労働.mp3] <br> ろうどう <br> manual labor, manual labour, toil, work
+[sound:s8-3457_その国は敵に占領されました。.mp3]	<b>(占領)</b> <br> その国は敵に占領されました。<br> そのくにはてきにせんりょうされました。 <br> The country was occupied by the enemy.			
+<b>(占領)</b> <br> その国は敵に占領されました。	[sound:s8-3457_その国は敵に占領されました。.mp3] <br> そのくにはてきにせんりょうされました。 <br> The country was occupied by the enemy.			
+[sound:k8-3458_労働者.mp3]	労働者 <br> ろうどうしゃ <br> laborer (labourer), blue-collar worker
+laborer (labourer), blue-collar worker	労働者 <br> ろうどうしゃ <br> [sound:k8-3458_労働者.mp3]
+労働者	[sound:k8-3458_労働者.mp3] <br> ろうどうしゃ <br> laborer (labourer), blue-collar worker
+[sound:s8-3458_彼はその市場を独占しています。.mp3]	<b>(独占)</b> <br> 彼はその市場を独占しています。<br> かれはそのしじょうをどくせんしています。 <br> He monopolizes the market.			
+<b>(独占)</b> <br> 彼はその市場を独占しています。	[sound:s8-3458_彼はその市場を独占しています。.mp3] <br> かれはそのしじょうをどくせんしています。 <br> He monopolizes the market.			
+[sound:k8-3459_労働省.mp3]	労働省 <br> ろうどうしょう <br> Ministry of Labour (now Ministry of Health, Labour and Welfare)
+Ministry of Labour (now Ministry of Health, Labour and Welfare)	労働省 <br> ろうどうしょう <br> [sound:k8-3459_労働省.mp3]
+労働省	[sound:k8-3459_労働省.mp3] <br> ろうどうしょう <br> Ministry of Labour (now Ministry of Health, Labour and Welfare)
+[sound:s8-3459_彼女は毎日占いをします。.mp3]	<b>(占い)</b> <br> 彼女は毎日占いをします。<br> かのじょはまいにちうらないをします。 <br> She does fortune-telling every day.			
+<b>(占い)</b> <br> 彼女は毎日占いをします。	[sound:s8-3459_彼女は毎日占いをします。.mp3] <br> かのじょはまいにちうらないをします。 <br> She does fortune-telling every day.			
+[sound:k8-3460_労働党.mp3]	労働党 <br> ろうどうとう <br> Labour Party, Labor Party
+Labour Party, Labor Party	労働党 <br> ろうどうとう <br> [sound:k8-3460_労働党.mp3]
+労働党	[sound:k8-3460_労働党.mp3] <br> ろうどうとう <br> Labour Party, Labor Party
+[sound:s8-3460_彼は商品を買い占めました。.mp3]	<b>(買い占め)</b> <br> 彼は商品を買い占めました。<br> かれはしょうひんをかいしめました。 <br> He bought up all the goods.			
+<b>(買い占め)</b> <br> 彼は商品を買い占めました。	[sound:s8-3460_彼は商品を買い占めました。.mp3] <br> かれはしょうひんをかいしめました。 <br> He bought up all the goods.			
+[sound:k8-3461_労働組合.mp3]	労働組合 <br> ろうどうくみあい <br> labor union, labour union
+labor union, labour union	労働組合 <br> ろうどうくみあい <br> [sound:k8-3461_労働組合.mp3]
+労働組合	[sound:k8-3461_労働組合.mp3] <br> ろうどうくみあい <br> labor union, labour union
+[sound:s8-3461_彼は商品を買い占めることができませんでした。.mp3]	<b>(買い占める)</b> <br> 彼は商品を買い占めることができませんでした。<br> かれはしょうひんをかいしめることができませんでした。 <br> He couldn't buy up the goods.			
+<b>(買い占める)</b> <br> 彼は商品を買い占めることができませんでした。	[sound:s8-3461_彼は商品を買い占めることができませんでした。.mp3] <br> かれはしょうひんをかいしめることができませんでした。 <br> He couldn't buy up the goods.			
+[sound:k8-3462_労働条件.mp3]	労働条件 <br> ろうどうじょうけん <br> working conditions
+working conditions	労働条件 <br> ろうどうじょうけん <br> [sound:k8-3462_労働条件.mp3]
+労働条件	[sound:k8-3462_労働条件.mp3] <br> ろうどうじょうけん <br> working conditions
+[sound:s8-3462_彼らは城を占拠しました。.mp3]	<b>(占拠)</b> <br> 彼らは城を占拠しました。<br> かれらはしろをせんきょしました。 <br> They occupied the castle.			
+<b>(占拠)</b> <br> 彼らは城を占拠しました。	[sound:s8-3462_彼らは城を占拠しました。.mp3] <br> かれらはしろをせんきょしました。 <br> They occupied the castle.			
+[sound:k8-3463_稼働.mp3]	稼働 <br> かどう <br> operation (of machine), actual work
+operation (of machine), actual work	稼働 <br> かどう <br> [sound:k8-3463_稼働.mp3]
+稼働	[sound:k8-3463_稼働.mp3] <br> かどう <br> operation (of machine), actual work
+[sound:s8-3463_その業界は寡占状態です。.mp3]	<b>(寡占)</b> <br> その業界は寡占状態です。<br> そのぎょうかいはかせんじょうたいです。 <br> The industry is in an oligopoly state.			
+<b>(寡占)</b> <br> その業界は寡占状態です。	[sound:s8-3463_その業界は寡占状態です。.mp3] <br> そのぎょうかいはかせんじょうたいです。 <br> The industry is in an oligopoly state.			
+[sound:k8-3464_共働き.mp3]	共働き <br> ともばたらき <br> (husband and wife) both working, dual income
+(husband and wife) both working, dual income	共働き <br> ともばたらき <br> [sound:k8-3464_共働き.mp3]
+共働き	[sound:k8-3464_共働き.mp3] <br> ともばたらき <br> (husband and wife) both working, dual income
+[sound:s8-3464_彼は未来を占うことができます。.mp3]	<b>(占う)</b> <br> 彼は未来を占うことができます。<br> かれはみらいをうらうことができます。 <br> He can predict the future.			
+<b>(占う)</b> <br> 彼は未来を占うことができます。	[sound:s8-3464_彼は未来を占うことができます。.mp3] <br> かれはみらいをうらうことができます。 <br> He can predict the future.			
+[sound:k8-3465_働かせる.mp3]	働かせる <br> はたらかせる <br> to put someone to work, to make someone work
+to put someone to work, to make someone work	働かせる <br> はたらかせる <br> [sound:k8-3465_働かせる.mp3]
+働かせる	[sound:k8-3465_働かせる.mp3] <br> はたらかせる <br> to put someone to work, to make someone work
+[sound:s8-3465_彼は多くの財産を占有しています。.mp3]	<b>(占有)</b> <br> 彼は多くの財産を占有しています。<br> かれはおおくのざいさんをせんゆうしています。 <br> He possesses a lot of property.			
+<b>(占有)</b> <br> 彼は多くの財産を占有しています。	[sound:s8-3465_彼は多くの財産を占有しています。.mp3] <br> かれはおおくのざいさんをせんゆうしています。 <br> He possesses a lot of property.			
+[sound:k8-3466_形.mp3]	形 <br> (kun: かた, -がた, かたち, なり; on: ケイ, ギョウ) <br> shape, form, style
+shape, form, style	形 <br> (kun: かた, -がた, かたち, なり; on: ケイ, ギョウ) <br> [sound:k8-3466_形.mp3]
+形	[sound:k8-3466_形.mp3] <br> (kun: かた, -がた, かたち, なり; on: ケイ, ギョウ) <br> shape, form, style
+[sound:s8-3466_その会社は市場で独占的な地位を持っています。.mp3]	<b>(独占的)</b> <br> その会社は市場で独占的な地位を持っています。<br> そのかいしゃはしじょうでどくせんてきなちいをもっています。 <br> The company holds a monopolistic position in the market.			
+<b>(独占的)</b> <br> その会社は市場で独占的な地位を持っています。	[sound:s8-3466_その会社は市場で独占的な地位を持っています。.mp3] <br> そのかいしゃはしじょうでどくせんてきなちいをもっています。 <br> The company holds a monopolistic position in the market.			
+[sound:k8-3467_形.mp3]	形 <br> かたち, よう <br> form, shape, figure; visage
+form, shape, figure; visage	形 <br> かたち, よう <br> [sound:k8-3467_形.mp3]
+形	[sound:k8-3467_形.mp3] <br> かたち, よう <br> form, shape, figure; visage
+[sound:s8-3467_彼は宣言を発表しました。.mp3]	<b>(宣)</b> <br> 彼は宣言を発表しました。<br> かれはせんげんをはっぴょうしました。 <br> He announced the declaration.			
+<b>(宣)</b> <br> 彼は宣言を発表しました。	[sound:s8-3467_彼は宣言を発表しました。.mp3] <br> かれはせんげんをはっぴょうしました。 <br> He announced the declaration.			
+[sound:k8-3468_形式.mp3]	形式 <br> けいしき <br> form (as opposed to substance), formality; method, system, style; format, mode, appearance, form (something takes); math expression
+form (as opposed to substance), formality; method, system, style; format, mode, appearance, form (something takes); math expression	形式 <br> けいしき <br> [sound:k8-3468_形式.mp3]
+形式	[sound:k8-3468_形式.mp3] <br> けいしき <br> form (as opposed to substance), formality; method, system, style; format, mode, appearance, form (something takes); math expression
+[sound:s8-3468_政府は非常事態を宣言しました。.mp3]	<b>(宣言)</b> <br> 政府は非常事態を宣言しました。<br> せいふはひじょうじたいをせんげんしました。 <br> The government declared a state of emergency.			
+<b>(宣言)</b> <br> 政府は非常事態を宣言しました。	[sound:s8-3468_政府は非常事態を宣言しました。.mp3] <br> せいふはひじょうじたいをせんげんしました。 <br> The government declared a state of emergency.			
+[sound:k8-3469_形成.mp3]	形成 <br> けいせい <br> formation, molding, taking form
+formation, molding, taking form	形成 <br> けいせい <br> [sound:k8-3469_形成.mp3]
+形成	[sound:k8-3469_形成.mp3] <br> けいせい <br> formation, molding, taking form
+[sound:s8-3469_その企業は新製品の宣伝を行いました。.mp3]	<b>(宣伝)</b> <br> その企業は新製品の宣伝を行いました。<br> そのきぎょうはしんせいひんのせんでんをおこないました。 <br> The company promoted its new product.			
+<b>(宣伝)</b> <br> その企業は新製品の宣伝を行いました。	[sound:s8-3469_その企業は新製品の宣伝を行いました。.mp3] <br> そのきぎょうはしんせいひんのせんでんをおこないました。 <br> The company promoted its new product.			
+[sound:k8-3470_形態.mp3]	形態 <br> けいたい <br> form, shape, figure
+form, shape, figure	形態 <br> けいたい <br> [sound:k8-3470_形態.mp3]
+形態	[sound:k8-3470_形態.mp3] <br> けいたい <br> form, shape, figure
+[sound:s8-3470_裁判官は有罪判決を宣告しました。.mp3]	<b>(宣告)</b> <br> 裁判官は有罪判決を宣告しました。<br> さいばんかんはゆうざいはんけつをせんこくしました。 <br> The judge pronounced a guilty verdict.			
+<b>(宣告)</b> <br> 裁判官は有罪判決を宣告しました。	[sound:s8-3470_裁判官は有罪判決を宣告しました。.mp3] <br> さいばんかんはゆうざいはんけつをせんこくしました。 <br> The judge pronounced a guilty verdict.			
+[sound:k8-3471_人形.mp3]	人形 <br> にんぎょう <br> doll, puppet, figure
+doll, puppet, figure	人形 <br> にんぎょう <br> [sound:k8-3471_人形.mp3]
+人形	[sound:k8-3471_人形.mp3] <br> にんぎょう <br> doll, puppet, figure
+[sound:s8-3471_その政党は街宣車を使って選挙運動を行いました。.mp3]	<b>(街宣車)</b> <br> その政党は街宣車を使って選挙運動を行いました。<br> そのせいとうはがいせんしゃをつかってせんきょうんどうをおこないました。 <br> The political party used sound trucks for election campaigning.			
+<b>(街宣車)</b> <br> その政党は街宣車を使って選挙運動を行いました。	[sound:s8-3471_その政党は街宣車を使って選挙運動を行いました。.mp3] <br> そのせいとうはがいせんしゃをつかってせんきょうんどうをおこないました。 <br> The political party used sound trucks for election campaigning.			
+[sound:k8-3472_山形.mp3]	山形 <br> やまがた <br> mountain-shaped
+mountain-shaped	山形 <br> やまがた <br> [sound:k8-3472_山形.mp3]
+山形	[sound:k8-3472_山形.mp3] <br> やまがた <br> mountain-shaped
+[sound:s8-3472_彼は誠実を宣誓しました。.mp3]	<b>(宣誓)</b> <br> 彼は誠実を宣誓しました。<br> かれはせいじつをせんせいしました。 <br> He swore to be honest.			
+<b>(宣誓)</b> <br> 彼は誠実を宣誓しました。	[sound:s8-3472_彼は誠実を宣誓しました。.mp3] <br> かれはせいじつをせんせいしました。 <br> He swore to be honest.			
+[sound:k8-3473_手形.mp3]	手形 <br> てがた <br> draft, draught, promissory note; signed hand-print (sumo)
+draft, draught, promissory note; signed hand-print (sumo)	手形 <br> てがた <br> [sound:k8-3473_手形.mp3]
+手形	[sound:k8-3473_手形.mp3] <br> てがた <br> draft, draught, promissory note; signed hand-print (sumo)
+[sound:s8-3473_国は敵に宣戦布告した。.mp3]	<b>(宣戦)</b> <br> 国は敵に宣戦布告した。<br> くにはてきにせんせんふこくした。 <br> The country declared war on the enemy.			
+<b>(宣戦)</b> <br> 国は敵に宣戦布告した。	[sound:s8-3473_国は敵に宣戦布告した。.mp3] <br> くにはてきにせんせんふこくした。 <br> The country declared war on the enemy.			
+[sound:k8-3474_造形.mp3]	造形 <br> ぞうけい <br> molding, moulding, modelling (i.e. plastic arts), modeling
+molding, moulding, modelling (i.e. plastic arts), modeling	造形 <br> ぞうけい <br> [sound:k8-3474_造形.mp3]
+造形	[sound:k8-3474_造形.mp3] <br> ぞうけい <br> molding, moulding, modelling (i.e. plastic arts), modeling
+[sound:s8-3474_彼は宣教師としてアフリカに行きました。.mp3]	<b>(宣教師)</b> <br> 彼は宣教師としてアフリカに行きました。<br> かれはせんきょうしとしてあふりかにいきました。 <br> He went to Africa as a missionary.			
+<b>(宣教師)</b> <br> 彼は宣教師としてアフリカに行きました。	[sound:s8-3474_彼は宣教師としてアフリカに行きました。.mp3] <br> かれはせんきょうしとしてあふりかにいきました。 <br> He went to Africa as a missionary.			
+[sound:k8-3475_自由形.mp3]	自由形 <br> じゆうがた <br> freestyle (e.g. swimming event)
+freestyle (e.g. swimming event)	自由形 <br> じゆうがた <br> [sound:k8-3475_自由形.mp3]
+自由形	[sound:k8-3475_自由形.mp3] <br> じゆうがた <br> freestyle (e.g. swimming event)
+[sound:s8-3475_彼は託宣を受けました。.mp3]	<b>(託宣)</b> <br> 彼は託宣を受けました。<br> かれはたくせんをうけました。 <br> He received a divine revelation.			
+<b>(託宣)</b> <br> 彼は託宣を受けました。	[sound:s8-3475_彼は託宣を受けました。.mp3] <br> かれはたくせんをうけました。 <br> He received a divine revelation.			
+[sound:k8-3476_円形.mp3]	円形 <br> えんけい, まるがた <br> round shape, circle; circular form
+round shape, circle; circular form	円形 <br> えんけい, まるがた <br> [sound:k8-3476_円形.mp3]
+円形	[sound:k8-3476_円形.mp3] <br> えんけい, まるがた <br> round shape, circle; circular form
+[sound:s8-3476_彼らはその地域に宣教を行った。.mp3]	<b>(宣教)</b> <br> 彼らはその地域に宣教を行った。<br> かれらはそのちいきにせんきょうをおこなった。 <br> They conducted missionary work in the region.			
+<b>(宣教)</b> <br> 彼らはその地域に宣教を行った。	[sound:s8-3476_彼らはその地域に宣教を行った。.mp3] <br> かれらはそのちいきにせんきょうをおこなった。 <br> They conducted missionary work in the region.			
+[sound:k8-3477_景.mp3]	景 <br> (on: ケイ) <br> meaning: scenery, view
+meaning: scenery, view	景 <br> (on: ケイ) <br> [sound:k8-3477_景.mp3]
+景	[sound:k8-3477_景.mp3] <br> (on: ケイ) <br> meaning: scenery, view
+[sound:s8-3477_彼は真実を宣べました。.mp3]	<b>(宣べる)</b> <br> 彼は真実を宣べました。<br> かれはしんじつをのべました。 <br> He proclaimed the truth.			
+<b>(宣べる)</b> <br> 彼は真実を宣べました。	[sound:s8-3477_彼は真実を宣べました。.mp3] <br> かれはしんじつをのべました。 <br> He proclaimed the truth.			
+[sound:k8-3478_景気.mp3]	景気 <br> けいき <br> condition, state, business (condition)
+condition, state, business (condition)	景気 <br> けいき <br> [sound:k8-3478_景気.mp3]
+景気	[sound:k8-3478_景気.mp3] <br> けいき <br> condition, state, business (condition)
+[sound:s8-3478_彼は背が高いです。.mp3]	<b>(背)</b> <br> 彼は背が高いです。<br> かれはせがたかいです。 <br> He is tall.			
+<b>(背)</b> <br> 彼は背が高いです。	[sound:s8-3478_彼は背が高いです。.mp3] <br> かれはせがたかいです。 <br> He is tall.			
+[sound:k8-3479_背景.mp3]	背景 <br> はいけい <br> background, scenery, setting, circumstance
+background, scenery, setting, circumstance	背景 <br> はいけい <br> [sound:k8-3479_背景.mp3]
+背景	[sound:k8-3479_背景.mp3] <br> はいけい <br> background, scenery, setting, circumstance
+[sound:s8-3479_彼は背が低いです。.mp3]	<b>(背)</b> <br> 彼は背が低いです。<br> かれはせがひくいです。 <br> He is short.			
+<b>(背)</b> <br> 彼は背が低いです。	[sound:s8-3479_彼は背が低いです。.mp3] <br> かれはせがひくいです。 <br> He is short.			
+[sound:k8-3480_風景.mp3]	風景 <br> ふうけい <br> scenery
+scenery	風景 <br> ふうけい <br> [sound:k8-3480_風景.mp3]
+風景	[sound:k8-3480_風景.mp3] <br> ふうけい <br> scenery
+[sound:s8-3480_彼女の絵の背景は美しいです。.mp3]	<b>(背景)</b> <br> 彼女の絵の背景は美しいです。<br> かのじょのえのはいけいはうつくしいです。 <br> The background of her painting is beautiful.			
+<b>(背景)</b> <br> 彼女の絵の背景は美しいです。	[sound:s8-3480_彼女の絵の背景は美しいです。.mp3] <br> かのじょのえのはいけいはうつくしいです。 <br> The background of her painting is beautiful.			
+[sound:k8-3481_光景.mp3]	光景 <br> こうけい <br> scene, spectacle
+scene, spectacle	光景 <br> こうけい <br> [sound:k8-3481_光景.mp3]
+光景	[sound:k8-3481_光景.mp3] <br> こうけい <br> scene, spectacle
+[sound:s8-3481_彼は私の背後に立っています。.mp3]	<b>(背後)</b> <br> 彼は私の背後に立っています。<br> かれはわたしのはいごにたっています。 <br> He is standing behind me.			
+<b>(背後)</b> <br> 彼は私の背後に立っています。	[sound:s8-3481_彼は私の背後に立っています。.mp3] <br> かれはわたしのはいごにたっています。 <br> He is standing behind me.			
+[sound:k8-3482_景観.mp3]	景観 <br> けいかん <br> scenery
+scenery	景観 <br> けいかん <br> [sound:k8-3482_景観.mp3]
+景観	[sound:k8-3482_景観.mp3] <br> けいかん <br> scenery
+[sound:s8-3482_彼は背中に大きなバックパックを背負っていた。.mp3]	<b>(背中)</b> <br> 彼は背中に大きなバックパックを背負っていた。<br> かれはせなかにおおきなばっくぱっくをせおっていた。 <br> He had a big backpack on his back.			
+<b>(背中)</b> <br> 彼は背中に大きなバックパックを背負っていた。	[sound:s8-3482_彼は背中に大きなバックパックを背負っていた。.mp3] <br> かれはせなかにおおきなばっくぱっくをせおっていた。 <br> He had a big backpack on his back.			
+[sound:k8-3483_景品.mp3]	景品 <br> けいひん <br> gift, premium
+gift, premium	景品 <br> けいひん <br> [sound:k8-3483_景品.mp3]
+景品	[sound:k8-3483_景品.mp3] <br> けいひん <br> gift, premium
+[sound:s8-3483_彼は公職で背任行為を行いました。.mp3]	<b>(背任)</b> <br> 彼は公職で背任行為を行いました。<br> かれはこうしょくではいにんこういをおこないました。 <br> He committed malfeasance in public office.			
+<b>(背任)</b> <br> 彼は公職で背任行為を行いました。	[sound:s8-3483_彼は公職で背任行為を行いました。.mp3] <br> かれはこうしょくではいにんこういをおこないました。 <br> He committed malfeasance in public office.			
+[sound:k8-3484_不景気.mp3]	不景気 <br> ふけいき <br> business recession, hard times, depression, gloom, sullenness, cheerlessness
+business recession, hard times, depression, gloom, sullenness, cheerlessness	不景気 <br> ふけいき <br> [sound:k8-3484_不景気.mp3]
+不景気	[sound:k8-3484_不景気.mp3] <br> ふけいき <br> business recession, hard times, depression, gloom, sullenness, cheerlessness
+[sound:s8-3484_彼は背広を着ていた。.mp3]	<b>(背広)</b> <br> 彼は背広を着ていた。<br> かれはせびろをきていた。 <br> He was wearing a suit.			
+<b>(背広)</b> <br> 彼は背広を着ていた。	[sound:s8-3484_彼は背広を着ていた。.mp3] <br> かれはせびろをきていた。 <br> He was wearing a suit.			
+[sound:k8-3485_景色.mp3]	景色 <br> けしき <br> scenery, scene, landscape
+scenery, scene, landscape	景色 <br> けしき <br> [sound:k8-3485_景色.mp3]
+景色	[sound:k8-3485_景色.mp3] <br> けしき <br> scenery, scene, landscape
+[sound:s8-3485_彼の背番号は10番です。.mp3]	<b>(背番号)</b> <br> 彼の背番号は10番です。<br> かれのせばんごうは10ばんです。 <br> His jersey number is 10.			
+<b>(背番号)</b> <br> 彼の背番号は10番です。	[sound:s8-3485_彼の背番号は10番です。.mp3] <br> かれのせばんごうは10ばんです。 <br> His jersey number is 10.			
+[sound:k8-3486_情景.mp3]	情景 <br> じょうけい <br> spectacle, sight, scene
+spectacle, sight, scene	情景 <br> じょうけい <br> [sound:k8-3486_情景.mp3]
+情景	[sound:k8-3486_情景.mp3] <br> じょうけい <br> spectacle, sight, scene
+[sound:s8-3486_彼は背筋を伸ばして立った。.mp3]	<b>(背筋)</b> <br> 彼は背筋を伸ばして立った。<br> かれはせすじをのばしてたった。 <br> He stood up straight with his back straightened.			
+<b>(背筋)</b> <br> 彼は背筋を伸ばして立った。	[sound:s8-3486_彼は背筋を伸ばして立った。.mp3] <br> かれはせすじをのばしてたった。 <br> He stood up straight with his back straightened.			
+[sound:k8-3487_好景気.mp3]	好景気 <br> こうけいき <br> good times, boom, (wave of) prosperity
+good times, boom, (wave of) prosperity	好景気 <br> こうけいき <br> [sound:k8-3487_好景気.mp3]
+好景気	[sound:k8-3487_好景気.mp3] <br> こうけいき <br> good times, boom, (wave of) prosperity
+[sound:s8-3487_彼はプールで背泳ぎをするのが得意です。.mp3]	<b>(背泳ぎ)</b> <br> 彼はプールで背泳ぎをするのが得意です。<br> かれはぷーるでせおよぎをするのがとくいです。 <br> He is good at backstroke in the pool.			
+<b>(背泳ぎ)</b> <br> 彼はプールで背泳ぎをするのが得意です。	[sound:s8-3487_彼はプールで背泳ぎをするのが得意です。.mp3] <br> かれはぷーるでせおよぎをするのがとくいです。 <br> He is good at backstroke in the pool.			
+[sound:k8-3488_落.mp3]	落 <br> (kun: お.ちる, お.ち, お.とす; on: ラク) <br> fall, drop, come down
+fall, drop, come down	落 <br> (kun: お.ちる, お.ち, お.とす; on: ラク) <br> [sound:k8-3488_落.mp3]
+落	[sound:k8-3488_落.mp3] <br> (kun: お.ちる, お.ち, お.とす; on: ラク) <br> fall, drop, come down
+[sound:s8-3488_背骨が痛いです。.mp3]	<b>(背骨)</b> <br> 背骨が痛いです。<br> せぼねがいたいです。 <br> My backbone hurts.			
+<b>(背骨)</b> <br> 背骨が痛いです。	[sound:s8-3488_背骨が痛いです。.mp3] <br> せぼねがいたいです。 <br> My backbone hurts.			
+[sound:k8-3489_下落.mp3]	下落 <br> げらく <br> depreciation, decline, fall, slump
+depreciation, decline, fall, slump	下落 <br> げらく <br> [sound:k8-3489_下落.mp3]
+下落	[sound:k8-3489_下落.mp3] <br> げらく <br> depreciation, decline, fall, slump
+[sound:s8-3489_昭和時代は日本の歴史の一部です。.mp3]	<b>(昭)</b> <br> 昭和時代は日本の歴史の一部です。<br> しょうわじだいはにほんのれきしのいちぶです。 <br> The Showa era is a part of Japan's history.			
+<b>(昭)</b> <br> 昭和時代は日本の歴史の一部です。	[sound:s8-3489_昭和時代は日本の歴史の一部です。.mp3] <br> しょうわじだいはにほんのれきしのいちぶです。 <br> The Showa era is a part of Japan's history.			
+[sound:k8-3490_落ちる.mp3]	落ちる <br> おちる <br> to fall down, to drop; to fail (e.g. exam); to crash, to degenerate, to degrade; to fade, to come out (e.g. a stain)
+to fall down, to drop; to fail (e.g. exam); to crash, to degenerate, to degrade; to fade, to come out (e.g. a stain)	落ちる <br> おちる <br> [sound:k8-3490_落ちる.mp3]
+落ちる	[sound:k8-3490_落ちる.mp3] <br> おちる <br> to fall down, to drop; to fail (e.g. exam); to crash, to degenerate, to degrade; to fade, to come out (e.g. a stain)
+[sound:s8-3490_昭和時代は平和な時代でした。.mp3]	<b>(昭和)</b> <br> 昭和時代は平和な時代でした。<br> しょうわじだいはへいわなじだいでした。 <br> The Showa era was a peaceful time.			
+<b>(昭和)</b> <br> 昭和時代は平和な時代でした。	[sound:s8-3490_昭和時代は平和な時代でした。.mp3] <br> しょうわじだいはへいわなじだいでした。 <br> The Showa era was a peaceful time.			
+[sound:k8-3491_落ち着いた.mp3]	落ち着いた <br> おちついた <br> quiet, calm, composed
+quiet, calm, composed	落ち着いた <br> おちついた <br> [sound:k8-3491_落ち着いた.mp3]
+落ち着いた	[sound:k8-3491_落ち着いた.mp3] <br> おちついた <br> quiet, calm, composed
+[sound:s8-3491_昭和時代は1926年から1989年まで続きました。.mp3]	<b>(昭和時代)</b> <br> 昭和時代は1926年から1989年まで続きました。<br> しょうわじだいは1926ねんから1989ねんまでつづきました。 <br> The Showa era lasted from 1926 to 1989.			
+<b>(昭和時代)</b> <br> 昭和時代は1926年から1989年まで続きました。	[sound:s8-3491_昭和時代は1926年から1989年まで続きました。.mp3] <br> しょうわじだいは1926ねんから1989ねんまでつづきました。 <br> The Showa era lasted from 1926 to 1989.			
+[sound:k8-3492_落ち.mp3]	落ち <br> おち <br> slip, omission; outcome, final result, the end; punch line (of a joke)
+slip, omission; outcome, final result, the end; punch line (of a joke)	落ち <br> おち <br> [sound:k8-3492_落ち.mp3]
+落ち	[sound:k8-3492_落ち.mp3] <br> おち <br> slip, omission; outcome, final result, the end; punch line (of a joke)
+[sound:s8-3492_私の祖父は昭和年間に生まれました。.mp3]	<b>(昭和年間)</b> <br> 私の祖父は昭和年間に生まれました。<br> わたしのそふはしょうわねんかんにうまれました。 <br> My grandfather was born during the Showa era.			
+<b>(昭和年間)</b> <br> 私の祖父は昭和年間に生まれました。	[sound:s8-3492_私の祖父は昭和年間に生まれました。.mp3] <br> わたしのそふはしょうわねんかんにうまれました。 <br> My grandfather was born during the Showa era.			
+[sound:k8-3493_墜落.mp3]	墜落 <br> ついらく <br> falling, crashing
+falling, crashing	墜落 <br> ついらく <br> [sound:k8-3493_墜落.mp3]
+墜落	[sound:k8-3493_墜落.mp3] <br> ついらく <br> falling, crashing
+[sound:s8-3493_彼の業績は昭栄されました。.mp3]	<b>(昭栄)</b> <br> 彼の業績は昭栄されました。<br> かれのぎょうせきはしょうえいされました。 <br> His achievements were glorified.			
+<b>(昭栄)</b> <br> 彼の業績は昭栄されました。	[sound:s8-3493_彼の業績は昭栄されました。.mp3] <br> かれのぎょうせきはしょうえいされました。 <br> His achievements were glorified.			
+[sound:k8-3494_落語.mp3]	落語 <br> らくご <br> rakugo story, (telling) a comic story
+rakugo story, (telling) a comic story	落語 <br> らくご <br> [sound:k8-3494_落語.mp3]
+落語	[sound:k8-3494_落語.mp3] <br> らくご <br> rakugo story, (telling) a comic story
+[sound:s8-3494_その部屋は昭昭とした明かりで照らされていた。.mp3]	<b>(昭昭)</b> <br> その部屋は昭昭とした明かりで照らされていた。<br> そのへやはしょうしょうとしたあかりでてらされていた。 <br> The room was illuminated by a bright light.			
+<b>(昭昭)</b> <br> その部屋は昭昭とした明かりで照らされていた。	[sound:s8-3494_その部屋は昭昭とした明かりで照らされていた。.mp3] <br> そのへやはしょうしょうとしたあかりでてらされていた。 <br> The room was illuminated by a bright light.			
+[sound:k8-3495_急落.mp3]	急落 <br> きゅうらく <br> sudden fall, sharp fall, sudden drop, sharp drop
+sudden fall, sharp fall, sudden drop, sharp drop	急落 <br> きゅうらく <br> [sound:k8-3495_急落.mp3]
+急落	[sound:k8-3495_急落.mp3] <br> きゅうらく <br> sudden fall, sharp fall, sudden drop, sharp drop
+[sound:s8-3495_その庭は昭々とした日差しで輝いていた。.mp3]	<b>(昭々)</b> <br> その庭は昭々とした日差しで輝いていた。<br> そのにわはしょうしょうとしたひざしでかがやいていた。 <br> The garden was shining in the bright sunlight.			
+<b>(昭々)</b> <br> その庭は昭々とした日差しで輝いていた。	[sound:s8-3495_その庭は昭々とした日差しで輝いていた。.mp3] <br> そのにわはしょうしょうとしたひざしでかがやいていた。 <br> The garden was shining in the bright sunlight.			
+[sound:k8-3496_集落.mp3]	集落 <br> しゅうらく, じゅらく <br> village, community, settlement, town, colony (animals, etc.)
+village, community, settlement, town, colony (animals, etc.)	集落 <br> しゅうらく, じゅらく <br> [sound:k8-3496_集落.mp3]
+集落	[sound:k8-3496_集落.mp3] <br> しゅうらく, じゅらく <br> village, community, settlement, town, colony (animals, etc.)
+[sound:s8-3496_彼の優れた才能は昭然としていた。.mp3]	<b>(昭然)</b> <br> 彼の優れた才能は昭然としていた。<br> かれのすぐれたさいのうはしょうぜんとしていた。 <br> His exceptional talent was obvious.			
+<b>(昭然)</b> <br> 彼の優れた才能は昭然としていた。	[sound:s8-3496_彼の優れた才能は昭然としていた。.mp3] <br> かれのすぐれたさいのうはしょうぜんとしていた。 <br> His exceptional talent was obvious.			
+[sound:k8-3497_暴落.mp3]	暴落 <br> ぼうらく <br> slump, crash, heavy fall, decline
+slump, crash, heavy fall, decline	暴落 <br> ぼうらく <br> [sound:k8-3497_暴落.mp3]
+暴落	[sound:k8-3497_暴落.mp3] <br> ぼうらく <br> slump, crash, heavy fall, decline
+[sound:s8-3497_彼は昭代の文学に造詣が深い。.mp3]	<b>(昭代)</b> <br> 彼は昭代の文学に造詣が深い。<br> かれはしょうだいのぶんがくにぞうけいがふかい。 <br> He is well-versed in literature from the Showa era.			
+<b>(昭代)</b> <br> 彼は昭代の文学に造詣が深い。	[sound:s8-3497_彼は昭代の文学に造詣が深い。.mp3] <br> かれはしょうだいのぶんがくにぞうけいがふかい。 <br> He is well-versed in literature from the Showa era.			
+[sound:k8-3498_落ち込む.mp3]	落ち込む <br> おちこむ <br> to feel down (sad); to be in a slump (e.g. business, economy), to be in an unfavourable condition; to fall into (e.g. a hole)
+to feel down (sad); to be in a slump (e.g. business, economy), to be in an unfavourable condition; to fall into (e.g. a hole)	落ち込む <br> おちこむ <br> [sound:k8-3498_落ち込む.mp3]
+落ち込む	[sound:k8-3498_落ち込む.mp3] <br> おちこむ <br> to feel down (sad); to be in a slump (e.g. business, economy), to be in an unfavourable condition; to fall into (e.g. a hole)
+[sound:s8-3498_私の祖母は昭和一桁生まれです。.mp3]	<b>(昭和一桁)</b> <br> 私の祖母は昭和一桁生まれです。<br> わたしのそぼはしょうわいちけたうまれです。 <br> My grandmother was born in the single-digit years of the Showa era.			
+<b>(昭和一桁)</b> <br> 私の祖母は昭和一桁生まれです。	[sound:s8-3498_私の祖母は昭和一桁生まれです。.mp3] <br> わたしのそぼはしょうわいちけたうまれです。 <br> My grandmother was born in the single-digit years of the Showa era.			
+[sound:k8-3499_欧.mp3]	欧 <br> (kun: うた.う, は.く; on: オウ) <br> Europe
+Europe	欧 <br> (kun: うた.う, は.く; on: オウ) <br> [sound:k8-3499_欧.mp3]
+欧	[sound:k8-3499_欧.mp3] <br> (kun: うた.う, は.く; on: オウ) <br> Europe
+[sound:s8-3499_その絵は昭和元禄の雰囲気を再現しています。.mp3]	<b>(昭和元禄)</b> <br> その絵は昭和元禄の雰囲気を再現しています。<br> そのえはしょうわげんろくのふんいきをさいげんしています。 <br> The painting recreates the atmosphere of the early Showa era.			
+<b>(昭和元禄)</b> <br> その絵は昭和元禄の雰囲気を再現しています。	[sound:s8-3499_その絵は昭和元禄の雰囲気を再現しています。.mp3] <br> そのえはしょうわげんろくのふんいきをさいげんしています。 <br> The painting recreates the atmosphere of the early Showa era.			
+[sound:k8-3500_欧州.mp3]	欧州 <br> おうしゅう <br> Europe
+Europe	欧州 <br> おうしゅう <br> [sound:k8-3500_欧州.mp3]
+欧州	[sound:k8-3500_欧州.mp3] <br> おうしゅう <br> Europe
+[sound:s8-3500_古い家具を廃棄しました。.mp3]	<b>(廃)</b> <br> 古い家具を廃棄しました。<br> ふるいかぐをはいきしました。 <br> We disposed of old furniture.			
+<b>(廃)</b> <br> 古い家具を廃棄しました。	[sound:s8-3500_古い家具を廃棄しました。.mp3] <br> ふるいかぐをはいきしました。 <br> We disposed of old furniture.			
+[sound:k8-3501_東欧.mp3]	東欧 <br> とうおう <br> Eastern Europe
+Eastern Europe	東欧 <br> とうおう <br> [sound:k8-3501_東欧.mp3]
+東欧	[sound:k8-3501_東欧.mp3] <br> とうおう <br> Eastern Europe
+[sound:s8-3501_この廃棄物は適切に処理されなければなりません。.mp3]	<b>(廃棄)</b> <br> この廃棄物は適切に処理されなければなりません。<br> このはいきぶつはてきせつにしょりされなければなりません。 <br> This waste must be disposed of properly.			
+<b>(廃棄)</b> <br> この廃棄物は適切に処理されなければなりません。	[sound:s8-3501_この廃棄物は適切に処理されなければなりません。.mp3] <br> このはいきぶつはてきせつにしょりされなければなりません。 <br> This waste must be disposed of properly.			
+[sound:k8-3502_西欧.mp3]	西欧 <br> せいおう <br> Western Europe
+Western Europe	西欧 <br> せいおう <br> [sound:k8-3502_西欧.mp3]
+西欧	[sound:k8-3502_西欧.mp3] <br> せいおう <br> Western Europe
+[sound:s8-3502_その法律は廃止されました。.mp3]	<b>(廃止)</b> <br> その法律は廃止されました。<br> そのほうりつははいしされました。 <br> The law was abolished.			
+<b>(廃止)</b> <br> その法律は廃止されました。	[sound:s8-3502_その法律は廃止されました。.mp3] <br> そのほうりつははいしされました。 <br> The law was abolished.			
+[sound:k8-3503_北欧.mp3]	北欧 <br> ほくおう <br> Northern Europe, land of the Norsemen, Scandinavia
+Northern Europe, land of the Norsemen, Scandinavia	北欧 <br> ほくおう <br> [sound:k8-3503_北欧.mp3]
+北欧	[sound:k8-3503_北欧.mp3] <br> ほくおう <br> Northern Europe, land of the Norsemen, Scandinavia
+[sound:s8-3503_その提案は廃案になりました。.mp3]	<b>(廃案)</b> <br> その提案は廃案になりました。<br> そのていあんははいあんになりました。 <br> The proposal was rejected.			
+<b>(廃案)</b> <br> その提案は廃案になりました。	[sound:s8-3503_その提案は廃案になりました。.mp3] <br> そのていあんははいあんになりました。 <br> The proposal was rejected.			
+[sound:k8-3504_中欧.mp3]	中欧 <br> ちゅうおう <br> Central Europe
+Central Europe	中欧 <br> ちゅうおう <br> [sound:k8-3504_中欧.mp3]
+中欧	[sound:k8-3504_中欧.mp3] <br> ちゅうおう <br> Central Europe
+[sound:s8-3504_その政策は後に撤廃されました。.mp3]	<b>(撤廃)</b> <br> その政策は後に撤廃されました。<br> そのせいさくはごにてっぱいされました。 <br> The policy was later repealed.			
+<b>(撤廃)</b> <br> その政策は後に撤廃されました。	[sound:s8-3504_その政策は後に撤廃されました。.mp3] <br> そのせいさくはごにてっぱいされました。 <br> The policy was later repealed.			
+[sound:k8-3505_訪欧.mp3]	訪欧 <br> ほうおう <br> visit to Europe
+visit to Europe	訪欧 <br> ほうおう <br> [sound:k8-3505_訪欧.mp3]
+訪欧	[sound:k8-3505_訪欧.mp3] <br> ほうおう <br> visit to Europe
+[sound:s8-3505_そのシステムは全廃されました。.mp3]	<b>(全廃)</b> <br> そのシステムは全廃されました。<br> そのしすてむはぜんはいされました。 <br> The system was completely abolished.			
+<b>(全廃)</b> <br> そのシステムは全廃されました。	[sound:s8-3505_そのシステムは全廃されました。.mp3] <br> そのしすてむはぜんはいされました。 <br> The system was completely abolished.			
+[sound:k8-3506_南欧.mp3]	南欧 <br> なんおう <br> Southern Europe
+Southern Europe	南欧 <br> なんおう <br> [sound:k8-3506_南欧.mp3]
+南欧	[sound:k8-3506_南欧.mp3] <br> なんおう <br> Southern Europe
+[sound:s8-3506_彼はその悪習慣を廃絶しようとしています。.mp3]	<b>(廃絶)</b> <br> 彼はその悪習慣を廃絶しようとしています。<br> かれはそのあくしゅうかんをはいぜつしようとしています。 <br> He is trying to abolish that bad habit.			
+<b>(廃絶)</b> <br> 彼はその悪習慣を廃絶しようとしています。	[sound:s8-3506_彼はその悪習慣を廃絶しようとしています。.mp3] <br> かれはそのあくしゅうかんをはいぜつしようとしています。 <br> He is trying to abolish that bad habit.			
+[sound:k8-3507_欧文.mp3]	欧文 <br> おうぶん <br> European language, foreign text
+European language, foreign text	欧文 <br> おうぶん <br> [sound:k8-3507_欧文.mp3]
+欧文	[sound:k8-3507_欧文.mp3] <br> おうぶん <br> European language, foreign text
+[sound:s8-3507_その地域は戦争によって荒廃しました。.mp3]	<b>(荒廃)</b> <br> その地域は戦争によって荒廃しました。<br> そのちいきはせんそうによってこうはいしました。 <br> The region was devastated by war.			
+<b>(荒廃)</b> <br> その地域は戦争によって荒廃しました。	[sound:s8-3507_その地域は戦争によって荒廃しました。.mp3] <br> そのちいきはせんそうによってこうはいしました。 <br> The region was devastated by war.			
+[sound:k8-3508_渡欧.mp3]	渡欧 <br> とおう <br> going to Europe
+going to Europe	渡欧 <br> とおう <br> [sound:k8-3508_渡欧.mp3]
+渡欧	[sound:k8-3508_渡欧.mp3] <br> とおう <br> going to Europe
+[sound:s8-3508_その廃虚な建物は見捨てられていた。.mp3]	<b>(廃虚)</b> <br> その廃虚な建物は見捨てられていた。<br> そのはいきょなたてものはみすてられていた。 <br> The abandoned building was left to decay.			
+<b>(廃虚)</b> <br> その廃虚な建物は見捨てられていた。	[sound:s8-3508_その廃虚な建物は見捨てられていた。.mp3] <br> そのはいきょなたてものはみすてられていた。 <br> The abandoned building was left to decay.			
+[sound:k8-3509_欧風.mp3]	欧風 <br> おうふう <br> European style, Occidental
+European style, Occidental	欧風 <br> おうふう <br> [sound:k8-3509_欧風.mp3]
+欧風	[sound:k8-3509_欧風.mp3] <br> おうふう <br> European style, Occidental
+[sound:s8-3509_彼は経済的な理由から店を廃業しました。.mp3]	<b>(廃業)</b> <br> 彼は経済的な理由から店を廃業しました。<br> かれはけいざいてきなりゆうからみせをはいぎょうしました。 <br> He closed the shop due to financial reasons.			
+<b>(廃業)</b> <br> 彼は経済的な理由から店を廃業しました。	[sound:s8-3509_彼は経済的な理由から店を廃業しました。.mp3] <br> かれはけいざいてきなりゆうからみせをはいぎょうしました。 <br> He closed the shop due to financial reasons.			
+[sound:k8-3510_担.mp3]	担 <br> (kun: かつ.ぐ, にな.う; on: タン) <br> shouldering, carry, raise, bear
+shouldering, carry, raise, bear	担 <br> (kun: かつ.ぐ, にな.う; on: タン) <br> [sound:k8-3510_担.mp3]
+担	[sound:k8-3510_担.mp3] <br> (kun: かつ.ぐ, にな.う; on: タン) <br> shouldering, carry, raise, bear
+[sound:s8-3510_その政策の存廃をめぐって激しい議論が行われた。.mp3]	<b>(存廃)</b> <br> その政策の存廃をめぐって激しい議論が行われた。<br> そのせいさくのそんはいをめぐってはげしいぎろんがおこなわれた。 <br> There was intense debate over the merits and demerits of that policy.			
+<b>(存廃)</b> <br> その政策の存廃をめぐって激しい議論が行われた。	[sound:s8-3510_その政策の存廃をめぐって激しい議論が行われた。.mp3] <br> そのせいさくのそんはいをめぐってはげしいぎろんがおこなわれた。 <br> There was intense debate over the merits and demerits of that policy.			
+[sound:k8-3511_担当.mp3]	担当 <br> たんとう <br> (in) charge
+(in) charge	担当 <br> たんとう <br> [sound:k8-3511_担当.mp3]
+担当	[sound:k8-3511_担当.mp3] <br> たんとう <br> (in) charge
+[sound:s8-3511_彼は庭に木を植えました。.mp3]	<b>(植)</b> <br> 彼は庭に木を植えました。<br> かれはにわにきをうえました。 <br> He planted trees in the garden.			
+<b>(植)</b> <br> 彼は庭に木を植えました。	[sound:s8-3511_彼は庭に木を植えました。.mp3] <br> かれはにわにきをうえました。 <br> He planted trees in the garden.			
+[sound:k8-3512_負担.mp3]	負担 <br> ふたん <br> burden, charge, responsibility
+burden, charge, responsibility	負担 <br> ふたん <br> [sound:k8-3512_負担.mp3]
+負担	[sound:k8-3512_負担.mp3] <br> ふたん <br> burden, charge, responsibility
+[sound:s8-3512_その植物を別の場所に移植しました。.mp3]	<b>(移植)</b> <br> その植物を別の場所に移植しました。<br> そのしょくぶつをべつのばしょにいしょくしました。 <br> The plant was transplanted to another location.			
+<b>(移植)</b> <br> その植物を別の場所に移植しました。	[sound:s8-3512_その植物を別の場所に移植しました。.mp3] <br> そのしょくぶつをべつのばしょにいしょくしました。 <br> The plant was transplanted to another location.			
+[sound:k8-3513_担当者.mp3]	担当者 <br> たんとうしゃ <br> person in charge, person responsible, one in charge, responsible party, contact (person)
+person in charge, person responsible, one in charge, responsible party, contact (person)	担当者 <br> たんとうしゃ <br> [sound:k8-3513_担当者.mp3]
+担当者	[sound:k8-3513_担当者.mp3] <br> たんとうしゃ <br> person in charge, person responsible, one in charge, responsible party, contact (person)
+[sound:s8-3513_彼女は植物学者です。.mp3]	<b>(植物)</b> <br> 彼女は植物学者です。<br> かのじょはしょくぶつがくしゃです。 <br> She is a botanist.			
+<b>(植物)</b> <br> 彼女は植物学者です。	[sound:s8-3513_彼女は植物学者です。.mp3] <br> かのじょはしょくぶつがくしゃです。 <br> She is a botanist.			
+[sound:k8-3514_担保.mp3]	担保 <br> たんぽ <br> security, collateral (e.g. mortgage)
+security, collateral (e.g. mortgage)	担保 <br> たんぽ <br> [sound:k8-3514_担保.mp3]
+担保	[sound:k8-3514_担保.mp3] <br> たんぽ <br> security, collateral (e.g. mortgage)
+[sound:s8-3514_その国はかつて植民地でした。.mp3]	<b>(植民地)</b> <br> その国はかつて植民地でした。<br> そのくにはかつてしょくみんちでした。 <br> The country was once a colony.			
+<b>(植民地)</b> <br> その国はかつて植民地でした。	[sound:s8-3514_その国はかつて植民地でした。.mp3] <br> そのくにはかつてしょくみんちでした。 <br> The country was once a colony.			
+[sound:k8-3515_分担.mp3]	分担 <br> ぶんたん <br> apportionment, allotment, share
+apportionment, allotment, share	分担 <br> ぶんたん <br> [sound:k8-3515_分担.mp3]
+分担	[sound:k8-3515_分担.mp3] <br> ぶんたん <br> apportionment, allotment, share
+[sound:s8-3515_彼らは新しい土地に入植しました。.mp3]	<b>(入植)</b> <br> 彼らは新しい土地に入植しました。<br> かれらはあたらしいとちににゅうしょくしました。 <br> They settled in new land.			
+<b>(入植)</b> <br> 彼らは新しい土地に入植しました。	[sound:s8-3515_彼らは新しい土地に入植しました。.mp3] <br> かれらはあたらしいとちににゅうしょくしました。 <br> They settled in new land.			
+[sound:k8-3516_担任.mp3]	担任 <br> たんにん <br> in charge (of something); homeroom teacher
+in charge (of something); homeroom teacher	担任 <br> たんにん <br> [sound:k8-3516_担任.mp3]
+担任	[sound:k8-3516_担任.mp3] <br> たんにん <br> in charge (of something); homeroom teacher
+[sound:s8-3516_動植物が調和しています。.mp3]	<b>(動植物)</b> <br> 動植物が調和しています。<br> どうしょくぶつがちょうわしています。 <br> Animals and plants are in harmony.			
+<b>(動植物)</b> <br> 動植物が調和しています。	[sound:s8-3516_動植物が調和しています。.mp3] <br> どうしょくぶつがちょうわしています。 <br> Animals and plants are in harmony.			
+[sound:k8-3517_担い手.mp3]	担い手 <br> にないて <br> a bearer, carrier, person in charge
+a bearer, carrier, person in charge	担い手 <br> にないて <br> [sound:k8-3517_担い手.mp3]
+担い手	[sound:k8-3517_担い手.mp3] <br> にないて <br> a bearer, carrier, person in charge
+[sound:s8-3517_その地域に植林が行われました。.mp3]	<b>(植林)</b> <br> その地域に植林が行われました。<br> そのちいきにしょくりんがおこなわれました。 <br> Reforestation was carried out in the area.			
+<b>(植林)</b> <br> その地域に植林が行われました。	[sound:s8-3517_その地域に植林が行われました。.mp3] <br> そのちいきにしょくりんがおこなわれました。 <br> Reforestation was carried out in the area.			
+[sound:k8-3518_加担.mp3]	加担 <br> かたん <br> support, participation, assistance, complicity, conspiracy
+support, participation, assistance, complicity, conspiracy	加担 <br> かたん <br> [sound:k8-3518_加担.mp3]
+加担	[sound:k8-3518_加担.mp3] <br> かたん <br> support, participation, assistance, complicity, conspiracy
+[sound:s8-3518_私たちは公園に木を植樹しました。.mp3]	<b>(植樹)</b> <br> 私たちは公園に木を植樹しました。<br> わたしたちはこうえんにきをしょくじゅしました。 <br> We planted trees in the park.			
+<b>(植樹)</b> <br> 私たちは公園に木を植樹しました。	[sound:s8-3518_私たちは公園に木を植樹しました。.mp3] <br> わたしたちはこうえんにきをしょくじゅしました。 <br> We planted trees in the park.			
+[sound:k8-3519_担ぎ.mp3]	担ぎ <br> かつぎ <br> carrier
+carrier	担ぎ <br> かつぎ <br> [sound:k8-3519_担ぎ.mp3]
+担ぎ	[sound:k8-3519_担ぎ.mp3] <br> かつぎ <br> carrier
+[sound:s8-3519_彼は植物園で働いています。.mp3]	<b>(植物園)</b> <br> 彼は植物園で働いています。<br> かれはしょくぶつえんではたらいています。 <br> He works at the botanical garden.			
+<b>(植物園)</b> <br> 彼は植物園で働いています。	[sound:s8-3519_彼は植物園で働いています。.mp3] <br> かれはしょくぶつえんではたらいています。 <br> He works at the botanical garden.			
+[sound:k8-3520_担ぐ.mp3]	担ぐ <br> かつぐ <br> to shoulder, to carry on one's shoulder; to take (someone) for a ride, to deceive, to take in
+to shoulder, to carry on one's shoulder; to take (someone) for a ride, to deceive, to take in	担ぐ <br> かつぐ <br> [sound:k8-3520_担ぐ.mp3]
+担ぐ	[sound:k8-3520_担ぐ.mp3] <br> かつぐ <br> to shoulder, to carry on one's shoulder; to take (someone) for a ride, to deceive, to take in
+[sound:s8-3520_その村では今日田植えが行われます。.mp3]	<b>(田植え)</b> <br> その村では今日田植えが行われます。<br> そのむらではきょうたうえがおこなわれます。 <br> Rice planting is taking place in the village today.			
+<b>(田植え)</b> <br> その村では今日田植えが行われます。	[sound:s8-3520_その村では今日田植えが行われます。.mp3] <br> そのむらではきょうたうえがおこなわれます。 <br> Rice planting is taking place in the village today.			
+[sound:k8-3521_好.mp3]	好 <br> (kun: この.む, す.く, よ.い, い.い; on: コウ) <br> fond, pleasing, like something
+fond, pleasing, like something	好 <br> (kun: この.む, す.く, よ.い, い.い; on: コウ) <br> [sound:k8-3521_好.mp3]
+好	[sound:k8-3521_好.mp3] <br> (kun: この.む, す.く, よ.い, い.い; on: コウ) <br> fond, pleasing, like something
+[sound:s8-3521_彼女は庭に植木を並べました。.mp3]	<b>(植木)</b> <br> 彼女は庭に植木を並べました。<br> かのじょはにわにうえきをならべました。 <br> She lined up the potted plants in the garden.			
+<b>(植木)</b> <br> 彼女は庭に植木を並べました。	[sound:s8-3521_彼女は庭に植木を並べました。.mp3] <br> かのじょはにわにうえきをならべました。 <br> She lined up the potted plants in the garden.			
+[sound:k8-3522_好み.mp3]	好み <br> このみ <br> liking, taste, choice
+liking, taste, choice	好み <br> このみ <br> [sound:k8-3522_好み.mp3]
+好み	[sound:k8-3522_好み.mp3] <br> このみ <br> liking, taste, choice
+[sound:s8-3522_彼は熱があります。.mp3]	<b>(熱)</b> <br> 彼は熱があります。<br> かれはねつがあります。 <br> He has a fever.			
+<b>(熱)</b> <br> 彼は熱があります。	[sound:s8-3522_彼は熱があります。.mp3] <br> かれはねつがあります。 <br> He has a fever.			
+[sound:k8-3523_好調.mp3]	好調 <br> こうちょう <br> favourable, favorable, promising, satisfactory, in good shape
+favourable, favorable, promising, satisfactory, in good shape	好調 <br> こうちょう <br> [sound:k8-3523_好調.mp3]
+好調	[sound:k8-3523_好調.mp3] <br> こうちょう <br> favourable, favorable, promising, satisfactory, in good shape
+[sound:s8-3523_彼は熱を持っています。.mp3]	<b>(熱)</b> <br> 彼は熱を持っています。<br> かれはねつをもっています。 <br> He has heat.			
+<b>(熱)</b> <br> 彼は熱を持っています。	[sound:s8-3523_彼は熱を持っています。.mp3] <br> かれはねつをもっています。 <br> He has heat.			
+[sound:k8-3524_友好.mp3]	友好 <br> ゆうこう <br> friendship
+friendship	友好 <br> ゆうこう <br> [sound:k8-3524_友好.mp3]
+友好	[sound:k8-3524_友好.mp3] <br> ゆうこう <br> friendship
+[sound:s8-3524_彼女は熱心な読書家です。.mp3]	<b>(熱心)</b> <br> 彼女は熱心な読書家です。<br> かのじょはねっしんなどくしょかです。 <br> She is an avid reader.			
+<b>(熱心)</b> <br> 彼女は熱心な読書家です。	[sound:s8-3524_彼女は熱心な読書家です。.mp3] <br> かのじょはねっしんなどくしょかです。 <br> She is an avid reader.			
+[sound:k8-3525_格好.mp3]	格好 <br> かっこう, カッコ <br> shape, form, posture, appearance, manner; suitability, moderateness (in price)
+shape, form, posture, appearance, manner; suitability, moderateness (in price)	格好 <br> かっこう, カッコ <br> [sound:k8-3525_格好.mp3]
+格好	[sound:k8-3525_格好.mp3] <br> かっこう, カッコ <br> shape, form, posture, appearance, manner; suitability, moderateness (in price)
+[sound:s8-3525_熱帯地域は年中暑いです。.mp3]	<b>(熱帯)</b> <br> 熱帯地域は年中暑いです。<br> ねったいちいきはねんじゅうあついです。 <br> Tropical regions are hot all year round.			
+<b>(熱帯)</b> <br> 熱帯地域は年中暑いです。	[sound:s8-3525_熱帯地域は年中暑いです。.mp3] <br> ねったいちいきはねんじゅうあついです。 <br> Tropical regions are hot all year round.			
+[sound:k8-3526_好ましい.mp3]	好ましい <br> このましい <br> nice, likeable, desirable
+nice, likeable, desirable	好ましい <br> このましい <br> [sound:k8-3526_好ましい.mp3]
+好ましい	[sound:k8-3526_好ましい.mp3] <br> このましい <br> nice, likeable, desirable
+[sound:s8-3526_彼は仕事に対する情熱がある。.mp3]	<b>(情熱)</b> <br> 彼は仕事に対する情熱がある。<br> かれはしごとにたいするじょうねつがある。 <br> He has passion for his work.			
+<b>(情熱)</b> <br> 彼は仕事に対する情熱がある。	[sound:s8-3526_彼は仕事に対する情熱がある。.mp3] <br> かれはしごとにたいするじょうねつがある。 <br> He has passion for his work.			
+[sound:k8-3527_好機.mp3]	好機 <br> こうき <br> good opportunity, chance
+good opportunity, chance	好機 <br> こうき <br> [sound:k8-3527_好機.mp3]
+好機	[sound:k8-3527_好機.mp3] <br> こうき <br> good opportunity, chance
+[sound:s8-3527_お風呂のお湯が熱いです。.mp3]	<b>(熱い)</b> <br> お風呂のお湯が熱いです。<br> おふろのおゆがあついです。 <br> The bathwater is hot.			
+<b>(熱い)</b> <br> お風呂のお湯が熱いです。	[sound:s8-3527_お風呂のお湯が熱いです。.mp3] <br> おふろのおゆがあついです。 <br> The bathwater is hot.			
+[sound:k8-3528_好投.mp3]	好投 <br> こうとう <br> good (nice) pitching
+good (nice) pitching	好投 <br> こうとう <br> [sound:k8-3528_好投.mp3]
+好投	[sound:k8-3528_好投.mp3] <br> こうとう <br> good (nice) pitching
+[sound:s8-3528_彼はプロジェクトに熱意を持って取り組んでいる。.mp3]	<b>(熱意)</b> <br> 彼はプロジェクトに熱意を持って取り組んでいる。<br> かれはぷろじぇくとにねついをもってとりくんでいる。 <br> He is working on the project with enthusiasm.			
+<b>(熱意)</b> <br> 彼はプロジェクトに熱意を持って取り組んでいる。	[sound:s8-3528_彼はプロジェクトに熱意を持って取り組んでいる。.mp3] <br> かれはぷろじぇくとにねついをもってとりくんでいる。 <br> He is working on the project with enthusiasm.			
+[sound:k8-3529_絶好.mp3]	絶好 <br> ぜっこう <br> best, ideal, perfect
+best, ideal, perfect	絶好 <br> ぜっこう <br> [sound:k8-3529_絶好.mp3]
+絶好	[sound:k8-3529_絶好.mp3] <br> ぜっこう <br> best, ideal, perfect
+[sound:s8-3529_スタジアムには熱気が充満していた。.mp3]	<b>(熱気)</b> <br> スタジアムには熱気が充満していた。<br> すたじあむにはねっきがじゅうまんしていた。 <br> The stadium was filled with excitement.			
+<b>(熱気)</b> <br> スタジアムには熱気が充満していた。	[sound:s8-3529_スタジアムには熱気が充満していた。.mp3] <br> すたじあむにはねっきがじゅうまんしていた。 <br> The stadium was filled with excitement.			
+[sound:k8-3530_大好き.mp3]	大好き <br> だいすき <br> loveable, very likeable, like very much
+loveable, very likeable, like very much	大好き <br> だいすき <br> [sound:k8-3530_大好き.mp3]
+大好き	[sound:k8-3530_大好き.mp3] <br> だいすき <br> loveable, very likeable, like very much
+[sound:s8-3530_試合は熱戦の末に決着した。.mp3]	<b>(熱戦)</b> <br> 試合は熱戦の末に決着した。<br> しあいはねっせんのすえにけっちゃくした。 <br> The match ended in a heated battle.			
+<b>(熱戦)</b> <br> 試合は熱戦の末に決着した。	[sound:s8-3530_試合は熱戦の末に決着した。.mp3] <br> しあいはねっせんのすえにけっちゃくした。 <br> The match ended in a heated battle.			
+[sound:k8-3531_愛好.mp3]	愛好 <br> あいこう <br> love, adoration
+love, adoration	愛好 <br> あいこう <br> [sound:k8-3531_愛好.mp3]
+愛好	[sound:k8-3531_愛好.mp3] <br> あいこう <br> love, adoration
+[sound:s8-3531_議論が過熱しています。.mp3]	<b>(過熱)</b> <br> 議論が過熱しています。<br> ぎろんがかねつしています。 <br> The debate is heating up.			
+<b>(過熱)</b> <br> 議論が過熱しています。	[sound:s8-3531_議論が過熱しています。.mp3] <br> ぎろんがかねつしています。 <br> The debate is heating up.			
+[sound:k8-3532_退.mp3]	退 <br> (kun: しりぞ.く, しりぞ.ける, ひ.く, の.く, の.ける, ど.く; on: タイ) <br> retreat, withdraw, retire, resign, repel, expel, reject
+retreat, withdraw, retire, resign, repel, expel, reject	退 <br> (kun: しりぞ.く, しりぞ.ける, ひ.く, の.く, の.ける, ど.く; on: タイ) <br> [sound:k8-3532_退.mp3]
+退	[sound:k8-3532_退.mp3] <br> (kun: しりぞ.く, しりぞ.ける, ひ.く, の.く, の.ける, ど.く; on: タイ) <br> retreat, withdraw, retire, resign, repel, expel, reject
+[sound:s8-3532_ファンたちは熱狂的に彼を迎えた。.mp3]	<b>(熱狂)</b> <br> ファンたちは熱狂的に彼を迎えた。<br> ファンたちはねっきょうてきにかれをむかえた。 <br> The fans welcomed him enthusiastically.			
+<b>(熱狂)</b> <br> ファンたちは熱狂的に彼を迎えた。	[sound:s8-3532_ファンたちは熱狂的に彼を迎えた。.mp3] <br> ファンたちはねっきょうてきにかれをむかえた。 <br> The fans welcomed him enthusiastically.			
+[sound:k8-3533_撤退.mp3]	撤退 <br> てったい <br> evacuation, withdrawal, revocation, repeal, retreat
+evacuation, withdrawal, revocation, repeal, retreat	撤退 <br> てったい <br> [sound:k8-3533_撤退.mp3]
+撤退	[sound:k8-3533_撤退.mp3] <br> てったい <br> evacuation, withdrawal, revocation, repeal, retreat
+[sound:s8-3533_私たちはその宿で一晩過ごしました。.mp3]	<b>(宿)</b> <br> 私たちはその宿で一晩過ごしました。<br> わたしたちはそのやどでひとばんすごしました。 <br> We stayed overnight at that inn.			
+<b>(宿)</b> <br> 私たちはその宿で一晩過ごしました。	[sound:s8-3533_私たちはその宿で一晩過ごしました。.mp3] <br> わたしたちはそのやどでひとばんすごしました。 <br> We stayed overnight at that inn.			
+[sound:k8-3534_退職.mp3]	退職 <br> たいしょく <br> retirement (from office)
+retirement (from office)	退職 <br> たいしょく <br> [sound:k8-3534_退職.mp3]
+退職	[sound:k8-3534_退職.mp3] <br> たいしょく <br> retirement (from office)
+[sound:s8-3534_宿に泊まる前に予約をしてください。.mp3]	<b>(宿)</b> <br> 宿に泊まる前に予約をしてください。<br> やどにとまるまえによやくをしてください。 <br> Please make a reservation before staying at the inn.			
+<b>(宿)</b> <br> 宿に泊まる前に予約をしてください。	[sound:s8-3534_宿に泊まる前に予約をしてください。.mp3] <br> やどにとまるまえによやくをしてください。 <br> Please make a reservation before staying at the inn.			
+[sound:k8-3535_引退.mp3]	引退 <br> いんたい <br> retire
+retire	引退 <br> いんたい <br> [sound:k8-3535_引退.mp3]
+引退	[sound:k8-3535_引退.mp3] <br> いんたい <br> retire
+[sound:s8-3535_彼らはホテルで宿泊しました。.mp3]	<b>(宿泊)</b> <br> 彼らはホテルで宿泊しました。<br> かれらはほてるでしゅくはくしました。 <br> They stayed at the hotel.			
+<b>(宿泊)</b> <br> 彼らはホテルで宿泊しました。	[sound:s8-3535_彼らはホテルで宿泊しました。.mp3] <br> かれらはほてるでしゅくはくしました。 <br> They stayed at the hotel.			
+[sound:k8-3536_後退.mp3]	後退 <br> こうたい <br> retreat; backspace, BS
+retreat; backspace, BS	後退 <br> こうたい <br> [sound:k8-3536_後退.mp3]
+後退	[sound:k8-3536_後退.mp3] <br> こうたい <br> retreat; backspace, BS
+[sound:s8-3536_彼らは週末に合宿に行きます。.mp3]	<b>(合宿)</b> <br> 彼らは週末に合宿に行きます。<br> かれらはしゅうまつにがっしゅくにいきます。 <br> They go on a training camp on weekends.			
+<b>(合宿)</b> <br> 彼らは週末に合宿に行きます。	[sound:s8-3536_彼らは週末に合宿に行きます。.mp3] <br> かれらはしゅうまつにがっしゅくにいきます。 <br> They go on a training camp on weekends.			
+[sound:k8-3537_退陣.mp3]	退陣 <br> たいじん <br> retreat, withdrawal, retirement
+retreat, withdrawal, retirement	退陣 <br> たいじん <br> [sound:k8-3537_退陣.mp3]
+退陣	[sound:k8-3537_退陣.mp3] <br> たいじん <br> retreat, withdrawal, retirement
+[sound:s8-3537_彼は学校の宿舎に住んでいます。.mp3]	<b>(宿舎)</b> <br> 彼は学校の宿舎に住んでいます。<br> かれはがっこうのしゅくしゃにすんでいます。 <br> He lives in the school dormitory.			
+<b>(宿舎)</b> <br> 彼は学校の宿舎に住んでいます。	[sound:s8-3537_彼は学校の宿舎に住んでいます。.mp3] <br> かれはがっこうのしゅくしゃにすんでいます。 <br> He lives in the school dormitory.			
+[sound:k8-3538_脱退.mp3]	脱退 <br> だったい <br> secession, retirement, withdrawal (e.g. from a lawsuit)
+secession, retirement, withdrawal (e.g. from a lawsuit)	脱退 <br> だったい <br> [sound:k8-3538_脱退.mp3]
+脱退	[sound:k8-3538_脱退.mp3] <br> だったい <br> secession, retirement, withdrawal (e.g. from a lawsuit)
+[sound:s8-3538_彼は宿題を終えましたか。.mp3]	<b>(宿題)</b> <br> 彼は宿題を終えましたか。<br> かれはしゅくだいをおえましたか。 <br> Did he finish his homework?			
+<b>(宿題)</b> <br> 彼は宿題を終えましたか。	[sound:s8-3538_彼は宿題を終えましたか。.mp3] <br> かれはしゅくだいをおえましたか。 <br> Did he finish his homework?			
+[sound:k8-3539_進退.mp3]	進退 <br> しんたい <br> movement, course of action, advance or retreat
+movement, course of action, advance or retreat	進退 <br> しんたい <br> [sound:k8-3539_進退.mp3]
+進退	[sound:k8-3539_進退.mp3] <br> しんたい <br> movement, course of action, advance or retreat
+[sound:s8-3539_彼は自分の宿命を受け入れました。.mp3]	<b>(宿命)</b> <br> 彼は自分の宿命を受け入れました。<br> かれはじぶんのしゅくめいをうけいれました。 <br> He accepted his fate.			
+<b>(宿命)</b> <br> 彼は自分の宿命を受け入れました。	[sound:s8-3539_彼は自分の宿命を受け入れました。.mp3] <br> かれはじぶんのしゅくめいをうけいれました。 <br> He accepted his fate.			
+[sound:k8-3540_退任.mp3]	退任 <br> たいにん <br> retirement, resignation, stepping down
+retirement, resignation, stepping down	退任 <br> たいにん <br> [sound:k8-3540_退任.mp3]
+退任	[sound:k8-3540_退任.mp3] <br> たいにん <br> retirement, resignation, stepping down
+[sound:s8-3540_彼女は宿駅で電車を待っていました。.mp3]	<b>(宿駅)</b> <br> 彼女は宿駅で電車を待っていました。<br> かのじょはしゅくえきででんしゃをまっていました。 <br> She was waiting for the train at the lodging station.			
+<b>(宿駅)</b> <br> 彼女は宿駅で電車を待っていました。	[sound:s8-3540_彼女は宿駅で電車を待っていました。.mp3] <br> かのじょはしゅくえきででんしゃをまっていました。 <br> She was waiting for the train at the lodging station.			
+[sound:k8-3541_中退.mp3]	中退 <br> ちゅうたい <br> leaving school during a term
+leaving school during a term	中退 <br> ちゅうたい <br> [sound:k8-3541_中退.mp3]
+中退	[sound:k8-3541_中退.mp3] <br> ちゅうたい <br> leaving school during a term
+[sound:s8-3541_彼は学生寮で下宿しています。.mp3]	<b>(下宿)</b> <br> 彼は学生寮で下宿しています。<br> かれはがくせいりょうでげしゅくしています。 <br> He lodges at the student dormitory.			
+<b>(下宿)</b> <br> 彼は学生寮で下宿しています。	[sound:s8-3541_彼は学生寮で下宿しています。.mp3] <br> かれはがくせいりょうでげしゅくしています。 <br> He lodges at the student dormitory.			
+[sound:k8-3542_辞退.mp3]	辞退 <br> じたい <br> refusal
+refusal	辞退 <br> じたい <br> [sound:k8-3542_辞退.mp3]
+辞退	[sound:k8-3542_辞退.mp3] <br> じたい <br> refusal
+[sound:s8-3542_私たちはその地域の民宿に泊まりました。.mp3]	<b>(民宿)</b> <br> 私たちはその地域の民宿に泊まりました。<br> わたしたちはそのちいきのみんしゅくにとまりました。 <br> We stayed at a local inn in the area.			
+<b>(民宿)</b> <br> 私たちはその地域の民宿に泊まりました。	[sound:s8-3542_私たちはその地域の民宿に泊まりました。.mp3] <br> わたしたちはそのちいきのみんしゅくにとまりました。 <br> We stayed at a local inn in the area.			
+[sound:k8-3543_準.mp3]	準 <br> (kun: じゅん.じる, じゅん.ずる, なぞら.える, のり, ひと.しい, みずもり; on: ジュン) <br> semi-, correspond to, proportionate to, conform, imitate
+semi-, correspond to, proportionate to, conform, imitate	準 <br> (kun: じゅん.じる, じゅん.ずる, なぞら.える, のり, ひと.しい, みずもり; on: ジュン) <br> [sound:k8-3543_準.mp3]
+準	[sound:k8-3543_準.mp3] <br> (kun: じゅん.じる, じゅん.ずる, なぞら.える, のり, ひと.しい, みずもり; on: ジュン) <br> semi-, correspond to, proportionate to, conform, imitate
+[sound:s8-3543_彼はそのチームの宿敵です。.mp3]	<b>(宿敵)</b> <br> 彼はそのチームの宿敵です。<br> かれはそのちーむのしゅくてきです。 <br> He is the archrival of that team.			
+<b>(宿敵)</b> <br> 彼はそのチームの宿敵です。	[sound:s8-3543_彼はそのチームの宿敵です。.mp3] <br> かれはそのちーむのしゅくてきです。 <br> He is the archrival of that team.			
+[sound:k8-3544_基準.mp3]	基準 <br> きじゅん <br> standard, basis, criterion, norm, reference, datum
+standard, basis, criterion, norm, reference, datum	基準 <br> きじゅん <br> [sound:k8-3544_基準.mp3]
+基準	[sound:k8-3544_基準.mp3] <br> きじゅん <br> standard, basis, criterion, norm, reference, datum
+[sound:s8-3544_彼は早く来ました。.mp3]	<b>(早)</b> <br> 彼は早く来ました。<br> かれははやくきました。 <br> He came early.			
+<b>(早)</b> <br> 彼は早く来ました。	[sound:s8-3544_彼は早く来ました。.mp3] <br> かれははやくきました。 <br> He came early.			
+[sound:k8-3545_準備.mp3]	準備 <br> じゅんび <br> preparation, setup, arrangements, provision, reserve
+preparation, setup, arrangements, provision, reserve	準備 <br> じゅんび <br> [sound:k8-3545_準備.mp3]
+準備	[sound:k8-3545_準備.mp3] <br> じゅんび <br> preparation, setup, arrangements, provision, reserve
+[sound:s8-3545_早期発見が治療の鍵です。.mp3]	<b>(早期)</b> <br> 早期発見が治療の鍵です。<br> そうきはっけんがちりょうのかぎです。 <br> Early detection is the key to treatment.			
+<b>(早期)</b> <br> 早期発見が治療の鍵です。	[sound:s8-3545_早期発見が治療の鍵です。.mp3] <br> そうきはっけんがちりょうのかぎです。 <br> Early detection is the key to treatment.			
+[sound:k8-3546_水準.mp3]	水準 <br> すいじゅん <br> level, standard; water level
+level, standard; water level	水準 <br> すいじゅん <br> [sound:k8-3546_水準.mp3]
+水準	[sound:k8-3546_水準.mp3] <br> すいじゅん <br> level, standard; water level
+[sound:s8-3546_私は早く帰ります。.mp3]	<b>(早)</b> <br> 私は早く帰ります。<br> わたしははやくかえります。 <br> I will return early.			
+<b>(早)</b> <br> 私は早く帰ります。	[sound:s8-3546_私は早く帰ります。.mp3] <br> わたしははやくかえります。 <br> I will return early.			
+[sound:k8-3547_標準.mp3]	標準 <br> ひょうじゅん <br> standard, level, norm
+standard, level, norm	標準 <br> ひょうじゅん <br> [sound:k8-3547_標準.mp3]
+標準	[sound:k8-3547_標準.mp3] <br> ひょうじゅん <br> standard, level, norm
+[sound:s8-3547_早急な対応が必要です。.mp3]	<b>(早急)</b> <br> 早急な対応が必要です。<br> そうきゅうなたいおうがひつようです。 <br> Immediate action is necessary.			
+<b>(早急)</b> <br> 早急な対応が必要です。	[sound:s8-3547_早急な対応が必要です。.mp3] <br> そうきゅうなたいおうがひつようです。 <br> Immediate action is necessary.			
+[sound:k8-3548_準決勝.mp3]	準決勝 <br> じゅんけっしょう <br> semifinal (in sports)
+semifinal (in sports)	準決勝 <br> じゅんけっしょう <br> [sound:k8-3548_準決勝.mp3]
+準決勝	[sound:k8-3548_準決勝.mp3] <br> じゅんけっしょう <br> semifinal (in sports)
+[sound:s8-3548_彼女は早朝にジョギングをします。.mp3]	<b>(早朝)</b> <br> 彼女は早朝にジョギングをします。<br> かのじょはそうちょうにじょぎんぐをします。 <br> She goes jogging in the early morning.			
+<b>(早朝)</b> <br> 彼女は早朝にジョギングをします。	[sound:s8-3548_彼女は早朝にジョギングをします。.mp3] <br> かのじょはそうちょうにじょぎんぐをします。 <br> She goes jogging in the early morning.			
+[sound:k8-3549_高水準.mp3]	高水準 <br> こうすいじゅん <br> high level
+high level	高水準 <br> こうすいじゅん <br> [sound:k8-3549_高水準.mp3]
+高水準	[sound:k8-3549_高水準.mp3] <br> こうすいじゅん <br> high level
+[sound:s8-3549_彼は会議を早めました。.mp3]	<b>(早める)</b> <br> 彼は会議を早めました。<br> かれはかいぎをはやめました。 <br> He moved up the meeting.			
+<b>(早める)</b> <br> 彼は会議を早めました。	[sound:s8-3549_彼は会議を早めました。.mp3] <br> かれはかいぎをはやめました。 <br> He moved up the meeting.			
+[sound:k8-3550_低水準.mp3]	低水準 <br> ていすいじゅん <br> substandard, low-level
+substandard, low-level	低水準 <br> ていすいじゅん <br> [sound:k8-3550_低水準.mp3]
+低水準	[sound:k8-3550_低水準.mp3] <br> ていすいじゅん <br> substandard, low-level
+[sound:s8-3550_彼らは早々に家を出ました。.mp3]	<b>(早々)</b> <br> 彼らは早々に家を出ました。<br> かれらはそうそうにいえをでました。 <br> They left home promptly.			
+<b>(早々)</b> <br> 彼らは早々に家を出ました。	[sound:s8-3550_彼らは早々に家を出ました。.mp3] <br> かれらはそうそうにいえをでました。 <br> They left home promptly.			
+[sound:k8-3551_照準.mp3]	照準 <br> しょうじゅん <br> alignment
+alignment	照準 <br> しょうじゅん <br> [sound:k8-3551_照準.mp3]
+照準	[sound:k8-3551_照準.mp3] <br> しょうじゅん <br> alignment
+[sound:s8-3551_今日は早い時間に寝ます。.mp3]	<b>(早い)</b> <br> 今日は早い時間に寝ます。<br> きょうははやいじかんにねます。 <br> I will go to bed early today.			
+<b>(早い)</b> <br> 今日は早い時間に寝ます。	[sound:s8-3551_今日は早い時間に寝ます。.mp3] <br> きょうははやいじかんにねます。 <br> I will go to bed early today.			
+[sound:k8-3552_準じる.mp3]	準じる <br> じゅんじる <br> to follow, to conform, to apply to
+to follow, to conform, to apply to	準じる <br> じゅんじる <br> [sound:k8-3552_準じる.mp3]
+準じる	[sound:k8-3552_準じる.mp3] <br> じゅんじる <br> to follow, to conform, to apply to
+[sound:s8-3552_その提案は時期尚早です。.mp3]	<b>(時期尚早)</b> <br> その提案は時期尚早です。<br> そのていあんはじきしょうそうです。 <br> The proposal is premature.			
+<b>(時期尚早)</b> <br> その提案は時期尚早です。	[sound:s8-3552_その提案は時期尚早です。.mp3] <br> そのていあんはじきしょうそうです。 <br> The proposal is premature.			
+[sound:k8-3553_労働基準法.mp3]	労働基準法 <br> ろうどうきじゅんほう <br> Labor Standards Act
+Labor Standards Act	労働基準法 <br> ろうどうきじゅんほう <br> [sound:k8-3553_労働基準法.mp3]
+労働基準法	[sound:k8-3553_労働基準法.mp3] <br> ろうどうきじゅんほう <br> Labor Standards Act
+[sound:s8-3553_彼は素早く反応しました。.mp3]	<b>(素早く)</b> <br> 彼は素早く反応しました。<br> かれはすばやくはんのうしました。 <br> He reacted quickly.			
+<b>(素早く)</b> <br> 彼は素早く反応しました。	[sound:s8-3553_彼は素早く反応しました。.mp3] <br> かれはすばやくはんのうしました。 <br> He reacted quickly.			
+[sound:k8-3554_賞.mp3]	賞 <br> (kun: ほ.める; on: ショウ) <br> prize, reward, praise
+prize, reward, praise	賞 <br> (kun: ほ.める; on: ショウ) <br> [sound:k8-3554_賞.mp3]
+賞	[sound:k8-3554_賞.mp3] <br> (kun: ほ.める; on: ショウ) <br> prize, reward, praise
+[sound:s8-3554_早乙女という名前は珍しいですね。.mp3]	<b>(早乙女)</b> <br> 早乙女という名前は珍しいですね。<br> さおとめというなまえはめずらしいですね。 <br> The name "Saotome" is unusual, isn't it?			
+<b>(早乙女)</b> <br> 早乙女という名前は珍しいですね。	[sound:s8-3554_早乙女という名前は珍しいですね。.mp3] <br> さおとめというなまえはめずらしいですね。 <br> The name "Saotome" is unusual, isn't it?			
+[sound:k8-3555_賞.mp3]	賞 <br> しょう <br> prize, award
+prize, award	賞 <br> しょう <br> [sound:k8-3555_賞.mp3]
+賞	[sound:k8-3555_賞.mp3] <br> しょう <br> prize, award
+[sound:s8-3555_彼は意見を主張しました。.mp3]	<b>(張)</b> <br> 彼は意見を主張しました。<br> かれはいけんをしゅちょうしました。 <br> He asserted his opinion.			
+<b>(張)</b> <br> 彼は意見を主張しました。	[sound:s8-3555_彼は意見を主張しました。.mp3] <br> かれはいけんをしゅちょうしました。 <br> He asserted his opinion.			
+[sound:k8-3556_受賞.mp3]	受賞 <br> じゅしょう <br> winning (a prize)
+winning (a prize)	受賞 <br> じゅしょう <br> [sound:k8-3556_受賞.mp3]
+受賞	[sound:k8-3556_受賞.mp3] <br> じゅしょう <br> winning (a prize)
+[sound:s8-3556_彼は環境保護を主張しています。.mp3]	<b>(主張)</b> <br> 彼は環境保護を主張しています。<br> かれはかんきょうほごをしゅちょうしています。 <br> He advocates for environmental protection.			
+<b>(主張)</b> <br> 彼は環境保護を主張しています。	[sound:s8-3556_彼は環境保護を主張しています。.mp3] <br> かれはかんきょうほごをしゅちょうしています。 <br> He advocates for environmental protection.			
+[sound:k8-3557_賞金.mp3]	賞金 <br> しょうきん <br> prize, monetary award
+prize, monetary award	賞金 <br> しょうきん <br> [sound:k8-3557_賞金.mp3]
+賞金	[sound:k8-3557_賞金.mp3] <br> しょうきん <br> prize, monetary award
+[sound:s8-3557_彼は面接で緊張しています。.mp3]	<b>(緊張)</b> <br> 彼は面接で緊張しています。<br> かれはめんせつできんちょうしています。 <br> He is nervous in the interview.			
+<b>(緊張)</b> <br> 彼は面接で緊張しています。	[sound:s8-3557_彼は面接で緊張しています。.mp3] <br> かれはめんせつできんちょうしています。 <br> He is nervous in the interview.			
+[sound:k8-3558_大賞.mp3]	大賞 <br> たいしょう <br> big prize, first prize
+big prize, first prize	大賞 <br> たいしょう <br> [sound:k8-3558_大賞.mp3]
+大賞	[sound:k8-3558_大賞.mp3] <br> たいしょう <br> big prize, first prize
+[sound:s8-3558_その橋は張りが強いです。.mp3]	<b>(張り)</b> <br> その橋は張りが強いです。<br> そのはしははりがつよいです。 <br> The bridge has strong tension.			
+<b>(張り)</b> <br> その橋は張りが強いです。	[sound:s8-3558_その橋は張りが強いです。.mp3] <br> そのはしははりがつよいです。 <br> The bridge has strong tension.			
+[sound:k8-3559_入賞.mp3]	入賞 <br> にゅうしょう <br> winning a prize or place (in a contest)
+winning a prize or place (in a contest)	入賞 <br> にゅうしょう <br> [sound:k8-3559_入賞.mp3]
+入賞	[sound:k8-3559_入賞.mp3] <br> にゅうしょう <br> winning a prize or place (in a contest)
+[sound:s8-3559_明日の試験、頑張ってね！.mp3]	<b>(頑張って)</b> <br> 明日の試験、頑張ってね！<br> あしたのしけん、がんばってね！ <br> Good luck on tomorrow's exam!			
+<b>(頑張って)</b> <br> 明日の試験、頑張ってね！	[sound:s8-3559_明日の試験、頑張ってね！.mp3] <br> あしたのしけん、がんばってね！ <br> Good luck on tomorrow's exam!			
+[sound:k8-3560_賞状.mp3]	賞状 <br> しょうじょう <br> honorable certificate, honourable certificate
+honorable certificate, honourable certificate	賞状 <br> しょうじょう <br> [sound:k8-3560_賞状.mp3]
+賞状	[sound:k8-3560_賞状.mp3] <br> しょうじょう <br> honorable certificate, honourable certificate
+[sound:s8-3560_彼は仕事で出張しています。.mp3]	<b>(出張)</b> <br> 彼は仕事で出張しています。<br> かれはしごとでしゅっちょうしています。 <br> He is on a business trip.			
+<b>(出張)</b> <br> 彼は仕事で出張しています。	[sound:s8-3560_彼は仕事で出張しています。.mp3] <br> かれはしごとでしゅっちょうしています。 <br> He is on a business trip.			
+[sound:k8-3561_授賞式.mp3]	授賞式 <br> じゅしょうしき <br> award ceremony
+award ceremony	授賞式 <br> じゅしょうしき <br> [sound:k8-3561_授賞式.mp3]
+授賞式	[sound:k8-3561_授賞式.mp3] <br> じゅしょうしき <br> award ceremony
+[sound:s8-3561_彼は壁に絵を張りました。.mp3]	<b>(張る)</b> <br> 彼は壁に絵を張りました。<br> かれはかべにえをはりました。 <br> He hung a picture on the wall.			
+<b>(張る)</b> <br> 彼は壁に絵を張りました。	[sound:s8-3561_彼は壁に絵を張りました。.mp3] <br> かれはかべにえをはりました。 <br> He hung a picture on the wall.			
+[sound:k8-3562_副賞.mp3]	副賞 <br> ふくしょう <br> extra prize
+extra prize	副賞 <br> ふくしょう <br> [sound:k8-3562_副賞.mp3]
+副賞	[sound:k8-3562_副賞.mp3] <br> ふくしょう <br> extra prize
+[sound:s8-3562_その道路は拡張されました。.mp3]	<b>(拡張)</b> <br> その道路は拡張されました。<br> そのどうろはかくちょうされました。 <br> The road was expanded.			
+<b>(拡張)</b> <br> その道路は拡張されました。	[sound:s8-3562_その道路は拡張されました。.mp3] <br> そのどうろはかくちょうされました。 <br> The road was expanded.			
+[sound:k8-3563_鑑賞.mp3]	鑑賞 <br> かんしょう <br> appreciation (e.g. of art), aesthetic sense
+appreciation (e.g. of art), aesthetic sense	鑑賞 <br> かんしょう <br> [sound:k8-3563_鑑賞.mp3]
+鑑賞	[sound:k8-3563_鑑賞.mp3] <br> かんしょう <br> appreciation (e.g. of art), aesthetic sense
+[sound:s8-3563_経済は膨張しています。.mp3]	<b>(膨張)</b> <br> 経済は膨張しています。<br> けいざいはぼうちょうしています。 <br> The economy is expanding.			
+<b>(膨張)</b> <br> 経済は膨張しています。	[sound:s8-3563_経済は膨張しています。.mp3] <br> けいざいはぼうちょうしています。 <br> The economy is expanding.			
+[sound:k8-3564_賞品.mp3]	賞品 <br> しょうひん <br> prize, trophy
+prize, trophy	賞品 <br> しょうひん <br> [sound:k8-3564_賞品.mp3]
+賞品	[sound:k8-3564_賞品.mp3] <br> しょうひん <br> prize, trophy
+[sound:s8-3564_引っ張り剪断強度が不足しています。.mp3]	<b>(引っ張り剪断強度)</b> <br> 引っ張り剪断強度が不足しています。<br> ひっぱりせんだんきょうどがふそくしています。 <br> The tensile shear strength is insufficient.			
+<b>(引っ張り剪断強度)</b> <br> 引っ張り剪断強度が不足しています。	[sound:s8-3564_引っ張り剪断強度が不足しています。.mp3] <br> ひっぱりせんだんきょうどがふそくしています。 <br> The tensile shear strength is insufficient.			
+[sound:k8-3565_訴.mp3]	訴 <br> (kun: うった.える; on: ソ) <br> accusation, sue, complain of pain, appeal to
+accusation, sue, complain of pain, appeal to	訴 <br> (kun: うった.える; on: ソ) <br> [sound:k8-3565_訴.mp3]
+訴	[sound:k8-3565_訴.mp3] <br> (kun: うった.える; on: ソ) <br> accusation, sue, complain of pain, appeal to
+[sound:s8-3565_彼の頑張りが実を結びました。.mp3]	<b>(頑張り)</b> <br> 彼の頑張りが実を結びました。<br> かれのがんばりがみをむすびました。 <br> His efforts bore fruit.			
+<b>(頑張り)</b> <br> 彼の頑張りが実を結びました。	[sound:s8-3565_彼の頑張りが実を結びました。.mp3] <br> かれのがんばりがみをむすびました。 <br> His efforts bore fruit.			
+[sound:k8-3566_訴え.mp3]	訴え <br> うったえ <br> lawsuit, complaint
+lawsuit, complaint	訴え <br> うったえ <br> [sound:k8-3566_訴え.mp3]
+訴え	[sound:k8-3566_訴え.mp3] <br> うったえ <br> lawsuit, complaint
+[sound:s8-3566_彼女は映画に出演しました。.mp3]	<b>(映)</b> <br> 彼女は映画に出演しました。<br> かのじょはえいがにしゅつえんしました。 <br> She appeared in the movie.			
+<b>(映)</b> <br> 彼女は映画に出演しました。	[sound:s8-3566_彼女は映画に出演しました。.mp3] <br> かのじょはえいがにしゅつえんしました。 <br> She appeared in the movie.			
+[sound:k8-3567_訴訟.mp3]	訴訟 <br> そしょう <br> litigation, lawsuit
+litigation, lawsuit	訴訟 <br> そしょう <br> [sound:k8-3567_訴訟.mp3]
+訴訟	[sound:k8-3567_訴訟.mp3] <br> そしょう <br> litigation, lawsuit
+[sound:s8-3567_その映画は大ヒットしました。.mp3]	<b>(映画)</b> <br> その映画は大ヒットしました。<br> そのえいがはだいひっとしました。 <br> The movie was a big hit.			
+<b>(映画)</b> <br> その映画は大ヒットしました。	[sound:s8-3567_その映画は大ヒットしました。.mp3] <br> そのえいがはだいひっとしました。 <br> The movie was a big hit.			
+[sound:k8-3568_起訴.mp3]	起訴 <br> きそ <br> prosecution, indictment
+prosecution, indictment	起訴 <br> きそ <br> [sound:k8-3568_起訴.mp3]
+起訴	[sound:k8-3568_起訴.mp3] <br> きそ <br> prosecution, indictment
+[sound:s8-3568_テレビで映像が放映されました。.mp3]	<b>(映像)</b> <br> テレビで映像が放映されました。<br> テレビでえいぞうがほうえいされました。 <br> The video was broadcasted on TV.			
+<b>(映像)</b> <br> テレビで映像が放映されました。	[sound:s8-3568_テレビで映像が放映されました。.mp3] <br> テレビでえいぞうがほうえいされました。 <br> The video was broadcasted on TV.			
+[sound:k8-3569_控訴.mp3]	控訴 <br> こうそ <br> koso appeal (initial appeal to a higher court)
+koso appeal (initial appeal to a higher court)	控訴 <br> こうそ <br> [sound:k8-3569_控訴.mp3]
+控訴	[sound:k8-3569_控訴.mp3] <br> こうそ <br> koso appeal (initial appeal to a higher court)
+[sound:s8-3569_この映画は来週から上映されます。.mp3]	<b>(上映)</b> <br> この映画は来週から上映されます。<br> このえいがはらいしゅうからじょうえいされます。 <br> This movie will be screened starting next week.			
+<b>(上映)</b> <br> この映画は来週から上映されます。	[sound:s8-3569_この映画は来週から上映されます。.mp3] <br> このえいがはらいしゅうからじょうえいされます。 <br> This movie will be screened starting next week.			
+[sound:k8-3570_提訴.mp3]	提訴 <br> ていそ <br> presenting a case, suing
+presenting a case, suing	提訴 <br> ていそ <br> [sound:k8-3570_提訴.mp3]
+提訴	[sound:k8-3570_提訴.mp3] <br> ていそ <br> presenting a case, suing
+[sound:s8-3570_その番組は放映されました。.mp3]	<b>(放映)</b> <br> その番組は放映されました。<br> そのばんぐみはほうえいされました。 <br> The program was broadcasted.			
+<b>(放映)</b> <br> その番組は放映されました。	[sound:s8-3570_その番組は放映されました。.mp3] <br> そのばんぐみはほうえいされました。 <br> The program was broadcasted.			
+[sound:k8-3571_訴状.mp3]	訴状 <br> そじょう <br> petition, complaint, (legal) brief
+petition, complaint, (legal) brief	訴状 <br> そじょう <br> [sound:k8-3571_訴状.mp3]
+訴状	[sound:k8-3571_訴状.mp3] <br> そじょう <br> petition, complaint, (legal) brief
+[sound:s8-3571_彼らは映画館で映画を見ました。.mp3]	<b>(映画館)</b> <br> 彼らは映画館で映画を見ました。<br> かれらはえいがかんでえいがをみました。 <br> They watched a movie at the cinema.			
+<b>(映画館)</b> <br> 彼らは映画館で映画を見ました。	[sound:s8-3571_彼らは映画館で映画を見ました。.mp3] <br> かれらはえいがかんでえいがをみました。 <br> They watched a movie at the cinema.			
+[sound:k8-3572_告訴.mp3]	告訴 <br> こくそ <br> accusation, complaint, charge, legal action
+accusation, complaint, charge, legal action	告訴 <br> こくそ <br> [sound:k8-3572_告訴.mp3]
+告訴	[sound:k8-3572_告訴.mp3] <br> こくそ <br> accusation, complaint, charge, legal action
+[sound:s8-3572_その変化は統計データに反映されています。.mp3]	<b>(反映)</b> <br> その変化は統計データに反映されています。<br> そのへんかはとうけいでーたにはんえいされています。 <br> The changes are reflected in the statistical data.			
+<b>(反映)</b> <br> その変化は統計データに反映されています。	[sound:s8-3572_その変化は統計データに反映されています。.mp3] <br> そのへんかはとうけいでーたにはんえいされています。 <br> The changes are reflected in the statistical data.			
+[sound:k8-3573_勝訴.mp3]	勝訴 <br> しょうそ <br> winning a lawsuit
+winning a lawsuit	勝訴 <br> しょうそ <br> [sound:k8-3573_勝訴.mp3]
+勝訴	[sound:k8-3573_勝訴.mp3] <br> しょうそ <br> winning a lawsuit
+[sound:s8-3573_彼の行動は彼の性格を映し出しています。.mp3]	<b>(映し出す)</b> <br> 彼の行動は彼の性格を映し出しています。<br> かれのこうどうはかれのせいかくをうつしだしています。 <br> His actions reflect his character.			
+<b>(映し出す)</b> <br> 彼の行動は彼の性格を映し出しています。	[sound:s8-3573_彼の行動は彼の性格を映し出しています。.mp3] <br> かれのこうどうはかれのせいかくをうつしだしています。 <br> His actions reflect his character.			
+[sound:k8-3574_不起訴.mp3]	不起訴 <br> ふきそ <br> nonprosecution or indictment
+nonprosecution or indictment	不起訴 <br> ふきそ <br> [sound:k8-3574_不起訴.mp3]
+不起訴	[sound:k8-3574_不起訴.mp3] <br> ふきそ <br> nonprosecution or indictment
+[sound:s8-3574_大映はかつての映画会社です。.mp3]	<b>(大映)</b> <br> 大映はかつての映画会社です。<br> だいえいはかつてのえいががいしゃです。 <br> Daiei was a former movie company.			
+<b>(大映)</b> <br> 大映はかつての映画会社です。	[sound:s8-3574_大映はかつての映画会社です。.mp3] <br> だいえいはかつてのえいががいしゃです。 <br> Daiei was a former movie company.			
+[sound:k8-3575_敗訴.mp3]	敗訴 <br> はいそ <br> loss of a court-case
+loss of a court-case	敗訴 <br> はいそ <br> [sound:k8-3575_敗訴.mp3]
+敗訴	[sound:k8-3575_敗訴.mp3] <br> はいそ <br> loss of a court-case
+[sound:s8-3575_彼女の顔が鏡に映っていた。.mp3]	<b>(映る)</b> <br> 彼女の顔が鏡に映っていた。<br> かのじょのかおがかがみにうつっていた。 <br> Her face was reflected in the mirror.			
+<b>(映る)</b> <br> 彼女の顔が鏡に映っていた。	[sound:s8-3575_彼女の顔が鏡に映っていた。.mp3] <br> かのじょのかおがかがみにうつっていた。 <br> Her face was reflected in the mirror.			
+[sound:k8-3576_辺.mp3]	辺 <br> (kun: あた.り, ほと.り, -べ; on: ヘン) <br> environs, boundary, border, vicinity
+environs, boundary, border, vicinity	辺 <br> (kun: あた.り, ほと.り, -べ; on: ヘン) <br> [sound:k8-3576_辺.mp3]
+辺	[sound:k8-3576_辺.mp3] <br> (kun: あた.り, ほと.り, -べ; on: ヘン) <br> environs, boundary, border, vicinity
+[sound:s8-3576_その映画は劇映画です。.mp3]	<b>(劇映画)</b> <br> その映画は劇映画です。<br> そのえいがはげきえいがです。 <br> The movie is a drama film.			
+<b>(劇映画)</b> <br> その映画は劇映画です。	[sound:s8-3576_その映画は劇映画です。.mp3] <br> そのえいがはげきえいがです。 <br> The movie is a drama film.			
+[sound:k8-3577_辺.mp3]	辺 <br> へん <br> area, vicinity; side (of triangle, rectangle, etc.); circumstances
+area, vicinity; side (of triangle, rectangle, etc.); circumstances	辺 <br> へん <br> [sound:k8-3577_辺.mp3]
+辺	[sound:k8-3577_辺.mp3] <br> へん <br> area, vicinity; side (of triangle, rectangle, etc.); circumstances
+[sound:s8-3577_彼の権限は限られています。.mp3]	<b>(限)</b> <br> 彼の権限は限られています。<br> かれのけんげんはかぎられています。 <br> His authority is limited.			
+<b>(限)</b> <br> 彼の権限は限られています。	[sound:s8-3577_彼の権限は限られています。.mp3] <br> かれのけんげんはかぎられています。 <br> His authority is limited.			
+[sound:k8-3578_周辺.mp3]	周辺 <br> しゅうへん <br> circumference, outskirts, environs, around, in the area of, in the vicinity of; (computer) peripheral
+circumference, outskirts, environs, around, in the area of, in the vicinity of; (computer) peripheral	周辺 <br> しゅうへん <br> [sound:k8-3578_周辺.mp3]
+周辺	[sound:k8-3578_周辺.mp3] <br> しゅうへん <br> circumference, outskirts, environs, around, in the area of, in the vicinity of; (computer) peripheral
+[sound:s8-3578_時間に限りがあります。.mp3]	<b>(限る)</b> <br> 時間に限りがあります。<br> じかんにかぎりがあります。 <br> There is a limit to time.			
+<b>(限る)</b> <br> 時間に限りがあります。	[sound:s8-3578_時間に限りがあります。.mp3] <br> じかんにかぎりがあります。 <br> There is a limit to time.			
+[sound:k8-3579_一辺倒.mp3]	一辺倒 <br> いっぺんとう <br> complete devotion to one side
+complete devotion to one side	一辺倒 <br> いっぺんとう <br> [sound:k8-3579_一辺倒.mp3]
+一辺倒	[sound:k8-3579_一辺倒.mp3] <br> いっぺんとう <br> complete devotion to one side
+[sound:s8-3579_提出期限は明日です。.mp3]	<b>(期限)</b> <br> 提出期限は明日です。<br> ていしゅつきげんはあしたです。 <br> The deadline for submission is tomorrow.			
+<b>(期限)</b> <br> 提出期限は明日です。	[sound:s8-3579_提出期限は明日です。.mp3] <br> ていしゅつきげんはあしたです。 <br> The deadline for submission is tomorrow.			
+[sound:k8-3580_辺り.mp3]	辺り <br> あたり, ほとり <br> on the bank of, by the side of (e.g. a river, pond); (in the) neighbourhood, neighborhood, vicinity, nearby
+on the bank of, by the side of (e.g. a river, pond); (in the) neighbourhood, neighborhood, vicinity, nearby	辺り <br> あたり, ほとり <br> [sound:k8-3580_辺り.mp3]
+辺り	[sound:k8-3580_辺り.mp3] <br> あたり, ほとり <br> on the bank of, by the side of (e.g. a river, pond); (in the) neighbourhood, neighborhood, vicinity, nearby
+[sound:s8-3580_彼は大統領の権限を持っています。.mp3]	<b>(権限)</b> <br> 彼は大統領の権限を持っています。<br> かれはだいとうりょうのけんげんをもっています。 <br> He holds the authority of the president.			
+<b>(権限)</b> <br> 彼は大統領の権限を持っています。	[sound:s8-3580_彼は大統領の権限を持っています。.mp3] <br> かれはだいとうりょうのけんげんをもっています。 <br> He holds the authority of the president.			
+[sound:k8-3581_海辺.mp3]	海辺 <br> うみべ, かいへん <br> beach, seashore
+beach, seashore	海辺 <br> うみべ, かいへん <br> [sound:k8-3581_海辺.mp3]
+海辺	[sound:k8-3581_海辺.mp3] <br> うみべ, かいへん <br> beach, seashore
+[sound:s8-3581_速度制限があります。.mp3]	<b>(制限)</b> <br> 速度制限があります。<br> そくどせいげんがあります。 <br> There is a speed limit.			
+<b>(制限)</b> <br> 速度制限があります。	[sound:s8-3581_速度制限があります。.mp3] <br> そくどせいげんがあります。 <br> There is a speed limit.			
+[sound:k8-3582_身辺.mp3]	身辺 <br> しんぺん <br> one's person
+one's person	身辺 <br> しんぺん <br> [sound:k8-3582_身辺.mp3]
+身辺	[sound:k8-3582_身辺.mp3] <br> しんぺん <br> one's person
+[sound:s8-3582_限界を超えた努力が必要です。.mp3]	<b>(限界)</b> <br> 限界を超えた努力が必要です。<br> げんかいをこえたどりょくがひつようです。 <br> Efforts beyond the limit are necessary.			
+<b>(限界)</b> <br> 限界を超えた努力が必要です。	[sound:s8-3582_限界を超えた努力が必要です。.mp3] <br> げんかいをこえたどりょくがひつようです。 <br> Efforts beyond the limit are necessary.			
+[sound:k8-3583_底辺.mp3]	底辺 <br> ていへん <br> base (geometry, society)
+base (geometry, society)	底辺 <br> ていへん <br> [sound:k8-3583_底辺.mp3]
+底辺	[sound:k8-3583_底辺.mp3] <br> ていへん <br> base (geometry, society)
+[sound:s8-3583_知識は無限ではなく、限りがあります。.mp3]	<b>(限り)</b> <br> 知識は無限ではなく、限りがあります。<br> ちしきはむげんではなく、かぎりがあります。 <br> Knowledge is not infinite; it has limits.			
+<b>(限り)</b> <br> 知識は無限ではなく、限りがあります。	[sound:s8-3583_知識は無限ではなく、限りがあります。.mp3] <br> ちしきはむげんではなく、かぎりがあります。 <br> Knowledge is not infinite; it has limits.			
+[sound:k8-3584_水辺.mp3]	水辺 <br> すいへん, みずべ <br> waterside, waterfront
+waterside, waterfront	水辺 <br> すいへん, みずべ <br> [sound:k8-3584_水辺.mp3]
+水辺	[sound:k8-3584_水辺.mp3] <br> すいへん, みずべ <br> waterside, waterfront
+[sound:s8-3584_この特典は期間限定です。.mp3]	<b>(限定)</b> <br> この特典は期間限定です。<br> このとくてんはきかんげんていです。 <br> This benefit is limited time only.			
+<b>(限定)</b> <br> この特典は期間限定です。	[sound:s8-3584_この特典は期間限定です。.mp3] <br> このとくてんはきかんげんていです。 <br> This benefit is limited time only.			
+[sound:k8-3585_浜辺.mp3]	浜辺 <br> はまべ <br> beach, foreshore
+beach, foreshore	浜辺 <br> はまべ <br> [sound:k8-3585_浜辺.mp3]
+浜辺	[sound:k8-3585_浜辺.mp3] <br> はまべ <br> beach, foreshore
+[sound:s8-3585_料金には上限があります。.mp3]	<b>(上限)</b> <br> 料金には上限があります。<br> りょうきんにはじょうげんがあります。 <br> There is a cap on the fee.			
+<b>(上限)</b> <br> 料金には上限があります。	[sound:s8-3585_料金には上限があります。.mp3] <br> りょうきんにはじょうげんがあります。 <br> There is a cap on the fee.			
+[sound:k8-3586_辺境.mp3]	辺境 <br> へんきょう <br> remote region, frontier (district), border(land)
+remote region, frontier (district), border(land)	辺境 <br> へんきょう <br> [sound:k8-3586_辺境.mp3]
+辺境	[sound:k8-3586_辺境.mp3] <br> へんきょう <br> remote region, frontier (district), border(land)
+[sound:s8-3586_私たちは最大限の努力をします。.mp3]	<b>(最大限)</b> <br> 私たちは最大限の努力をします。<br> わたしたちはさいだいげんのどりょくをします。 <br> We will make the maximum effort.			
+<b>(最大限)</b> <br> 私たちは最大限の努力をします。	[sound:s8-3586_私たちは最大限の努力をします。.mp3] <br> わたしたちはさいだいげんのどりょくをします。 <br> We will make the maximum effort.			
+[sound:k8-3587_造.mp3]	造 <br> (kun: つく.る, つく.り, -づく.り; on: ゾウ) <br> create, make, structure, physique
+create, make, structure, physique	造 <br> (kun: つく.る, つく.り, -づく.り; on: ゾウ) <br> [sound:k8-3587_造.mp3]
+造	[sound:k8-3587_造.mp3] <br> (kun: つく.る, つく.り, -づく.り; on: ゾウ) <br> create, make, structure, physique
+[sound:s8-3587_理性の限度を超えないでください。.mp3]	<b>(限度)</b> <br> 理性の限度を超えないでください。<br> りせいのげんどをこえないでください。 <br> Please do not exceed the limits of reason.			
+<b>(限度)</b> <br> 理性の限度を超えないでください。	[sound:s8-3587_理性の限度を超えないでください。.mp3] <br> りせいのげんどをこえないでください。 <br> Please do not exceed the limits of reason.			
+[sound:k8-3588_構造.mp3]	構造 <br> こうぞう <br> structure, construction
+structure, construction	構造 <br> こうぞう <br> [sound:k8-3588_構造.mp3]
+構造	[sound:k8-3588_構造.mp3] <br> こうぞう <br> structure, construction
+[sound:s8-3588_彼は私の親です。.mp3]	<b>(親)</b> <br> 彼は私の親です。<br> かれはわたしのおやです。 <br> He is my parent.			
+<b>(親)</b> <br> 彼は私の親です。	[sound:s8-3588_彼は私の親です。.mp3] <br> かれはわたしのおやです。 <br> He is my parent.			
+[sound:k8-3589_製造.mp3]	製造 <br> せいぞう <br> manufacture, production
+manufacture, production	製造 <br> せいぞう <br> [sound:k8-3589_製造.mp3]
+製造	[sound:k8-3589_製造.mp3] <br> せいぞう <br> manufacture, production
+[sound:s8-3589_私たちは親友です。.mp3]	<b>(親)</b> <br> 私たちは親友です。<br> わたしたちはしんゆうです。 <br> We are close friends.			
+<b>(親)</b> <br> 私たちは親友です。	[sound:s8-3589_私たちは親友です。.mp3] <br> わたしたちはしんゆうです。 <br> We are close friends.			
+[sound:k8-3590_改造.mp3]	改造 <br> かいぞう <br> remodeling, remodelling, restructuring; modding
+remodeling, remodelling, restructuring; modding	改造 <br> かいぞう <br> [sound:k8-3590_改造.mp3]
+改造	[sound:k8-3590_改造.mp3] <br> かいぞう <br> remodeling, remodelling, restructuring; modding
+[sound:s8-3590_彼の父親は医者です。.mp3]	<b>(父親)</b> <br> 彼の父親は医者です。<br> かれのちちおやはいしゃです。 <br> His father is a doctor.			
+<b>(父親)</b> <br> 彼の父親は医者です。	[sound:s8-3590_彼の父親は医者です。.mp3] <br> かれのちちおやはいしゃです。 <br> His father is a doctor.			
+[sound:k8-3591_偽造.mp3]	偽造 <br> ぎぞう <br> forgery, falsification, fabrication, counterfeiting
+forgery, falsification, fabrication, counterfeiting	偽造 <br> ぎぞう <br> [sound:k8-3591_偽造.mp3]
+偽造	[sound:k8-3591_偽造.mp3] <br> ぎぞう <br> forgery, falsification, fabrication, counterfeiting
+[sound:s8-3591_彼女の母親は教師です。.mp3]	<b>(母親)</b> <br> 彼女の母親は教師です。<br> かのじょのははおやはきょうしです。 <br> Her mother is a teacher.			
+<b>(母親)</b> <br> 彼女の母親は教師です。	[sound:s8-3591_彼女の母親は教師です。.mp3] <br> かのじょのははおやはきょうしです。 <br> Her mother is a teacher.			
+[sound:k8-3592_木造.mp3]	木造 <br> もくぞう <br> wooden, made of wood
+wooden, made of wood	木造 <br> もくぞう <br> [sound:k8-3592_木造.mp3]
+木造	[sound:k8-3592_木造.mp3] <br> もくぞう <br> wooden, made of wood
+[sound:s8-3592_私の両親は共に故郷に住んでいます。.mp3]	<b>(両親)</b> <br> 私の両親は共に故郷に住んでいます。<br> わたしのりょうしんはともにこきょうにすんでいます。 <br> My parents both live in their hometown.			
+<b>(両親)</b> <br> 私の両親は共に故郷に住んでいます。	[sound:s8-3592_私の両親は共に故郷に住んでいます。.mp3] <br> わたしのりょうしんはともにこきょうにすんでいます。 <br> My parents both live in their hometown.			
+[sound:k8-3593_創造.mp3]	創造 <br> そうぞう <br> creation
+creation	創造 <br> そうぞう <br> [sound:k8-3593_創造.mp3]
+創造	[sound:k8-3593_創造.mp3] <br> そうぞう <br> creation
+[sound:s8-3593_彼らは親子で仲が良いです。.mp3]	<b>(親子)</b> <br> 彼らは親子で仲が良いです。<br> かれらはおやこでなかがよいです。 <br> They have a good relationship as parent and child.			
+<b>(親子)</b> <br> 彼らは親子で仲が良いです。	[sound:s8-3593_彼らは親子で仲が良いです。.mp3] <br> かれらはおやこでなかがよいです。 <br> They have a good relationship as parent and child.			
+[sound:k8-3594_造船.mp3]	造船 <br> ぞうせん <br> shipbuilding
+shipbuilding	造船 <br> ぞうせん <br> [sound:k8-3594_造船.mp3]
+造船	[sound:k8-3594_造船.mp3] <br> ぞうせん <br> shipbuilding
+[sound:s8-3594_彼は仕事で親方になりました。.mp3]	<b>(親方)</b> <br> 彼は仕事で親方になりました。<br> かれはしごとでおやかたになりました。 <br> He became a master in his job.			
+<b>(親方)</b> <br> 彼は仕事で親方になりました。	[sound:s8-3594_彼は仕事で親方になりました。.mp3] <br> かれはしごとでおやかたになりました。 <br> He became a master in his job.			
+[sound:k8-3595_造反.mp3]	造反 <br> ぞうはん <br> rebellion
+rebellion	造反 <br> ぞうはん <br> [sound:k8-3595_造反.mp3]
+造反	[sound:k8-3595_造反.mp3] <br> ぞうはん <br> rebellion
+[sound:s8-3595_彼女は動物と親しんでいます。.mp3]	<b>(親しむ)</b> <br> 彼女は動物と親しんでいます。<br> かのじょはどうぶつとしたしんでいます。 <br> She is close to animals.			
+<b>(親しむ)</b> <br> 彼女は動物と親しんでいます。	[sound:s8-3595_彼女は動物と親しんでいます。.mp3] <br> かのじょはどうぶつとしたしんでいます。 <br> She is close to animals.			
+[sound:k8-3596_造形.mp3]	造形 <br> ぞうけい <br> molding, moulding, modelling (i.e. plastic arts), modeling
+molding, moulding, modelling (i.e. plastic arts), modeling	造形 <br> ぞうけい <br> [sound:k8-3596_造形.mp3]
+造形	[sound:k8-3596_造形.mp3] <br> ぞうけい <br> molding, moulding, modelling (i.e. plastic arts), modeling
+[sound:s8-3596_彼は親類の集まりに出席しました。.mp3]	<b>(親類)</b> <br> 彼は親類の集まりに出席しました。<br> かれはしんるいのあつまりにしゅっせきしました。 <br> He attended a family gathering.			
+<b>(親類)</b> <br> 彼は親類の集まりに出席しました。	[sound:s8-3596_彼は親類の集まりに出席しました。.mp3] <br> かれはしんるいのあつまりにしゅっせきしました。 <br> He attended a family gathering.			
+[sound:k8-3597_造成.mp3]	造成 <br> ぞうせい <br> creation, clearing, reclamation
+creation, clearing, reclamation	造成 <br> ぞうせい <br> [sound:k8-3597_造成.mp3]
+造成	[sound:k8-3597_造成.mp3] <br> ぞうせい <br> creation, clearing, reclamation
+[sound:s8-3597_二国間の親善関係が強化されました。.mp3]	<b>(親善)</b> <br> 二国間の親善関係が強化されました。<br> にこっかんのしんぜんかんけいがきょうかされました。 <br> The bilateral relations were strengthened.			
+<b>(親善)</b> <br> 二国間の親善関係が強化されました。	[sound:s8-3597_二国間の親善関係が強化されました。.mp3] <br> にこっかんのしんぜんかんけいがきょうかされました。 <br> The bilateral relations were strengthened.			
+[sound:k8-3598_英.mp3]	英 <br> (kun: はなぶさ; on: エイ) <br> England, English
+England, English	英 <br> (kun: はなぶさ; on: エイ) <br> [sound:k8-3598_英.mp3]
+英	[sound:k8-3598_英.mp3] <br> (kun: はなぶさ; on: エイ) <br> England, English
+[sound:s8-3598_彼は肉親をとても大切にしています。.mp3]	<b>(肉親)</b> <br> 彼は肉親をとても大切にしています。<br> かれはにくしんをとてもたいせつにしています。 <br> He values his blood relatives very much.			
+<b>(肉親)</b> <br> 彼は肉親をとても大切にしています。	[sound:s8-3598_彼は肉親をとても大切にしています。.mp3] <br> かれはにくしんをとてもたいせつにしています。 <br> He values his blood relatives very much.			
+[sound:k8-3599_英語.mp3]	英語 <br> えいご <br> English (language)
+English (language)	英語 <br> えいご <br> [sound:k8-3599_英語.mp3]
+英語	[sound:k8-3599_英語.mp3] <br> えいご <br> English (language)
+[sound:s8-3599_彼は汗で額が濡れていた。.mp3]	<b>(額)</b> <br> 彼は汗で額が濡れていた。<br> かれはあせでひたいがぬれていた。 <br> His forehead was wet with sweat.			
+<b>(額)</b> <br> 彼は汗で額が濡れていた。	[sound:s8-3599_彼は汗で額が濡れていた。.mp3] <br> かれはあせでひたいがぬれていた。 <br> His forehead was wet with sweat.			
+[sound:k8-3600_英雄.mp3]	英雄 <br> えいゆう <br> hero, great man
+hero, great man	英雄 <br> えいゆう <br> [sound:k8-3600_英雄.mp3]
+英雄	[sound:k8-3600_英雄.mp3] <br> えいゆう <br> hero, great man
+[sound:s8-3600_彼女は絵を額に入れました。.mp3]	<b>(額)</b> <br> 彼女は絵を額に入れました。<br> かのじょはえをひたいにいれました。 <br> She put the picture in the frame.			
+<b>(額)</b> <br> 彼女は絵を額に入れました。	[sound:s8-3600_彼女は絵を額に入れました。.mp3] <br> かのじょはえをひたいにいれました。 <br> She put the picture in the frame.			

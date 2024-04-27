@@ -8,9 +8,9 @@
 INP='../merging/merged-kanji-cards.txt'
 OUTP='../cards-for-import'
 
-split -l 1409 ${INP}
+split -l 2000 ${INP}
 files=(x*)
 for item in ${files[*]}
 do
-  mv $item "${OUTP}/cards-${item}.txt"
+  mv $item "${OUTP}/cards-800-${item}.txt"
 done
