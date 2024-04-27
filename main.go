@@ -19,9 +19,9 @@ func main() {
 
 func splitter() {
 	const (
-		F1  = "merge1.txt"
-		F2  = "merge2.txt"
-		F3  = "merge3.txt"
+		F1  = "formatted-au-hke.txt"
+		F2  = "formatted-e-khau.txt"
+		F3  = "formatted-k-auhe.txt"
 		F4  = "merge4.txt"
 		F5  = "merge5.txt"
 		OUT = "merged-kanji-cards.txt"
